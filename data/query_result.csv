@@ -1,0 +1,7381 @@
+week,week_num,ra,total
+2020-08,8,Arniqueira,0
+2020-08,8,Brazlândia,0
+2020-08,8,Candangolândia,0
+2020-08,8,Ceilândia,0
+2020-08,8,Cruzeiro,0
+2020-08,8,Entorno DF,0
+2020-08,8,Fercal,0
+2020-08,8,Gama,0
+2020-08,8,Guará,2
+2020-08,8,Itapoã,0
+2020-08,8,Jardim Botânico,0
+2020-08,8,Lago Norte,1
+2020-08,8,Lago Sul,1
+2020-08,8,Núcleo Bandeirante,0
+2020-08,8,Outros Estados,0
+2020-08,8,Paranoá,0
+2020-08,8,Park Way,0
+2020-08,8,Planaltina,0
+2020-08,8,Plano Piloto,3
+2020-08,8,Pôr do Sol,0
+2020-08,8,Recanto das Emas,0
+2020-08,8,Riacho Fundo,0
+2020-08,8,Riacho Fundo II,0
+2020-08,8,SCIA,0
+2020-08,8,SIA,0
+2020-08,8,Samambaia,3
+2020-08,8,Santa Maria,0
+2020-08,8,Sistema Penitenciário,0
+2020-08,8,Sobradinho,1
+2020-08,8,Sobradinho II,0
+2020-08,8,Sudoeste/Octogonal,0
+2020-08,8,São Sebastião,1
+2020-08,8,Taguatinga,3
+2020-08,8,Varjão,0
+2020-08,8,Vicente Pires,0
+2020-08,8,Águas Claras,3
+2020-09,9,Arniqueira,0
+2020-09,9,Brazlândia,1
+2020-09,9,Candangolândia,0
+2020-09,9,Ceilândia,1
+2020-09,9,Cruzeiro,1
+2020-09,9,Entorno DF,1
+2020-09,9,Fercal,0
+2020-09,9,Gama,3
+2020-09,9,Guará,3
+2020-09,9,Itapoã,0
+2020-09,9,Jardim Botânico,0
+2020-09,9,Lago Norte,1
+2020-09,9,Lago Sul,5
+2020-09,9,Núcleo Bandeirante,0
+2020-09,9,Outros Estados,3
+2020-09,9,Paranoá,0
+2020-09,9,Park Way,0
+2020-09,9,Planaltina,0
+2020-09,9,Plano Piloto,6
+2020-09,9,Pôr do Sol,0
+2020-09,9,Recanto das Emas,0
+2020-09,9,Riacho Fundo,1
+2020-09,9,Riacho Fundo II,0
+2020-09,9,SCIA,0
+2020-09,9,SIA,0
+2020-09,9,Samambaia,3
+2020-09,9,Santa Maria,0
+2020-09,9,Sistema Penitenciário,0
+2020-09,9,Sobradinho,3
+2020-09,9,Sobradinho II,0
+2020-09,9,Sudoeste/Octogonal,2
+2020-09,9,São Sebastião,1
+2020-09,9,Taguatinga,2
+2020-09,9,Varjão,0
+2020-09,9,Vicente Pires,1
+2020-09,9,Águas Claras,6
+2020-10,10,Arniqueira,0
+2020-10,10,Brazlândia,1
+2020-10,10,Candangolândia,0
+2020-10,10,Ceilândia,12
+2020-10,10,Cruzeiro,4
+2020-10,10,Entorno DF,2
+2020-10,10,Fercal,0
+2020-10,10,Gama,4
+2020-10,10,Guará,15
+2020-10,10,Itapoã,0
+2020-10,10,Jardim Botânico,6
+2020-10,10,Lago Norte,5
+2020-10,10,Lago Sul,22
+2020-10,10,Núcleo Bandeirante,2
+2020-10,10,Outros Estados,9
+2020-10,10,Paranoá,3
+2020-10,10,Park Way,2
+2020-10,10,Planaltina,6
+2020-10,10,Plano Piloto,46
+2020-10,10,Pôr do Sol,1
+2020-10,10,Recanto das Emas,2
+2020-10,10,Riacho Fundo,3
+2020-10,10,Riacho Fundo II,0
+2020-10,10,SCIA,0
+2020-10,10,SIA,0
+2020-10,10,Samambaia,6
+2020-10,10,Santa Maria,3
+2020-10,10,Sistema Penitenciário,1
+2020-10,10,Sobradinho,3
+2020-10,10,Sobradinho II,0
+2020-10,10,Sudoeste/Octogonal,11
+2020-10,10,São Sebastião,6
+2020-10,10,Taguatinga,6
+2020-10,10,Varjão,0
+2020-10,10,Vicente Pires,0
+2020-10,10,Águas Claras,25
+2020-11,11,Arniqueira,1
+2020-11,11,Brazlândia,2
+2020-11,11,Candangolândia,2
+2020-11,11,Ceilândia,17
+2020-11,11,Cruzeiro,8
+2020-11,11,Entorno DF,4
+2020-11,11,Fercal,0
+2020-11,11,Gama,20
+2020-11,11,Guará,26
+2020-11,11,Itapoã,3
+2020-11,11,Jardim Botânico,7
+2020-11,11,Lago Norte,13
+2020-11,11,Lago Sul,40
+2020-11,11,Núcleo Bandeirante,3
+2020-11,11,Outros Estados,25
+2020-11,11,Paranoá,6
+2020-11,11,Park Way,9
+2020-11,11,Planaltina,7
+2020-11,11,Plano Piloto,96
+2020-11,11,Pôr do Sol,0
+2020-11,11,Recanto das Emas,2
+2020-11,11,Riacho Fundo,3
+2020-11,11,Riacho Fundo II,0
+2020-11,11,SCIA,0
+2020-11,11,SIA,0
+2020-11,11,Samambaia,16
+2020-11,11,Santa Maria,6
+2020-11,11,Sistema Penitenciário,0
+2020-11,11,Sobradinho,20
+2020-11,11,Sobradinho II,4
+2020-11,11,Sudoeste/Octogonal,27
+2020-11,11,São Sebastião,4
+2020-11,11,Taguatinga,20
+2020-11,11,Varjão,1
+2020-11,11,Vicente Pires,12
+2020-11,11,Águas Claras,41
+2020-12,12,Arniqueira,2
+2020-12,12,Brazlândia,2
+2020-12,12,Candangolândia,1
+2020-12,12,Ceilândia,22
+2020-12,12,Cruzeiro,3
+2020-12,12,Entorno DF,11
+2020-12,12,Fercal,0
+2020-12,12,Gama,10
+2020-12,12,Guará,13
+2020-12,12,Itapoã,0
+2020-12,12,Jardim Botânico,3
+2020-12,12,Lago Norte,5
+2020-12,12,Lago Sul,16
+2020-12,12,Núcleo Bandeirante,3
+2020-12,12,Outros Estados,13
+2020-12,12,Paranoá,4
+2020-12,12,Park Way,2
+2020-12,12,Planaltina,6
+2020-12,12,Plano Piloto,59
+2020-12,12,Pôr do Sol,2
+2020-12,12,Recanto das Emas,3
+2020-12,12,Riacho Fundo,1
+2020-12,12,Riacho Fundo II,1
+2020-12,12,SCIA,1
+2020-12,12,SIA,0
+2020-12,12,Samambaia,11
+2020-12,12,Santa Maria,8
+2020-12,12,Sistema Penitenciário,0
+2020-12,12,Sobradinho,10
+2020-12,12,Sobradinho II,2
+2020-12,12,Sudoeste/Octogonal,15
+2020-12,12,São Sebastião,3
+2020-12,12,Taguatinga,25
+2020-12,12,Varjão,0
+2020-12,12,Vicente Pires,13
+2020-12,12,Águas Claras,28
+2020-13,13,Arniqueira,8
+2020-13,13,Brazlândia,1
+2020-13,13,Candangolândia,1
+2020-13,13,Ceilândia,34
+2020-13,13,Cruzeiro,0
+2020-13,13,Entorno DF,11
+2020-13,13,Fercal,1
+2020-13,13,Gama,11
+2020-13,13,Guará,24
+2020-13,13,Itapoã,2
+2020-13,13,Jardim Botânico,5
+2020-13,13,Lago Norte,12
+2020-13,13,Lago Sul,6
+2020-13,13,Núcleo Bandeirante,2
+2020-13,13,Outros Estados,18
+2020-13,13,Paranoá,3
+2020-13,13,Park Way,1
+2020-13,13,Planaltina,6
+2020-13,13,Plano Piloto,43
+2020-13,13,Pôr do Sol,0
+2020-13,13,Recanto das Emas,5
+2020-13,13,Riacho Fundo,4
+2020-13,13,Riacho Fundo II,4
+2020-13,13,SCIA,2
+2020-13,13,SIA,0
+2020-13,13,Samambaia,16
+2020-13,13,Santa Maria,15
+2020-13,13,Sistema Penitenciário,8
+2020-13,13,Sobradinho,14
+2020-13,13,Sobradinho II,0
+2020-13,13,Sudoeste/Octogonal,5
+2020-13,13,São Sebastião,11
+2020-13,13,Taguatinga,25
+2020-13,13,Varjão,0
+2020-13,13,Vicente Pires,10
+2020-13,13,Águas Claras,29
+2020-14,14,Arniqueira,3
+2020-14,14,Brazlândia,6
+2020-14,14,Candangolândia,4
+2020-14,14,Ceilândia,26
+2020-14,14,Cruzeiro,4
+2020-14,14,Entorno DF,20
+2020-14,14,Fercal,2
+2020-14,14,Gama,28
+2020-14,14,Guará,16
+2020-14,14,Itapoã,1
+2020-14,14,Jardim Botânico,8
+2020-14,14,Lago Norte,6
+2020-14,14,Lago Sul,8
+2020-14,14,Núcleo Bandeirante,7
+2020-14,14,Outros Estados,25
+2020-14,14,Paranoá,4
+2020-14,14,Park Way,5
+2020-14,14,Planaltina,12
+2020-14,14,Plano Piloto,40
+2020-14,14,Pôr do Sol,2
+2020-14,14,Recanto das Emas,19
+2020-14,14,Riacho Fundo,5
+2020-14,14,Riacho Fundo II,3
+2020-14,14,SCIA,6
+2020-14,14,SIA,0
+2020-14,14,Samambaia,17
+2020-14,14,Santa Maria,10
+2020-14,14,Sistema Penitenciário,28
+2020-14,14,Sobradinho,12
+2020-14,14,Sobradinho II,0
+2020-14,14,Sudoeste/Octogonal,13
+2020-14,14,São Sebastião,17
+2020-14,14,Taguatinga,31
+2020-14,14,Varjão,0
+2020-14,14,Vicente Pires,9
+2020-14,14,Águas Claras,30
+2020-15,15,Arniqueira,3
+2020-15,15,Brazlândia,5
+2020-15,15,Candangolândia,3
+2020-15,15,Ceilândia,45
+2020-15,15,Cruzeiro,6
+2020-15,15,Entorno DF,14
+2020-15,15,Fercal,0
+2020-15,15,Gama,17
+2020-15,15,Guará,35
+2020-15,15,Itapoã,6
+2020-15,15,Jardim Botânico,7
+2020-15,15,Lago Norte,2
+2020-15,15,Lago Sul,10
+2020-15,15,Núcleo Bandeirante,9
+2020-15,15,Outros Estados,33
+2020-15,15,Paranoá,4
+2020-15,15,Park Way,9
+2020-15,15,Planaltina,21
+2020-15,15,Plano Piloto,70
+2020-15,15,Pôr do Sol,1
+2020-15,15,Recanto das Emas,12
+2020-15,15,Riacho Fundo,13
+2020-15,15,Riacho Fundo II,2
+2020-15,15,SCIA,9
+2020-15,15,SIA,2
+2020-15,15,Samambaia,29
+2020-15,15,Santa Maria,22
+2020-15,15,Sistema Penitenciário,86
+2020-15,15,Sobradinho,15
+2020-15,15,Sobradinho II,7
+2020-15,15,Sudoeste/Octogonal,11
+2020-15,15,São Sebastião,24
+2020-15,15,Taguatinga,38
+2020-15,15,Varjão,0
+2020-15,15,Vicente Pires,9
+2020-15,15,Águas Claras,46
+2020-16,16,Arniqueira,5
+2020-16,16,Brazlândia,14
+2020-16,16,Candangolândia,4
+2020-16,16,Ceilândia,67
+2020-16,16,Cruzeiro,8
+2020-16,16,Entorno DF,45
+2020-16,16,Fercal,1
+2020-16,16,Gama,30
+2020-16,16,Guará,39
+2020-16,16,Itapoã,4
+2020-16,16,Jardim Botânico,13
+2020-16,16,Lago Norte,7
+2020-16,16,Lago Sul,10
+2020-16,16,Núcleo Bandeirante,6
+2020-16,16,Outros Estados,51
+2020-16,16,Paranoá,8
+2020-16,16,Park Way,4
+2020-16,16,Planaltina,40
+2020-16,16,Plano Piloto,69
+2020-16,16,Pôr do Sol,5
+2020-16,16,Recanto das Emas,23
+2020-16,16,Riacho Fundo,11
+2020-16,16,Riacho Fundo II,4
+2020-16,16,SCIA,10
+2020-16,16,SIA,0
+2020-16,16,Samambaia,50
+2020-16,16,Santa Maria,34
+2020-16,16,Sistema Penitenciário,130
+2020-16,16,Sobradinho,26
+2020-16,16,Sobradinho II,8
+2020-16,16,Sudoeste/Octogonal,24
+2020-16,16,São Sebastião,32
+2020-16,16,Taguatinga,62
+2020-16,16,Varjão,2
+2020-16,16,Vicente Pires,11
+2020-16,16,Águas Claras,74
+2020-17,17,Arniqueira,4
+2020-17,17,Brazlândia,19
+2020-17,17,Candangolândia,5
+2020-17,17,Ceilândia,98
+2020-17,17,Cruzeiro,11
+2020-17,17,Entorno DF,71
+2020-17,17,Fercal,3
+2020-17,17,Gama,61
+2020-17,17,Guará,58
+2020-17,17,Itapoã,14
+2020-17,17,Jardim Botânico,15
+2020-17,17,Lago Norte,16
+2020-17,17,Lago Sul,32
+2020-17,17,Núcleo Bandeirante,11
+2020-17,17,Outros Estados,69
+2020-17,17,Paranoá,57
+2020-17,17,Park Way,9
+2020-17,17,Planaltina,77
+2020-17,17,Plano Piloto,120
+2020-17,17,Pôr do Sol,8
+2020-17,17,Recanto das Emas,29
+2020-17,17,Riacho Fundo,29
+2020-17,17,Riacho Fundo II,11
+2020-17,17,SCIA,14
+2020-17,17,SIA,8
+2020-17,17,Samambaia,88
+2020-17,17,Santa Maria,29
+2020-17,17,Sistema Penitenciário,186
+2020-17,17,Sobradinho,38
+2020-17,17,Sobradinho II,4
+2020-17,17,Sudoeste/Octogonal,26
+2020-17,17,São Sebastião,36
+2020-17,17,Taguatinga,90
+2020-17,17,Varjão,2
+2020-17,17,Vicente Pires,12
+2020-17,17,Águas Claras,71
+2020-18,18,Arniqueira,8
+2020-18,18,Brazlândia,42
+2020-18,18,Candangolândia,18
+2020-18,18,Ceilândia,247
+2020-18,18,Cruzeiro,26
+2020-18,18,Entorno DF,97
+2020-18,18,Fercal,2
+2020-18,18,Gama,106
+2020-18,18,Guará,91
+2020-18,18,Itapoã,24
+2020-18,18,Jardim Botânico,36
+2020-18,18,Lago Norte,33
+2020-18,18,Lago Sul,41
+2020-18,18,Núcleo Bandeirante,19
+2020-18,18,Outros Estados,102
+2020-18,18,Paranoá,76
+2020-18,18,Park Way,8
+2020-18,18,Planaltina,70
+2020-18,18,Plano Piloto,147
+2020-18,18,Pôr do Sol,15
+2020-18,18,Recanto das Emas,56
+2020-18,18,Riacho Fundo,35
+2020-18,18,Riacho Fundo II,16
+2020-18,18,SCIA,17
+2020-18,18,SIA,5
+2020-18,18,Samambaia,178
+2020-18,18,Santa Maria,59
+2020-18,18,Sistema Penitenciário,231
+2020-18,18,Sobradinho,75
+2020-18,18,Sobradinho II,14
+2020-18,18,Sudoeste/Octogonal,27
+2020-18,18,São Sebastião,76
+2020-18,18,Taguatinga,179
+2020-18,18,Varjão,3
+2020-18,18,Vicente Pires,40
+2020-18,18,Águas Claras,101
+2020-19,19,Arniqueira,10
+2020-19,19,Brazlândia,42
+2020-19,19,Candangolândia,9
+2020-19,19,Ceilândia,327
+2020-19,19,Cruzeiro,37
+2020-19,19,Entorno DF,147
+2020-19,19,Fercal,1
+2020-19,19,Gama,142
+2020-19,19,Guará,146
+2020-19,19,Itapoã,48
+2020-19,19,Jardim Botânico,26
+2020-19,19,Lago Norte,35
+2020-19,19,Lago Sul,36
+2020-19,19,Núcleo Bandeirante,37
+2020-19,19,Outros Estados,156
+2020-19,19,Paranoá,114
+2020-19,19,Park Way,15
+2020-19,19,Planaltina,100
+2020-19,19,Plano Piloto,229
+2020-19,19,Pôr do Sol,20
+2020-19,19,Recanto das Emas,86
+2020-19,19,Riacho Fundo,41
+2020-19,19,Riacho Fundo II,21
+2020-19,19,SCIA,68
+2020-19,19,SIA,1
+2020-19,19,Samambaia,253
+2020-19,19,Santa Maria,107
+2020-19,19,Sistema Penitenciário,98
+2020-19,19,Sobradinho,128
+2020-19,19,Sobradinho II,17
+2020-19,19,Sudoeste/Octogonal,53
+2020-19,19,São Sebastião,109
+2020-19,19,Taguatinga,225
+2020-19,19,Varjão,2
+2020-19,19,Vicente Pires,39
+2020-19,19,Águas Claras,103
+2020-20,20,Arniqueira,10
+2020-20,20,Brazlândia,60
+2020-20,20,Candangolândia,16
+2020-20,20,Ceilândia,523
+2020-20,20,Cruzeiro,31
+2020-20,20,Entorno DF,218
+2020-20,20,Fercal,8
+2020-20,20,Gama,198
+2020-20,20,Guará,178
+2020-20,20,Itapoã,122
+2020-20,20,Jardim Botânico,31
+2020-20,20,Lago Norte,21
+2020-20,20,Lago Sul,39
+2020-20,20,Núcleo Bandeirante,61
+2020-20,20,Outros Estados,179
+2020-20,20,Paranoá,186
+2020-20,20,Park Way,28
+2020-20,20,Planaltina,150
+2020-20,20,Plano Piloto,248
+2020-20,20,Pôr do Sol,28
+2020-20,20,Recanto das Emas,131
+2020-20,20,Riacho Fundo,81
+2020-20,20,Riacho Fundo II,29
+2020-20,20,SCIA,105
+2020-20,20,SIA,2
+2020-20,20,Samambaia,284
+2020-20,20,Santa Maria,122
+2020-20,20,Sistema Penitenciário,83
+2020-20,20,Sobradinho,129
+2020-20,20,Sobradinho II,47
+2020-20,20,Sudoeste/Octogonal,65
+2020-20,20,São Sebastião,125
+2020-20,20,Taguatinga,310
+2020-20,20,Varjão,1
+2020-20,20,Vicente Pires,47
+2020-20,20,Águas Claras,140
+2020-21,21,Arniqueira,20
+2020-21,21,Brazlândia,95
+2020-21,21,Candangolândia,26
+2020-21,21,Ceilândia,762
+2020-21,21,Cruzeiro,43
+2020-21,21,Entorno DF,312
+2020-21,21,Fercal,2
+2020-21,21,Gama,313
+2020-21,21,Guará,250
+2020-21,21,Itapoã,106
+2020-21,21,Jardim Botânico,61
+2020-21,21,Lago Norte,54
+2020-21,21,Lago Sul,74
+2020-21,21,Núcleo Bandeirante,36
+2020-21,21,Outros Estados,294
+2020-21,21,Paranoá,293
+2020-21,21,Park Way,24
+2020-21,21,Planaltina,200
+2020-21,21,Plano Piloto,424
+2020-21,21,Pôr do Sol,46
+2020-21,21,Recanto das Emas,191
+2020-21,21,Riacho Fundo,195
+2020-21,21,Riacho Fundo II,61
+2020-21,21,SCIA,155
+2020-21,21,SIA,8
+2020-21,21,Samambaia,515
+2020-21,21,Santa Maria,226
+2020-21,21,Sistema Penitenciário,124
+2020-21,21,Sobradinho,192
+2020-21,21,Sobradinho II,48
+2020-21,21,Sudoeste/Octogonal,93
+2020-21,21,São Sebastião,171
+2020-21,21,Taguatinga,424
+2020-21,21,Varjão,6
+2020-21,21,Vicente Pires,75
+2020-21,21,Águas Claras,179
+2020-22,22,Arniqueira,36
+2020-22,22,Brazlândia,166
+2020-22,22,Candangolândia,59
+2020-22,22,Ceilândia,1271
+2020-22,22,Cruzeiro,64
+2020-22,22,Entorno DF,433
+2020-22,22,Fercal,7
+2020-22,22,Gama,478
+2020-22,22,Guará,347
+2020-22,22,Itapoã,192
+2020-22,22,Jardim Botânico,89
+2020-22,22,Lago Norte,73
+2020-22,22,Lago Sul,96
+2020-22,22,Núcleo Bandeirante,75
+2020-22,22,Outros Estados,579
+2020-22,22,Paranoá,458
+2020-22,22,Park Way,35
+2020-22,22,Planaltina,318
+2020-22,22,Plano Piloto,566
+2020-22,22,Pôr do Sol,69
+2020-22,22,Recanto das Emas,331
+2020-22,22,Riacho Fundo,262
+2020-22,22,Riacho Fundo II,149
+2020-22,22,SCIA,116
+2020-22,22,SIA,8
+2020-22,22,Samambaia,838
+2020-22,22,Santa Maria,339
+2020-22,22,Sistema Penitenciário,226
+2020-22,22,Sobradinho,407
+2020-22,22,Sobradinho II,107
+2020-22,22,Sudoeste/Octogonal,139
+2020-22,22,São Sebastião,304
+2020-22,22,Taguatinga,670
+2020-22,22,Varjão,8
+2020-22,22,Vicente Pires,131
+2020-22,22,Águas Claras,268
+2020-23,23,Arniqueira,34
+2020-23,23,Brazlândia,169
+2020-23,23,Candangolândia,80
+2020-23,23,Ceilândia,1364
+2020-23,23,Cruzeiro,75
+2020-23,23,Entorno DF,454
+2020-23,23,Fercal,4
+2020-23,23,Gama,606
+2020-23,23,Guará,327
+2020-23,23,Itapoã,300
+2020-23,23,Jardim Botânico,186
+2020-23,23,Lago Norte,82
+2020-23,23,Lago Sul,134
+2020-23,23,Núcleo Bandeirante,97
+2020-23,23,Outros Estados,588
+2020-23,23,Paranoá,555
+2020-23,23,Park Way,67
+2020-23,23,Planaltina,312
+2020-23,23,Plano Piloto,698
+2020-23,23,Pôr do Sol,72
+2020-23,23,Recanto das Emas,325
+2020-23,23,Riacho Fundo,196
+2020-23,23,Riacho Fundo II,287
+2020-23,23,SCIA,50
+2020-23,23,SIA,23
+2020-23,23,Samambaia,760
+2020-23,23,Santa Maria,398
+2020-23,23,Sistema Penitenciário,107
+2020-23,23,Sobradinho,447
+2020-23,23,Sobradinho II,113
+2020-23,23,Sudoeste/Octogonal,105
+2020-23,23,São Sebastião,449
+2020-23,23,Taguatinga,684
+2020-23,23,Varjão,22
+2020-23,23,Vicente Pires,121
+2020-23,23,Águas Claras,349
+2020-24,24,Arniqueira,34
+2020-24,24,Brazlândia,159
+2020-24,24,Candangolândia,158
+2020-24,24,Ceilândia,1946
+2020-24,24,Cruzeiro,105
+2020-24,24,Entorno DF,562
+2020-24,24,Fercal,6
+2020-24,24,Gama,544
+2020-24,24,Guará,395
+2020-24,24,Itapoã,287
+2020-24,24,Jardim Botânico,194
+2020-24,24,Lago Norte,86
+2020-24,24,Lago Sul,164
+2020-24,24,Núcleo Bandeirante,103
+2020-24,24,Outros Estados,910
+2020-24,24,Paranoá,467
+2020-24,24,Park Way,70
+2020-24,24,Planaltina,397
+2020-24,24,Plano Piloto,802
+2020-24,24,Pôr do Sol,101
+2020-24,24,Recanto das Emas,489
+2020-24,24,Riacho Fundo,190
+2020-24,24,Riacho Fundo II,237
+2020-24,24,SCIA,77
+2020-24,24,SIA,3
+2020-24,24,Samambaia,958
+2020-24,24,Santa Maria,450
+2020-24,24,Sistema Penitenciário,172
+2020-24,24,Sobradinho,538
+2020-24,24,Sobradinho II,144
+2020-24,24,Sudoeste/Octogonal,149
+2020-24,24,São Sebastião,526
+2020-24,24,Taguatinga,1017
+2020-24,24,Varjão,38
+2020-24,24,Vicente Pires,193
+2020-24,24,Águas Claras,449
+2020-25,25,Arniqueira,43
+2020-25,25,Brazlândia,159
+2020-25,25,Candangolândia,119
+2020-25,25,Ceilândia,1909
+2020-25,25,Cruzeiro,93
+2020-25,25,Entorno DF,261
+2020-25,25,Fercal,12
+2020-25,25,Gama,577
+2020-25,25,Guará,440
+2020-25,25,Itapoã,117
+2020-25,25,Jardim Botânico,128
+2020-25,25,Lago Norte,95
+2020-25,25,Lago Sul,156
+2020-25,25,Núcleo Bandeirante,91
+2020-25,25,Outros Estados,983
+2020-25,25,Paranoá,228
+2020-25,25,Park Way,71
+2020-25,25,Planaltina,413
+2020-25,25,Plano Piloto,834
+2020-25,25,Pôr do Sol,65
+2020-25,25,Recanto das Emas,407
+2020-25,25,Riacho Fundo,129
+2020-25,25,Riacho Fundo II,154
+2020-25,25,SCIA,55
+2020-25,25,SIA,1
+2020-25,25,Samambaia,718
+2020-25,25,Santa Maria,330
+2020-25,25,Sistema Penitenciário,168
+2020-25,25,Sobradinho,481
+2020-25,25,Sobradinho II,159
+2020-25,25,Sudoeste/Octogonal,169
+2020-25,25,São Sebastião,378
+2020-25,25,Taguatinga,928
+2020-25,25,Varjão,38
+2020-25,25,Vicente Pires,152
+2020-25,25,Águas Claras,450
+2020-26,26,Arniqueira,45
+2020-26,26,Brazlândia,187
+2020-26,26,Candangolândia,55
+2020-26,26,Ceilândia,1408
+2020-26,26,Cruzeiro,93
+2020-26,26,Entorno DF,125
+2020-26,26,Fercal,8
+2020-26,26,Gama,684
+2020-26,26,Guará,502
+2020-26,26,Itapoã,86
+2020-26,26,Jardim Botânico,82
+2020-26,26,Lago Norte,95
+2020-26,26,Lago Sul,92
+2020-26,26,Núcleo Bandeirante,102
+2020-26,26,Outros Estados,1299
+2020-26,26,Paranoá,213
+2020-26,26,Park Way,63
+2020-26,26,Planaltina,406
+2020-26,26,Plano Piloto,887
+2020-26,26,Pôr do Sol,76
+2020-26,26,Recanto das Emas,332
+2020-26,26,Riacho Fundo,192
+2020-26,26,Riacho Fundo II,136
+2020-26,26,SCIA,48
+2020-26,26,SIA,1
+2020-26,26,Samambaia,785
+2020-26,26,Santa Maria,415
+2020-26,26,Sistema Penitenciário,52
+2020-26,26,Sobradinho,395
+2020-26,26,Sobradinho II,61
+2020-26,26,Sudoeste/Octogonal,161
+2020-26,26,São Sebastião,252
+2020-26,26,Taguatinga,931
+2020-26,26,Varjão,16
+2020-26,26,Vicente Pires,197
+2020-26,26,Águas Claras,552
+2020-27,27,Arniqueira,54
+2020-27,27,Brazlândia,184
+2020-27,27,Candangolândia,51
+2020-27,27,Ceilândia,1467
+2020-27,27,Cruzeiro,124
+2020-27,27,Entorno DF,6
+2020-27,27,Fercal,8
+2020-27,27,Gama,646
+2020-27,27,Guará,587
+2020-27,27,Itapoã,83
+2020-27,27,Jardim Botânico,80
+2020-27,27,Lago Norte,95
+2020-27,27,Lago Sul,168
+2020-27,27,Núcleo Bandeirante,102
+2020-27,27,Outros Estados,1704
+2020-27,27,Paranoá,210
+2020-27,27,Park Way,68
+2020-27,27,Planaltina,476
+2020-27,27,Plano Piloto,1317
+2020-27,27,Pôr do Sol,46
+2020-27,27,Recanto das Emas,319
+2020-27,27,Riacho Fundo,163
+2020-27,27,Riacho Fundo II,161
+2020-27,27,SCIA,65
+2020-27,27,SIA,1
+2020-27,27,Samambaia,754
+2020-27,27,Santa Maria,469
+2020-27,27,Sistema Penitenciário,39
+2020-27,27,Sobradinho,420
+2020-27,27,Sobradinho II,79
+2020-27,27,Sudoeste/Octogonal,215
+2020-27,27,São Sebastião,323
+2020-27,27,Taguatinga,918
+2020-27,27,Varjão,18
+2020-27,27,Vicente Pires,181
+2020-27,27,Águas Claras,586
+2020-28,28,Arniqueira,46
+2020-28,28,Brazlândia,164
+2020-28,28,Candangolândia,70
+2020-28,28,Ceilândia,1446
+2020-28,28,Cruzeiro,125
+2020-28,28,Entorno DF,0
+2020-28,28,Fercal,6
+2020-28,28,Gama,580
+2020-28,28,Guará,567
+2020-28,28,Itapoã,90
+2020-28,28,Jardim Botânico,101
+2020-28,28,Lago Norte,116
+2020-28,28,Lago Sul,164
+2020-28,28,Núcleo Bandeirante,89
+2020-28,28,Outros Estados,1883
+2020-28,28,Paranoá,168
+2020-28,28,Park Way,69
+2020-28,28,Planaltina,406
+2020-28,28,Plano Piloto,983
+2020-28,28,Pôr do Sol,52
+2020-28,28,Recanto das Emas,288
+2020-28,28,Riacho Fundo,154
+2020-28,28,Riacho Fundo II,156
+2020-28,28,SCIA,68
+2020-28,28,SIA,0
+2020-28,28,Samambaia,675
+2020-28,28,Santa Maria,433
+2020-28,28,Sistema Penitenciário,43
+2020-28,28,Sobradinho,405
+2020-28,28,Sobradinho II,54
+2020-28,28,Sudoeste/Octogonal,243
+2020-28,28,São Sebastião,236
+2020-28,28,Taguatinga,1024
+2020-28,28,Varjão,19
+2020-28,28,Vicente Pires,243
+2020-28,28,Águas Claras,671
+2020-29,29,Arniqueira,67
+2020-29,29,Brazlândia,173
+2020-29,29,Candangolândia,77
+2020-29,29,Ceilândia,1503
+2020-29,29,Cruzeiro,131
+2020-29,29,Entorno DF,0
+2020-29,29,Fercal,9
+2020-29,29,Gama,610
+2020-29,29,Guará,614
+2020-29,29,Itapoã,80
+2020-29,29,Jardim Botânico,101
+2020-29,29,Lago Norte,139
+2020-29,29,Lago Sul,196
+2020-29,29,Núcleo Bandeirante,103
+2020-29,29,Outros Estados,1849
+2020-29,29,Paranoá,178
+2020-29,29,Park Way,103
+2020-29,29,Planaltina,457
+2020-29,29,Plano Piloto,1120
+2020-29,29,Pôr do Sol,47
+2020-29,29,Recanto das Emas,335
+2020-29,29,Riacho Fundo,182
+2020-29,29,Riacho Fundo II,142
+2020-29,29,SCIA,53
+2020-29,29,SIA,1
+2020-29,29,Samambaia,795
+2020-29,29,Santa Maria,391
+2020-29,29,Sistema Penitenciário,20
+2020-29,29,Sobradinho,412
+2020-29,29,Sobradinho II,51
+2020-29,29,Sudoeste/Octogonal,275
+2020-29,29,São Sebastião,275
+2020-29,29,Taguatinga,1155
+2020-29,29,Varjão,9
+2020-29,29,Vicente Pires,246
+2020-29,29,Águas Claras,779
+2020-30,30,Arniqueira,59
+2020-30,30,Brazlândia,186
+2020-30,30,Candangolândia,69
+2020-30,30,Ceilândia,1421
+2020-30,30,Cruzeiro,137
+2020-30,30,Entorno DF,1
+2020-30,30,Fercal,8
+2020-30,30,Gama,702
+2020-30,30,Guará,648
+2020-30,30,Itapoã,88
+2020-30,30,Jardim Botânico,105
+2020-30,30,Lago Norte,130
+2020-30,30,Lago Sul,241
+2020-30,30,Núcleo Bandeirante,80
+2020-30,30,Outros Estados,1624
+2020-30,30,Paranoá,160
+2020-30,30,Park Way,95
+2020-30,30,Planaltina,406
+2020-30,30,Plano Piloto,1166
+2020-30,30,Pôr do Sol,57
+2020-30,30,Recanto das Emas,296
+2020-30,30,Riacho Fundo,201
+2020-30,30,Riacho Fundo II,137
+2020-30,30,SCIA,75
+2020-30,30,SIA,1
+2020-30,30,Samambaia,761
+2020-30,30,Santa Maria,446
+2020-30,30,Sistema Penitenciário,17
+2020-30,30,Sobradinho,471
+2020-30,30,Sobradinho II,73
+2020-30,30,Sudoeste/Octogonal,303
+2020-30,30,São Sebastião,263
+2020-30,30,Taguatinga,1137
+2020-30,30,Varjão,28
+2020-30,30,Vicente Pires,297
+2020-30,30,Águas Claras,744
+2020-31,31,Arniqueira,58
+2020-31,31,Brazlândia,186
+2020-31,31,Candangolândia,61
+2020-31,31,Ceilândia,1423
+2020-31,31,Cruzeiro,115
+2020-31,31,Entorno DF,0
+2020-31,31,Fercal,10
+2020-31,31,Gama,596
+2020-31,31,Guará,592
+2020-31,31,Itapoã,58
+2020-31,31,Jardim Botânico,72
+2020-31,31,Lago Norte,158
+2020-31,31,Lago Sul,141
+2020-31,31,Núcleo Bandeirante,104
+2020-31,31,Outros Estados,1643
+2020-31,31,Paranoá,138
+2020-31,31,Park Way,94
+2020-31,31,Planaltina,483
+2020-31,31,Plano Piloto,1074
+2020-31,31,Pôr do Sol,50
+2020-31,31,Recanto das Emas,283
+2020-31,31,Riacho Fundo,193
+2020-31,31,Riacho Fundo II,136
+2020-31,31,SCIA,61
+2020-31,31,SIA,0
+2020-31,31,Samambaia,751
+2020-31,31,Santa Maria,389
+2020-31,31,Sistema Penitenciário,10
+2020-31,31,Sobradinho,368
+2020-31,31,Sobradinho II,56
+2020-31,31,Sudoeste/Octogonal,279
+2020-31,31,São Sebastião,222
+2020-31,31,Taguatinga,1117
+2020-31,31,Varjão,16
+2020-31,31,Vicente Pires,272
+2020-31,31,Águas Claras,612
+2020-32,32,Arniqueira,52
+2020-32,32,Brazlândia,171
+2020-32,32,Candangolândia,58
+2020-32,32,Ceilândia,1429
+2020-32,32,Cruzeiro,140
+2020-32,32,Entorno DF,0
+2020-32,32,Fercal,4
+2020-32,32,Gama,634
+2020-32,32,Guará,632
+2020-32,32,Itapoã,54
+2020-32,32,Jardim Botânico,94
+2020-32,32,Lago Norte,136
+2020-32,32,Lago Sul,154
+2020-32,32,Núcleo Bandeirante,119
+2020-32,32,Outros Estados,1703
+2020-32,32,Paranoá,135
+2020-32,32,Park Way,89
+2020-32,32,Planaltina,520
+2020-32,32,Plano Piloto,1116
+2020-32,32,Pôr do Sol,38
+2020-32,32,Recanto das Emas,325
+2020-32,32,Riacho Fundo,179
+2020-32,32,Riacho Fundo II,152
+2020-32,32,SCIA,40
+2020-32,32,SIA,2
+2020-32,32,Samambaia,760
+2020-32,32,Santa Maria,446
+2020-32,32,Sistema Penitenciário,11
+2020-32,32,Sobradinho,433
+2020-32,32,Sobradinho II,65
+2020-32,32,Sudoeste/Octogonal,270
+2020-32,32,São Sebastião,227
+2020-32,32,Taguatinga,1226
+2020-32,32,Varjão,16
+2020-32,32,Vicente Pires,318
+2020-32,32,Águas Claras,702
+2020-33,33,Arniqueira,53
+2020-33,33,Brazlândia,164
+2020-33,33,Candangolândia,49
+2020-33,33,Ceilândia,1276
+2020-33,33,Cruzeiro,144
+2020-33,33,Entorno DF,0
+2020-33,33,Fercal,9
+2020-33,33,Gama,501
+2020-33,33,Guará,667
+2020-33,33,Itapoã,61
+2020-33,33,Jardim Botânico,75
+2020-33,33,Lago Norte,114
+2020-33,33,Lago Sul,151
+2020-33,33,Núcleo Bandeirante,99
+2020-33,33,Outros Estados,1258
+2020-33,33,Paranoá,114
+2020-33,33,Park Way,78
+2020-33,33,Planaltina,422
+2020-33,33,Plano Piloto,892
+2020-33,33,Pôr do Sol,50
+2020-33,33,Recanto das Emas,304
+2020-33,33,Riacho Fundo,163
+2020-33,33,Riacho Fundo II,155
+2020-33,33,SCIA,38
+2020-33,33,SIA,0
+2020-33,33,Samambaia,734
+2020-33,33,Santa Maria,387
+2020-33,33,Sistema Penitenciário,5
+2020-33,33,Sobradinho,385
+2020-33,33,Sobradinho II,52
+2020-33,33,Sudoeste/Octogonal,213
+2020-33,33,São Sebastião,231
+2020-33,33,Taguatinga,1047
+2020-33,33,Varjão,10
+2020-33,33,Vicente Pires,258
+2020-33,33,Águas Claras,599
+2020-34,34,Arniqueira,33
+2020-34,34,Brazlândia,131
+2020-34,34,Candangolândia,45
+2020-34,34,Ceilândia,1189
+2020-34,34,Cruzeiro,95
+2020-34,34,Entorno DF,0
+2020-34,34,Fercal,3
+2020-34,34,Gama,390
+2020-34,34,Guará,441
+2020-34,34,Itapoã,49
+2020-34,34,Jardim Botânico,63
+2020-34,34,Lago Norte,86
+2020-34,34,Lago Sul,90
+2020-34,34,Núcleo Bandeirante,74
+2020-34,34,Outros Estados,1301
+2020-34,34,Paranoá,83
+2020-34,34,Park Way,65
+2020-34,34,Planaltina,322
+2020-34,34,Plano Piloto,669
+2020-34,34,Pôr do Sol,26
+2020-34,34,Recanto das Emas,267
+2020-34,34,Riacho Fundo,139
+2020-34,34,Riacho Fundo II,96
+2020-34,34,SCIA,34
+2020-34,34,SIA,3
+2020-34,34,Samambaia,726
+2020-34,34,Santa Maria,400
+2020-34,34,Sistema Penitenciário,27
+2020-34,34,Sobradinho,286
+2020-34,34,Sobradinho II,36
+2020-34,34,Sudoeste/Octogonal,160
+2020-34,34,São Sebastião,176
+2020-34,34,Taguatinga,895
+2020-34,34,Varjão,14
+2020-34,34,Vicente Pires,206
+2020-34,34,Águas Claras,486
+2020-35,35,Arniqueira,32
+2020-35,35,Brazlândia,93
+2020-35,35,Candangolândia,42
+2020-35,35,Ceilândia,632
+2020-35,35,Cruzeiro,97
+2020-35,35,Entorno DF,0
+2020-35,35,Fercal,2
+2020-35,35,Gama,303
+2020-35,35,Guará,332
+2020-35,35,Itapoã,31
+2020-35,35,Jardim Botânico,33
+2020-35,35,Lago Norte,75
+2020-35,35,Lago Sul,69
+2020-35,35,Núcleo Bandeirante,44
+2020-35,35,Outros Estados,978
+2020-35,35,Paranoá,61
+2020-35,35,Park Way,63
+2020-35,35,Planaltina,237
+2020-35,35,Plano Piloto,528
+2020-35,35,Pôr do Sol,12
+2020-35,35,Recanto das Emas,201
+2020-35,35,Riacho Fundo,84
+2020-35,35,Riacho Fundo II,47
+2020-35,35,SCIA,24
+2020-35,35,SIA,0
+2020-35,35,Samambaia,462
+2020-35,35,Santa Maria,328
+2020-35,35,Sistema Penitenciário,2
+2020-35,35,Sobradinho,264
+2020-35,35,Sobradinho II,34
+2020-35,35,Sudoeste/Octogonal,146
+2020-35,35,São Sebastião,167
+2020-35,35,Taguatinga,634
+2020-35,35,Varjão,12
+2020-35,35,Vicente Pires,163
+2020-35,35,Águas Claras,372
+2020-36,36,Arniqueira,30
+2020-36,36,Brazlândia,111
+2020-36,36,Candangolândia,15
+2020-36,36,Ceilândia,588
+2020-36,36,Cruzeiro,68
+2020-36,36,Entorno DF,0
+2020-36,36,Fercal,0
+2020-36,36,Gama,287
+2020-36,36,Guará,309
+2020-36,36,Itapoã,26
+2020-36,36,Jardim Botânico,30
+2020-36,36,Lago Norte,66
+2020-36,36,Lago Sul,86
+2020-36,36,Núcleo Bandeirante,62
+2020-36,36,Outros Estados,892
+2020-36,36,Paranoá,65
+2020-36,36,Park Way,37
+2020-36,36,Planaltina,228
+2020-36,36,Plano Piloto,511
+2020-36,36,Pôr do Sol,29
+2020-36,36,Recanto das Emas,154
+2020-36,36,Riacho Fundo,98
+2020-36,36,Riacho Fundo II,43
+2020-36,36,SCIA,28
+2020-36,36,SIA,1
+2020-36,36,Samambaia,422
+2020-36,36,Santa Maria,285
+2020-36,36,Sistema Penitenciário,0
+2020-36,36,Sobradinho,208
+2020-36,36,Sobradinho II,22
+2020-36,36,Sudoeste/Octogonal,139
+2020-36,36,São Sebastião,103
+2020-36,36,Taguatinga,590
+2020-36,36,Varjão,8
+2020-36,36,Vicente Pires,149
+2020-36,36,Águas Claras,307
+2020-37,37,Arniqueira,18
+2020-37,37,Brazlândia,71
+2020-37,37,Candangolândia,24
+2020-37,37,Ceilândia,677
+2020-37,37,Cruzeiro,80
+2020-37,37,Entorno DF,0
+2020-37,37,Fercal,2
+2020-37,37,Gama,276
+2020-37,37,Guará,303
+2020-37,37,Itapoã,30
+2020-37,37,Jardim Botânico,44
+2020-37,37,Lago Norte,52
+2020-37,37,Lago Sul,74
+2020-37,37,Núcleo Bandeirante,41
+2020-37,37,Outros Estados,803
+2020-37,37,Paranoá,57
+2020-37,37,Park Way,28
+2020-37,37,Planaltina,247
+2020-37,37,Plano Piloto,474
+2020-37,37,Pôr do Sol,9
+2020-37,37,Recanto das Emas,144
+2020-37,37,Riacho Fundo,88
+2020-37,37,Riacho Fundo II,51
+2020-37,37,SCIA,16
+2020-37,37,SIA,0
+2020-37,37,Samambaia,373
+2020-37,37,Santa Maria,216
+2020-37,37,Sistema Penitenciário,0
+2020-37,37,Sobradinho,234
+2020-37,37,Sobradinho II,27
+2020-37,37,Sudoeste/Octogonal,134
+2020-37,37,São Sebastião,145
+2020-37,37,Taguatinga,549
+2020-37,37,Varjão,9
+2020-37,37,Vicente Pires,152
+2020-37,37,Águas Claras,324
+2020-38,38,Arniqueira,18
+2020-38,38,Brazlândia,81
+2020-38,38,Candangolândia,33
+2020-38,38,Ceilândia,576
+2020-38,38,Cruzeiro,73
+2020-38,38,Entorno DF,0
+2020-38,38,Fercal,1
+2020-38,38,Gama,236
+2020-38,38,Guará,250
+2020-38,38,Itapoã,26
+2020-38,38,Jardim Botânico,35
+2020-38,38,Lago Norte,53
+2020-38,38,Lago Sul,82
+2020-38,38,Núcleo Bandeirante,57
+2020-38,38,Outros Estados,643
+2020-38,38,Paranoá,70
+2020-38,38,Park Way,31
+2020-38,38,Planaltina,199
+2020-38,38,Plano Piloto,456
+2020-38,38,Pôr do Sol,21
+2020-38,38,Recanto das Emas,144
+2020-38,38,Riacho Fundo,67
+2020-38,38,Riacho Fundo II,37
+2020-38,38,SCIA,19
+2020-38,38,SIA,1
+2020-38,38,Samambaia,307
+2020-38,38,Santa Maria,221
+2020-38,38,Sistema Penitenciário,1
+2020-38,38,Sobradinho,185
+2020-38,38,Sobradinho II,16
+2020-38,38,Sudoeste/Octogonal,98
+2020-38,38,São Sebastião,132
+2020-38,38,Taguatinga,516
+2020-38,38,Varjão,8
+2020-38,38,Vicente Pires,105
+2020-38,38,Águas Claras,299
+2020-39,39,Arniqueira,13
+2020-39,39,Brazlândia,64
+2020-39,39,Candangolândia,32
+2020-39,39,Ceilândia,637
+2020-39,39,Cruzeiro,78
+2020-39,39,Entorno DF,0
+2020-39,39,Fercal,1
+2020-39,39,Gama,221
+2020-39,39,Guará,247
+2020-39,39,Itapoã,20
+2020-39,39,Jardim Botânico,35
+2020-39,39,Lago Norte,65
+2020-39,39,Lago Sul,75
+2020-39,39,Núcleo Bandeirante,46
+2020-39,39,Outros Estados,678
+2020-39,39,Paranoá,48
+2020-39,39,Park Way,28
+2020-39,39,Planaltina,164
+2020-39,39,Plano Piloto,431
+2020-39,39,Pôr do Sol,56
+2020-39,39,Recanto das Emas,115
+2020-39,39,Riacho Fundo,66
+2020-39,39,Riacho Fundo II,34
+2020-39,39,SCIA,16
+2020-39,39,SIA,1
+2020-39,39,Samambaia,298
+2020-39,39,Santa Maria,146
+2020-39,39,Sistema Penitenciário,15
+2020-39,39,Sobradinho,207
+2020-39,39,Sobradinho II,25
+2020-39,39,Sudoeste/Octogonal,102
+2020-39,39,São Sebastião,121
+2020-39,39,Taguatinga,433
+2020-39,39,Varjão,13
+2020-39,39,Vicente Pires,107
+2020-39,39,Águas Claras,277
+2020-40,40,Arniqueira,14
+2020-40,40,Brazlândia,46
+2020-40,40,Candangolândia,19
+2020-40,40,Ceilândia,512
+2020-40,40,Cruzeiro,56
+2020-40,40,Entorno DF,0
+2020-40,40,Fercal,0
+2020-40,40,Gama,178
+2020-40,40,Guará,243
+2020-40,40,Itapoã,18
+2020-40,40,Jardim Botânico,29
+2020-40,40,Lago Norte,52
+2020-40,40,Lago Sul,74
+2020-40,40,Núcleo Bandeirante,32
+2020-40,40,Outros Estados,564
+2020-40,40,Paranoá,32
+2020-40,40,Park Way,43
+2020-40,40,Planaltina,139
+2020-40,40,Plano Piloto,427
+2020-40,40,Pôr do Sol,32
+2020-40,40,Recanto das Emas,117
+2020-40,40,Riacho Fundo,55
+2020-40,40,Riacho Fundo II,27
+2020-40,40,SCIA,23
+2020-40,40,SIA,1
+2020-40,40,Samambaia,248
+2020-40,40,Santa Maria,154
+2020-40,40,Sistema Penitenciário,11
+2020-40,40,Sobradinho,164
+2020-40,40,Sobradinho II,20
+2020-40,40,Sudoeste/Octogonal,111
+2020-40,40,São Sebastião,119
+2020-40,40,Taguatinga,438
+2020-40,40,Varjão,4
+2020-40,40,Vicente Pires,101
+2020-40,40,Águas Claras,271
+2020-41,41,Arniqueira,22
+2020-41,41,Brazlândia,53
+2020-41,41,Candangolândia,27
+2020-41,41,Ceilândia,504
+2020-41,41,Cruzeiro,54
+2020-41,41,Entorno DF,0
+2020-41,41,Fercal,3
+2020-41,41,Gama,213
+2020-41,41,Guará,288
+2020-41,41,Itapoã,205
+2020-41,41,Jardim Botânico,49
+2020-41,41,Lago Norte,55
+2020-41,41,Lago Sul,63
+2020-41,41,Núcleo Bandeirante,38
+2020-41,41,Outros Estados,559
+2020-41,41,Paranoá,50
+2020-41,41,Park Way,43
+2020-41,41,Planaltina,149
+2020-41,41,Plano Piloto,466
+2020-41,41,Pôr do Sol,21
+2020-41,41,Recanto das Emas,121
+2020-41,41,Riacho Fundo,124
+2020-41,41,Riacho Fundo II,41
+2020-41,41,SCIA,28
+2020-41,41,SIA,1
+2020-41,41,Samambaia,262
+2020-41,41,Santa Maria,157
+2020-41,41,Sistema Penitenciário,3
+2020-41,41,Sobradinho,167
+2020-41,41,Sobradinho II,16
+2020-41,41,Sudoeste/Octogonal,118
+2020-41,41,São Sebastião,167
+2020-41,41,Taguatinga,402
+2020-41,41,Varjão,2
+2020-41,41,Vicente Pires,86
+2020-41,41,Águas Claras,283
+2020-42,42,Arniqueira,19
+2020-42,42,Brazlândia,58
+2020-42,42,Candangolândia,25
+2020-42,42,Ceilândia,385
+2020-42,42,Cruzeiro,51
+2020-42,42,Entorno DF,0
+2020-42,42,Fercal,0
+2020-42,42,Gama,191
+2020-42,42,Guará,203
+2020-42,42,Itapoã,14
+2020-42,42,Jardim Botânico,53
+2020-42,42,Lago Norte,61
+2020-42,42,Lago Sul,65
+2020-42,42,Núcleo Bandeirante,48
+2020-42,42,Outros Estados,496
+2020-42,42,Paranoá,40
+2020-42,42,Park Way,23
+2020-42,42,Planaltina,113
+2020-42,42,Plano Piloto,458
+2020-42,42,Pôr do Sol,10
+2020-42,42,Recanto das Emas,103
+2020-42,42,Riacho Fundo,153
+2020-42,42,Riacho Fundo II,35
+2020-42,42,SCIA,14
+2020-42,42,SIA,1
+2020-42,42,Samambaia,217
+2020-42,42,Santa Maria,113
+2020-42,42,Sistema Penitenciário,39
+2020-42,42,Sobradinho,156
+2020-42,42,Sobradinho II,16
+2020-42,42,Sudoeste/Octogonal,89
+2020-42,42,São Sebastião,119
+2020-42,42,Taguatinga,343
+2020-42,42,Varjão,3
+2020-42,42,Vicente Pires,73
+2020-42,42,Águas Claras,220
+2020-43,43,Arniqueira,9
+2020-43,43,Brazlândia,47
+2020-43,43,Candangolândia,17
+2020-43,43,Ceilândia,305
+2020-43,43,Cruzeiro,41
+2020-43,43,Entorno DF,0
+2020-43,43,Fercal,1
+2020-43,43,Gama,206
+2020-43,43,Guará,211
+2020-43,43,Itapoã,20
+2020-43,43,Jardim Botânico,30
+2020-43,43,Lago Norte,60
+2020-43,43,Lago Sul,70
+2020-43,43,Núcleo Bandeirante,41
+2020-43,43,Outros Estados,495
+2020-43,43,Paranoá,42
+2020-43,43,Park Way,48
+2020-43,43,Planaltina,72
+2020-43,43,Plano Piloto,429
+2020-43,43,Pôr do Sol,6
+2020-43,43,Recanto das Emas,73
+2020-43,43,Riacho Fundo,47
+2020-43,43,Riacho Fundo II,29
+2020-43,43,SCIA,6
+2020-43,43,SIA,1
+2020-43,43,Samambaia,165
+2020-43,43,Santa Maria,97
+2020-43,43,Sistema Penitenciário,3
+2020-43,43,Sobradinho,126
+2020-43,43,Sobradinho II,14
+2020-43,43,Sudoeste/Octogonal,90
+2020-43,43,São Sebastião,98
+2020-43,43,Taguatinga,260
+2020-43,43,Varjão,7
+2020-43,43,Vicente Pires,98
+2020-43,43,Águas Claras,229
+2020-44,44,Arniqueira,9
+2020-44,44,Brazlândia,37
+2020-44,44,Candangolândia,16
+2020-44,44,Ceilândia,223
+2020-44,44,Cruzeiro,38
+2020-44,44,Entorno DF,0
+2020-44,44,Fercal,0
+2020-44,44,Gama,144
+2020-44,44,Guará,173
+2020-44,44,Itapoã,17
+2020-44,44,Jardim Botânico,30
+2020-44,44,Lago Norte,52
+2020-44,44,Lago Sul,52
+2020-44,44,Núcleo Bandeirante,26
+2020-44,44,Outros Estados,350
+2020-44,44,Paranoá,32
+2020-44,44,Park Way,36
+2020-44,44,Planaltina,100
+2020-44,44,Plano Piloto,460
+2020-44,44,Pôr do Sol,10
+2020-44,44,Recanto das Emas,59
+2020-44,44,Riacho Fundo,31
+2020-44,44,Riacho Fundo II,22
+2020-44,44,SCIA,10
+2020-44,44,SIA,0
+2020-44,44,Samambaia,138
+2020-44,44,Santa Maria,90
+2020-44,44,Sistema Penitenciário,4
+2020-44,44,Sobradinho,103
+2020-44,44,Sobradinho II,15
+2020-44,44,Sudoeste/Octogonal,84
+2020-44,44,São Sebastião,86
+2020-44,44,Taguatinga,202
+2020-44,44,Varjão,4
+2020-44,44,Vicente Pires,52
+2020-44,44,Águas Claras,211
+2020-45,45,Arniqueira,5
+2020-45,45,Brazlândia,59
+2020-45,45,Candangolândia,24
+2020-45,45,Ceilândia,249
+2020-45,45,Cruzeiro,54
+2020-45,45,Entorno DF,0
+2020-45,45,Fercal,2
+2020-45,45,Gama,152
+2020-45,45,Guará,222
+2020-45,45,Itapoã,18
+2020-45,45,Jardim Botânico,52
+2020-45,45,Lago Norte,66
+2020-45,45,Lago Sul,107
+2020-45,45,Núcleo Bandeirante,34
+2020-45,45,Outros Estados,444
+2020-45,45,Paranoá,51
+2020-45,45,Park Way,38
+2020-45,45,Planaltina,114
+2020-45,45,Plano Piloto,520
+2020-45,45,Pôr do Sol,7
+2020-45,45,Recanto das Emas,63
+2020-45,45,Riacho Fundo,56
+2020-45,45,Riacho Fundo II,16
+2020-45,45,SCIA,8
+2020-45,45,SIA,1
+2020-45,45,Samambaia,156
+2020-45,45,Santa Maria,75
+2020-45,45,Sistema Penitenciário,4
+2020-45,45,Sobradinho,148
+2020-45,45,Sobradinho II,18
+2020-45,45,Sudoeste/Octogonal,121
+2020-45,45,São Sebastião,75
+2020-45,45,Taguatinga,276
+2020-45,45,Varjão,4
+2020-45,45,Vicente Pires,90
+2020-45,45,Águas Claras,241
+2020-46,46,Arniqueira,15
+2020-46,46,Brazlândia,44
+2020-46,46,Candangolândia,23
+2020-46,46,Ceilândia,351
+2020-46,46,Cruzeiro,74
+2020-46,46,Entorno DF,0
+2020-46,46,Fercal,0
+2020-46,46,Gama,247
+2020-46,46,Guará,321
+2020-46,46,Itapoã,20
+2020-46,46,Jardim Botânico,63
+2020-46,46,Lago Norte,99
+2020-46,46,Lago Sul,131
+2020-46,46,Núcleo Bandeirante,46
+2020-46,46,Outros Estados,597
+2020-46,46,Paranoá,43
+2020-46,46,Park Way,66
+2020-46,46,Planaltina,134
+2020-46,46,Plano Piloto,757
+2020-46,46,Pôr do Sol,9
+2020-46,46,Recanto das Emas,94
+2020-46,46,Riacho Fundo,63
+2020-46,46,Riacho Fundo II,27
+2020-46,46,SCIA,16
+2020-46,46,SIA,0
+2020-46,46,Samambaia,223
+2020-46,46,Santa Maria,139
+2020-46,46,Sistema Penitenciário,3
+2020-46,46,Sobradinho,242
+2020-46,46,Sobradinho II,22
+2020-46,46,Sudoeste/Octogonal,194
+2020-46,46,São Sebastião,99
+2020-46,46,Taguatinga,397
+2020-46,46,Varjão,3
+2020-46,46,Vicente Pires,107
+2020-46,46,Águas Claras,362
+2020-47,47,Arniqueira,14
+2020-47,47,Brazlândia,61
+2020-47,47,Candangolândia,25
+2020-47,47,Ceilândia,356
+2020-47,47,Cruzeiro,74
+2020-47,47,Entorno DF,0
+2020-47,47,Fercal,2
+2020-47,47,Gama,221
+2020-47,47,Guará,309
+2020-47,47,Itapoã,14
+2020-47,47,Jardim Botânico,48
+2020-47,47,Lago Norte,97
+2020-47,47,Lago Sul,101
+2020-47,47,Núcleo Bandeirante,47
+2020-47,47,Outros Estados,697
+2020-47,47,Paranoá,28
+2020-47,47,Park Way,60
+2020-47,47,Planaltina,148
+2020-47,47,Plano Piloto,700
+2020-47,47,Pôr do Sol,12
+2020-47,47,Recanto das Emas,96
+2020-47,47,Riacho Fundo,70
+2020-47,47,Riacho Fundo II,41
+2020-47,47,SCIA,22
+2020-47,47,SIA,0
+2020-47,47,Samambaia,232
+2020-47,47,Santa Maria,104
+2020-47,47,Sistema Penitenciário,4
+2020-47,47,Sobradinho,226
+2020-47,47,Sobradinho II,14
+2020-47,47,Sudoeste/Octogonal,162
+2020-47,47,São Sebastião,109
+2020-47,47,Taguatinga,426
+2020-47,47,Varjão,9
+2020-47,47,Vicente Pires,83
+2020-47,47,Águas Claras,382
+2020-48,48,Arniqueira,17
+2020-48,48,Brazlândia,55
+2020-48,48,Candangolândia,26
+2020-48,48,Ceilândia,411
+2020-48,48,Cruzeiro,95
+2020-48,48,Entorno DF,0
+2020-48,48,Fercal,3
+2020-48,48,Gama,284
+2020-48,48,Guará,344
+2020-48,48,Itapoã,14
+2020-48,48,Jardim Botânico,65
+2020-48,48,Lago Norte,135
+2020-48,48,Lago Sul,173
+2020-48,48,Núcleo Bandeirante,58
+2020-48,48,Outros Estados,793
+2020-48,48,Paranoá,44
+2020-48,48,Park Way,51
+2020-48,48,Planaltina,152
+2020-48,48,Plano Piloto,905
+2020-48,48,Pôr do Sol,12
+2020-48,48,Recanto das Emas,80
+2020-48,48,Riacho Fundo,68
+2020-48,48,Riacho Fundo II,30
+2020-48,48,SCIA,8
+2020-48,48,SIA,0
+2020-48,48,Samambaia,227
+2020-48,48,Santa Maria,154
+2020-48,48,Sistema Penitenciário,3
+2020-48,48,Sobradinho,290
+2020-48,48,Sobradinho II,12
+2020-48,48,Sudoeste/Octogonal,198
+2020-48,48,São Sebastião,100
+2020-48,48,Taguatinga,439
+2020-48,48,Varjão,11
+2020-48,48,Vicente Pires,119
+2020-48,48,Águas Claras,444
+2020-49,49,Arniqueira,17
+2020-49,49,Brazlândia,58
+2020-49,49,Candangolândia,28
+2020-49,49,Ceilândia,381
+2020-49,49,Cruzeiro,112
+2020-49,49,Entorno DF,0
+2020-49,49,Fercal,12
+2020-49,49,Gama,248
+2020-49,49,Guará,327
+2020-49,49,Itapoã,22
+2020-49,49,Jardim Botânico,87
+2020-49,49,Lago Norte,104
+2020-49,49,Lago Sul,124
+2020-49,49,Núcleo Bandeirante,34
+2020-49,49,Outros Estados,654
+2020-49,49,Paranoá,51
+2020-49,49,Park Way,59
+2020-49,49,Planaltina,164
+2020-49,49,Plano Piloto,767
+2020-49,49,Pôr do Sol,12
+2020-49,49,Recanto das Emas,92
+2020-49,49,Riacho Fundo,63
+2020-49,49,Riacho Fundo II,36
+2020-49,49,SCIA,9
+2020-49,49,SIA,0
+2020-49,49,Samambaia,226
+2020-49,49,Santa Maria,171
+2020-49,49,Sistema Penitenciário,6
+2020-49,49,Sobradinho,254
+2020-49,49,Sobradinho II,16
+2020-49,49,Sudoeste/Octogonal,162
+2020-49,49,São Sebastião,103
+2020-49,49,Taguatinga,387
+2020-49,49,Varjão,7
+2020-49,49,Vicente Pires,114
+2020-49,49,Águas Claras,375
+2020-50,50,Arniqueira,15
+2020-50,50,Brazlândia,48
+2020-50,50,Candangolândia,25
+2020-50,50,Ceilândia,369
+2020-50,50,Cruzeiro,80
+2020-50,50,Entorno DF,0
+2020-50,50,Fercal,7
+2020-50,50,Gama,256
+2020-50,50,Guará,285
+2020-50,50,Itapoã,17
+2020-50,50,Jardim Botânico,69
+2020-50,50,Lago Norte,111
+2020-50,50,Lago Sul,159
+2020-50,50,Núcleo Bandeirante,40
+2020-50,50,Outros Estados,803
+2020-50,50,Paranoá,29
+2020-50,50,Park Way,59
+2020-50,50,Planaltina,159
+2020-50,50,Plano Piloto,752
+2020-50,50,Pôr do Sol,16
+2020-50,50,Recanto das Emas,82
+2020-50,50,Riacho Fundo,64
+2020-50,50,Riacho Fundo II,36
+2020-50,50,SCIA,5
+2020-50,50,SIA,0
+2020-50,50,Samambaia,217
+2020-50,50,Santa Maria,112
+2020-50,50,Sistema Penitenciário,6
+2020-50,50,Sobradinho,232
+2020-50,50,Sobradinho II,30
+2020-50,50,Sudoeste/Octogonal,166
+2020-50,50,São Sebastião,105
+2020-50,50,Taguatinga,415
+2020-50,50,Varjão,7
+2020-50,50,Vicente Pires,113
+2020-50,50,Águas Claras,368
+2020-51,51,Arniqueira,9
+2020-51,51,Brazlândia,62
+2020-51,51,Candangolândia,15
+2020-51,51,Ceilândia,313
+2020-51,51,Cruzeiro,61
+2020-51,51,Entorno DF,0
+2020-51,51,Fercal,6
+2020-51,51,Gama,176
+2020-51,51,Guará,272
+2020-51,51,Itapoã,19
+2020-51,51,Jardim Botânico,46
+2020-51,51,Lago Norte,94
+2020-51,51,Lago Sul,119
+2020-51,51,Núcleo Bandeirante,26
+2020-51,51,Outros Estados,597
+2020-51,51,Paranoá,42
+2020-51,51,Park Way,54
+2020-51,51,Planaltina,151
+2020-51,51,Plano Piloto,632
+2020-51,51,Pôr do Sol,5
+2020-51,51,Recanto das Emas,80
+2020-51,51,Riacho Fundo,49
+2020-51,51,Riacho Fundo II,31
+2020-51,51,SCIA,160
+2020-51,51,SIA,1
+2020-51,51,Samambaia,182
+2020-51,51,Santa Maria,108
+2020-51,51,Sistema Penitenciário,9
+2020-51,51,Sobradinho,225
+2020-51,51,Sobradinho II,20
+2020-51,51,Sudoeste/Octogonal,143
+2020-51,51,São Sebastião,88
+2020-51,51,Taguatinga,383
+2020-51,51,Varjão,4
+2020-51,51,Vicente Pires,103
+2020-51,51,Águas Claras,272
+2020-52,52,Arniqueira,8
+2020-52,52,Brazlândia,38
+2020-52,52,Candangolândia,5
+2020-52,52,Ceilândia,125
+2020-52,52,Cruzeiro,35
+2020-52,52,Entorno DF,0
+2020-52,52,Fercal,0
+2020-52,52,Gama,85
+2020-52,52,Guará,122
+2020-52,52,Itapoã,10
+2020-52,52,Jardim Botânico,36
+2020-52,52,Lago Norte,46
+2020-52,52,Lago Sul,62
+2020-52,52,Núcleo Bandeirante,20
+2020-52,52,Outros Estados,377
+2020-52,52,Paranoá,32
+2020-52,52,Park Way,36
+2020-52,52,Planaltina,54
+2020-52,52,Plano Piloto,306
+2020-52,52,Pôr do Sol,3
+2020-52,52,Recanto das Emas,29
+2020-52,52,Riacho Fundo,39
+2020-52,52,Riacho Fundo II,15
+2020-52,52,SCIA,19
+2020-52,52,SIA,0
+2020-52,52,Samambaia,100
+2020-52,52,Santa Maria,56
+2020-52,52,Sistema Penitenciário,3
+2020-52,52,Sobradinho,93
+2020-52,52,Sobradinho II,11
+2020-52,52,Sudoeste/Octogonal,64
+2020-52,52,São Sebastião,69
+2020-52,52,Taguatinga,177
+2020-52,52,Varjão,1
+2020-52,52,Vicente Pires,46
+2020-52,52,Águas Claras,157
+2021-00,0,Arniqueira,7
+2021-00,0,Brazlândia,50
+2021-00,0,Candangolândia,8
+2021-00,0,Ceilândia,225
+2021-00,0,Cruzeiro,37
+2021-00,0,Entorno DF,0
+2021-00,0,Fercal,13
+2021-00,0,Gama,120
+2021-00,0,Guará,157
+2021-00,0,Itapoã,10
+2021-00,0,Jardim Botânico,42
+2021-00,0,Lago Norte,54
+2021-00,0,Lago Sul,74
+2021-00,0,Núcleo Bandeirante,22
+2021-00,0,Outros Estados,258
+2021-00,0,Paranoá,26
+2021-00,0,Park Way,37
+2021-00,0,Planaltina,96
+2021-00,0,Plano Piloto,354
+2021-00,0,Pôr do Sol,13
+2021-00,0,Recanto das Emas,49
+2021-00,0,Riacho Fundo,45
+2021-00,0,Riacho Fundo II,15
+2021-00,0,SCIA,3
+2021-00,0,SIA,0
+2021-00,0,Samambaia,135
+2021-00,0,Santa Maria,73
+2021-00,0,Sistema Penitenciário,0
+2021-00,0,Sobradinho,101
+2021-00,0,Sobradinho II,15
+2021-00,0,Sudoeste/Octogonal,86
+2021-00,0,São Sebastião,54
+2021-00,0,Taguatinga,222
+2021-00,0,Varjão,8
+2021-00,0,Vicente Pires,63
+2021-00,0,Águas Claras,168
+2021-01,1,Arniqueira,25
+2021-01,1,Brazlândia,82
+2021-01,1,Candangolândia,15
+2021-01,1,Ceilândia,474
+2021-01,1,Cruzeiro,68
+2021-01,1,Entorno DF,0
+2021-01,1,Fercal,9
+2021-01,1,Gama,197
+2021-01,1,Guará,312
+2021-01,1,Itapoã,19
+2021-01,1,Jardim Botânico,62
+2021-01,1,Lago Norte,111
+2021-01,1,Lago Sul,139
+2021-01,1,Núcleo Bandeirante,52
+2021-01,1,Outros Estados,774
+2021-01,1,Paranoá,42
+2021-01,1,Park Way,53
+2021-01,1,Planaltina,179
+2021-01,1,Plano Piloto,671
+2021-01,1,Pôr do Sol,6
+2021-01,1,Recanto das Emas,114
+2021-01,1,Riacho Fundo,71
+2021-01,1,Riacho Fundo II,21
+2021-01,1,SCIA,11
+2021-01,1,SIA,0
+2021-01,1,Samambaia,230
+2021-01,1,Santa Maria,187
+2021-01,1,Sistema Penitenciário,2
+2021-01,1,Sobradinho,194
+2021-01,1,Sobradinho II,19
+2021-01,1,Sudoeste/Octogonal,185
+2021-01,1,São Sebastião,126
+2021-01,1,Taguatinga,464
+2021-01,1,Varjão,12
+2021-01,1,Vicente Pires,156
+2021-01,1,Águas Claras,392
+2021-02,2,Arniqueira,22
+2021-02,2,Brazlândia,73
+2021-02,2,Candangolândia,14
+2021-02,2,Ceilândia,370
+2021-02,2,Cruzeiro,62
+2021-02,2,Entorno DF,0
+2021-02,2,Fercal,17
+2021-02,2,Gama,263
+2021-02,2,Guará,309
+2021-02,2,Itapoã,26
+2021-02,2,Jardim Botânico,76
+2021-02,2,Lago Norte,78
+2021-02,2,Lago Sul,129
+2021-02,2,Núcleo Bandeirante,42
+2021-02,2,Outros Estados,814
+2021-02,2,Paranoá,44
+2021-02,2,Park Way,48
+2021-02,2,Planaltina,168
+2021-02,2,Plano Piloto,635
+2021-02,2,Pôr do Sol,16
+2021-02,2,Recanto das Emas,84
+2021-02,2,Riacho Fundo,72
+2021-02,2,Riacho Fundo II,32
+2021-02,2,SCIA,14
+2021-02,2,SIA,1
+2021-02,2,Samambaia,201
+2021-02,2,Santa Maria,195
+2021-02,2,Sistema Penitenciário,8
+2021-02,2,Sobradinho,185
+2021-02,2,Sobradinho II,27
+2021-02,2,Sudoeste/Octogonal,163
+2021-02,2,São Sebastião,147
+2021-02,2,Taguatinga,379
+2021-02,2,Varjão,12
+2021-02,2,Vicente Pires,109
+2021-02,2,Águas Claras,368
+2021-03,3,Arniqueira,7
+2021-03,3,Brazlândia,63
+2021-03,3,Candangolândia,27
+2021-03,3,Ceilândia,311
+2021-03,3,Cruzeiro,62
+2021-03,3,Entorno DF,0
+2021-03,3,Fercal,6
+2021-03,3,Gama,197
+2021-03,3,Guará,287
+2021-03,3,Itapoã,25
+2021-03,3,Jardim Botânico,51
+2021-03,3,Lago Norte,78
+2021-03,3,Lago Sul,76
+2021-03,3,Núcleo Bandeirante,37
+2021-03,3,Outros Estados,517
+2021-03,3,Paranoá,55
+2021-03,3,Park Way,44
+2021-03,3,Planaltina,200
+2021-03,3,Plano Piloto,542
+2021-03,3,Pôr do Sol,15
+2021-03,3,Recanto das Emas,81
+2021-03,3,Riacho Fundo,68
+2021-03,3,Riacho Fundo II,33
+2021-03,3,SCIA,10
+2021-03,3,SIA,0
+2021-03,3,Samambaia,182
+2021-03,3,Santa Maria,136
+2021-03,3,Sistema Penitenciário,7
+2021-03,3,Sobradinho,178
+2021-03,3,Sobradinho II,36
+2021-03,3,Sudoeste/Octogonal,134
+2021-03,3,São Sebastião,96
+2021-03,3,Taguatinga,323
+2021-03,3,Varjão,9
+2021-03,3,Vicente Pires,107
+2021-03,3,Águas Claras,333
+2021-04,4,Arniqueira,14
+2021-04,4,Brazlândia,44
+2021-04,4,Candangolândia,9
+2021-04,4,Ceilândia,270
+2021-04,4,Cruzeiro,47
+2021-04,4,Entorno DF,0
+2021-04,4,Fercal,4
+2021-04,4,Gama,140
+2021-04,4,Guará,211
+2021-04,4,Itapoã,17
+2021-04,4,Jardim Botânico,60
+2021-04,4,Lago Norte,64
+2021-04,4,Lago Sul,86
+2021-04,4,Núcleo Bandeirante,21
+2021-04,4,Outros Estados,421
+2021-04,4,Paranoá,53
+2021-04,4,Park Way,46
+2021-04,4,Planaltina,153
+2021-04,4,Plano Piloto,479
+2021-04,4,Pôr do Sol,22
+2021-04,4,Recanto das Emas,66
+2021-04,4,Riacho Fundo,53
+2021-04,4,Riacho Fundo II,24
+2021-04,4,SCIA,9
+2021-04,4,SIA,1
+2021-04,4,Samambaia,186
+2021-04,4,Santa Maria,77
+2021-04,4,Sistema Penitenciário,0
+2021-04,4,Sobradinho,183
+2021-04,4,Sobradinho II,20
+2021-04,4,Sudoeste/Octogonal,79
+2021-04,4,São Sebastião,74
+2021-04,4,Taguatinga,315
+2021-04,4,Varjão,2
+2021-04,4,Vicente Pires,75
+2021-04,4,Águas Claras,238
+2021-05,5,Arniqueira,15
+2021-05,5,Brazlândia,67
+2021-05,5,Candangolândia,16
+2021-05,5,Ceilândia,278
+2021-05,5,Cruzeiro,68
+2021-05,5,Entorno DF,0
+2021-05,5,Fercal,3
+2021-05,5,Gama,142
+2021-05,5,Guará,208
+2021-05,5,Itapoã,14
+2021-05,5,Jardim Botânico,41
+2021-05,5,Lago Norte,72
+2021-05,5,Lago Sul,79
+2021-05,5,Núcleo Bandeirante,23
+2021-05,5,Outros Estados,403
+2021-05,5,Paranoá,38
+2021-05,5,Park Way,27
+2021-05,5,Planaltina,157
+2021-05,5,Plano Piloto,427
+2021-05,5,Pôr do Sol,26
+2021-05,5,Recanto das Emas,81
+2021-05,5,Riacho Fundo,57
+2021-05,5,Riacho Fundo II,23
+2021-05,5,SCIA,9
+2021-05,5,SIA,0
+2021-05,5,Samambaia,212
+2021-05,5,Santa Maria,73
+2021-05,5,Sistema Penitenciário,0
+2021-05,5,Sobradinho,183
+2021-05,5,Sobradinho II,26
+2021-05,5,Sudoeste/Octogonal,93
+2021-05,5,São Sebastião,71
+2021-05,5,Taguatinga,279
+2021-05,5,Varjão,3
+2021-05,5,Vicente Pires,69
+2021-05,5,Águas Claras,247
+2021-06,6,Arniqueira,16
+2021-06,6,Brazlândia,64
+2021-06,6,Candangolândia,20
+2021-06,6,Ceilândia,210
+2021-06,6,Cruzeiro,57
+2021-06,6,Entorno DF,0
+2021-06,6,Fercal,3
+2021-06,6,Gama,144
+2021-06,6,Guará,197
+2021-06,6,Itapoã,12
+2021-06,6,Jardim Botânico,41
+2021-06,6,Lago Norte,52
+2021-06,6,Lago Sul,75
+2021-06,6,Núcleo Bandeirante,37
+2021-06,6,Outros Estados,360
+2021-06,6,Paranoá,41
+2021-06,6,Park Way,38
+2021-06,6,Planaltina,138
+2021-06,6,Plano Piloto,489
+2021-06,6,Pôr do Sol,10
+2021-06,6,Recanto das Emas,86
+2021-06,6,Riacho Fundo,41
+2021-06,6,Riacho Fundo II,32
+2021-06,6,SCIA,11
+2021-06,6,SIA,0
+2021-06,6,Samambaia,228
+2021-06,6,Santa Maria,120
+2021-06,6,Sistema Penitenciário,3
+2021-06,6,Sobradinho,163
+2021-06,6,Sobradinho II,19
+2021-06,6,Sudoeste/Octogonal,117
+2021-06,6,São Sebastião,88
+2021-06,6,Taguatinga,301
+2021-06,6,Varjão,4
+2021-06,6,Vicente Pires,85
+2021-06,6,Águas Claras,240
+2021-07,7,Arniqueira,29
+2021-07,7,Brazlândia,105
+2021-07,7,Candangolândia,19
+2021-07,7,Ceilândia,435
+2021-07,7,Cruzeiro,52
+2021-07,7,Entorno DF,0
+2021-07,7,Fercal,7
+2021-07,7,Gama,190
+2021-07,7,Guará,238
+2021-07,7,Itapoã,9
+2021-07,7,Jardim Botânico,48
+2021-07,7,Lago Norte,91
+2021-07,7,Lago Sul,61
+2021-07,7,Núcleo Bandeirante,47
+2021-07,7,Outros Estados,561
+2021-07,7,Paranoá,62
+2021-07,7,Park Way,31
+2021-07,7,Planaltina,219
+2021-07,7,Plano Piloto,490
+2021-07,7,Pôr do Sol,35
+2021-07,7,Recanto das Emas,132
+2021-07,7,Riacho Fundo,71
+2021-07,7,Riacho Fundo II,41
+2021-07,7,SCIA,4
+2021-07,7,SIA,0
+2021-07,7,Samambaia,312
+2021-07,7,Santa Maria,123
+2021-07,7,Sistema Penitenciário,9
+2021-07,7,Sobradinho,247
+2021-07,7,Sobradinho II,32
+2021-07,7,Sudoeste/Octogonal,124
+2021-07,7,São Sebastião,104
+2021-07,7,Taguatinga,405
+2021-07,7,Varjão,33
+2021-07,7,Vicente Pires,99
+2021-07,7,Águas Claras,250
+2021-08,8,Arniqueira,33
+2021-08,8,Brazlândia,129
+2021-08,8,Candangolândia,37
+2021-08,8,Ceilândia,734
+2021-08,8,Cruzeiro,107
+2021-08,8,Entorno DF,0
+2021-08,8,Fercal,13
+2021-08,8,Gama,320
+2021-08,8,Guará,438
+2021-08,8,Itapoã,22
+2021-08,8,Jardim Botânico,93
+2021-08,8,Lago Norte,131
+2021-08,8,Lago Sul,122
+2021-08,8,Núcleo Bandeirante,74
+2021-08,8,Outros Estados,1053
+2021-08,8,Paranoá,64
+2021-08,8,Park Way,71
+2021-08,8,Planaltina,319
+2021-08,8,Plano Piloto,874
+2021-08,8,Pôr do Sol,24
+2021-08,8,Recanto das Emas,200
+2021-08,8,Riacho Fundo,125
+2021-08,8,Riacho Fundo II,64
+2021-08,8,SCIA,21
+2021-08,8,SIA,0
+2021-08,8,Samambaia,528
+2021-08,8,Santa Maria,196
+2021-08,8,Sistema Penitenciário,5
+2021-08,8,Sobradinho,363
+2021-08,8,Sobradinho II,71
+2021-08,8,Sudoeste/Octogonal,228
+2021-08,8,São Sebastião,130
+2021-08,8,Taguatinga,664
+2021-08,8,Varjão,39
+2021-08,8,Vicente Pires,198
+2021-08,8,Águas Claras,511
+2021-09,9,Arniqueira,40
+2021-09,9,Brazlândia,168
+2021-09,9,Candangolândia,56
+2021-09,9,Ceilândia,1053
+2021-09,9,Cruzeiro,169
+2021-09,9,Entorno DF,0
+2021-09,9,Fercal,34
+2021-09,9,Gama,539
+2021-09,9,Guará,642
+2021-09,9,Itapoã,40
+2021-09,9,Jardim Botânico,132
+2021-09,9,Lago Norte,168
+2021-09,9,Lago Sul,231
+2021-09,9,Núcleo Bandeirante,103
+2021-09,9,Outros Estados,1379
+2021-09,9,Paranoá,147
+2021-09,9,Park Way,94
+2021-09,9,Planaltina,464
+2021-09,9,Plano Piloto,1266
+2021-09,9,Pôr do Sol,33
+2021-09,9,Recanto das Emas,269
+2021-09,9,Riacho Fundo,143
+2021-09,9,Riacho Fundo II,106
+2021-09,9,SCIA,24
+2021-09,9,SIA,0
+2021-09,9,Samambaia,577
+2021-09,9,Santa Maria,259
+2021-09,9,Sistema Penitenciário,7
+2021-09,9,Sobradinho,519
+2021-09,9,Sobradinho II,89
+2021-09,9,Sudoeste/Octogonal,309
+2021-09,9,São Sebastião,204
+2021-09,9,Taguatinga,935
+2021-09,9,Varjão,43
+2021-09,9,Vicente Pires,253
+2021-09,9,Águas Claras,625
+2021-10,10,Arniqueira,28
+2021-10,10,Brazlândia,199
+2021-10,10,Candangolândia,55
+2021-10,10,Ceilândia,1235
+2021-10,10,Cruzeiro,149
+2021-10,10,Entorno DF,0
+2021-10,10,Fercal,19
+2021-10,10,Gama,492
+2021-10,10,Guará,619
+2021-10,10,Itapoã,42
+2021-10,10,Jardim Botânico,133
+2021-10,10,Lago Norte,193
+2021-10,10,Lago Sul,162
+2021-10,10,Núcleo Bandeirante,89
+2021-10,10,Outros Estados,1440
+2021-10,10,Paranoá,167
+2021-10,10,Park Way,101
+2021-10,10,Planaltina,429
+2021-10,10,Plano Piloto,1223
+2021-10,10,Pôr do Sol,57
+2021-10,10,Recanto das Emas,294
+2021-10,10,Riacho Fundo,158
+2021-10,10,Riacho Fundo II,119
+2021-10,10,SCIA,69
+2021-10,10,SIA,2
+2021-10,10,Samambaia,613
+2021-10,10,Santa Maria,304
+2021-10,10,Sistema Penitenciário,32
+2021-10,10,Sobradinho,567
+2021-10,10,Sobradinho II,86
+2021-10,10,Sudoeste/Octogonal,283
+2021-10,10,São Sebastião,203
+2021-10,10,Taguatinga,866
+2021-10,10,Varjão,36
+2021-10,10,Vicente Pires,194
+2021-10,10,Águas Claras,670
+2021-11,11,Arniqueira,42
+2021-11,11,Brazlândia,257
+2021-11,11,Candangolândia,66
+2021-11,11,Ceilândia,1206
+2021-11,11,Cruzeiro,139
+2021-11,11,Entorno DF,0
+2021-11,11,Fercal,11
+2021-11,11,Gama,518
+2021-11,11,Guará,581
+2021-11,11,Itapoã,51
+2021-11,11,Jardim Botânico,98
+2021-11,11,Lago Norte,185
+2021-11,11,Lago Sul,141
+2021-11,11,Núcleo Bandeirante,89
+2021-11,11,Outros Estados,1351
+2021-11,11,Paranoá,180
+2021-11,11,Park Way,102
+2021-11,11,Planaltina,436
+2021-11,11,Plano Piloto,1188
+2021-11,11,Pôr do Sol,92
+2021-11,11,Recanto das Emas,281
+2021-11,11,Riacho Fundo,172
+2021-11,11,Riacho Fundo II,150
+2021-11,11,SCIA,38
+2021-11,11,SIA,2
+2021-11,11,Samambaia,698
+2021-11,11,Santa Maria,273
+2021-11,11,Sistema Penitenciário,11
+2021-11,11,Sobradinho,405
+2021-11,11,Sobradinho II,121
+2021-11,11,Sudoeste/Octogonal,258
+2021-11,11,São Sebastião,280
+2021-11,11,Taguatinga,1031
+2021-11,11,Varjão,39
+2021-11,11,Vicente Pires,255
+2021-11,11,Águas Claras,608
+2021-12,12,Arniqueira,25
+2021-12,12,Brazlândia,214
+2021-12,12,Candangolândia,45
+2021-12,12,Ceilândia,1150
+2021-12,12,Cruzeiro,129
+2021-12,12,Entorno DF,0
+2021-12,12,Fercal,10
+2021-12,12,Gama,385
+2021-12,12,Guará,508
+2021-12,12,Itapoã,72
+2021-12,12,Jardim Botânico,76
+2021-12,12,Lago Norte,154
+2021-12,12,Lago Sul,163
+2021-12,12,Núcleo Bandeirante,75
+2021-12,12,Outros Estados,1149
+2021-12,12,Paranoá,206
+2021-12,12,Park Way,96
+2021-12,12,Planaltina,395
+2021-12,12,Plano Piloto,1083
+2021-12,12,Pôr do Sol,89
+2021-12,12,Recanto das Emas,248
+2021-12,12,Riacho Fundo,130
+2021-12,12,Riacho Fundo II,95
+2021-12,12,SCIA,17
+2021-12,12,SIA,1
+2021-12,12,Samambaia,515
+2021-12,12,Santa Maria,258
+2021-12,12,Sistema Penitenciário,20
+2021-12,12,Sobradinho,416
+2021-12,12,Sobradinho II,123
+2021-12,12,Sudoeste/Octogonal,189
+2021-12,12,São Sebastião,243
+2021-12,12,Taguatinga,782
+2021-12,12,Varjão,46
+2021-12,12,Vicente Pires,195
+2021-12,12,Águas Claras,444
+2021-13,13,Arniqueira,21
+2021-13,13,Brazlândia,190
+2021-13,13,Candangolândia,66
+2021-13,13,Ceilândia,1004
+2021-13,13,Cruzeiro,126
+2021-13,13,Entorno DF,0
+2021-13,13,Fercal,8
+2021-13,13,Gama,325
+2021-13,13,Guará,457
+2021-13,13,Itapoã,70
+2021-13,13,Jardim Botânico,90
+2021-13,13,Lago Norte,116
+2021-13,13,Lago Sul,120
+2021-13,13,Núcleo Bandeirante,64
+2021-13,13,Outros Estados,1055
+2021-13,13,Paranoá,163
+2021-13,13,Park Way,73
+2021-13,13,Planaltina,387
+2021-13,13,Plano Piloto,838
+2021-13,13,Pôr do Sol,82
+2021-13,13,Recanto das Emas,230
+2021-13,13,Riacho Fundo,120
+2021-13,13,Riacho Fundo II,88
+2021-13,13,SCIA,21
+2021-13,13,SIA,0
+2021-13,13,Samambaia,431
+2021-13,13,Santa Maria,249
+2021-13,13,Sistema Penitenciário,5
+2021-13,13,Sobradinho,357
+2021-13,13,Sobradinho II,88
+2021-13,13,Sudoeste/Octogonal,164
+2021-13,13,São Sebastião,241
+2021-13,13,Taguatinga,634
+2021-13,13,Varjão,62
+2021-13,13,Vicente Pires,156
+2021-13,13,Águas Claras,425
+2021-14,14,Arniqueira,20
+2021-14,14,Brazlândia,179
+2021-14,14,Candangolândia,55
+2021-14,14,Ceilândia,986
+2021-14,14,Cruzeiro,78
+2021-14,14,Entorno DF,0
+2021-14,14,Fercal,7
+2021-14,14,Gama,345
+2021-14,14,Guará,353
+2021-14,14,Itapoã,65
+2021-14,14,Jardim Botânico,91
+2021-14,14,Lago Norte,133
+2021-14,14,Lago Sul,107
+2021-14,14,Núcleo Bandeirante,93
+2021-14,14,Outros Estados,1013
+2021-14,14,Paranoá,144
+2021-14,14,Park Way,76
+2021-14,14,Planaltina,332
+2021-14,14,Plano Piloto,751
+2021-14,14,Pôr do Sol,79
+2021-14,14,Recanto das Emas,243
+2021-14,14,Riacho Fundo,104
+2021-14,14,Riacho Fundo II,97
+2021-14,14,SCIA,24
+2021-14,14,SIA,0
+2021-14,14,Samambaia,456
+2021-14,14,Santa Maria,261
+2021-14,14,Sistema Penitenciário,17
+2021-14,14,Sobradinho,389
+2021-14,14,Sobradinho II,91
+2021-14,14,Sudoeste/Octogonal,174
+2021-14,14,São Sebastião,229
+2021-14,14,Taguatinga,602
+2021-14,14,Varjão,53
+2021-14,14,Vicente Pires,123
+2021-14,14,Águas Claras,368
+2021-15,15,Arniqueira,18
+2021-15,15,Brazlândia,127
+2021-15,15,Candangolândia,33
+2021-15,15,Ceilândia,795
+2021-15,15,Cruzeiro,81
+2021-15,15,Entorno DF,0
+2021-15,15,Fercal,6
+2021-15,15,Gama,309
+2021-15,15,Guará,342
+2021-15,15,Itapoã,64
+2021-15,15,Jardim Botânico,58
+2021-15,15,Lago Norte,78
+2021-15,15,Lago Sul,82
+2021-15,15,Núcleo Bandeirante,90
+2021-15,15,Outros Estados,705
+2021-15,15,Paranoá,122
+2021-15,15,Park Way,47
+2021-15,15,Planaltina,291
+2021-15,15,Plano Piloto,652
+2021-15,15,Pôr do Sol,65
+2021-15,15,Recanto das Emas,198
+2021-15,15,Riacho Fundo,79
+2021-15,15,Riacho Fundo II,51
+2021-15,15,SCIA,27
+2021-15,15,SIA,0
+2021-15,15,Samambaia,318
+2021-15,15,Santa Maria,170
+2021-15,15,Sistema Penitenciário,5
+2021-15,15,Sobradinho,298
+2021-15,15,Sobradinho II,69
+2021-15,15,Sudoeste/Octogonal,124
+2021-15,15,São Sebastião,191
+2021-15,15,Taguatinga,513
+2021-15,15,Varjão,22
+2021-15,15,Vicente Pires,120
+2021-15,15,Águas Claras,308
+2021-16,16,Arniqueira,24
+2021-16,16,Brazlândia,135
+2021-16,16,Candangolândia,32
+2021-16,16,Ceilândia,819
+2021-16,16,Cruzeiro,83
+2021-16,16,Entorno DF,0
+2021-16,16,Fercal,12
+2021-16,16,Gama,284
+2021-16,16,Guará,276
+2021-16,16,Itapoã,54
+2021-16,16,Jardim Botânico,59
+2021-16,16,Lago Norte,69
+2021-16,16,Lago Sul,87
+2021-16,16,Núcleo Bandeirante,83
+2021-16,16,Outros Estados,612
+2021-16,16,Paranoá,125
+2021-16,16,Park Way,46
+2021-16,16,Planaltina,253
+2021-16,16,Plano Piloto,535
+2021-16,16,Pôr do Sol,77
+2021-16,16,Recanto das Emas,222
+2021-16,16,Riacho Fundo,77
+2021-16,16,Riacho Fundo II,59
+2021-16,16,SCIA,20
+2021-16,16,SIA,1
+2021-16,16,Samambaia,309
+2021-16,16,Santa Maria,156
+2021-16,16,Sistema Penitenciário,15
+2021-16,16,Sobradinho,257
+2021-16,16,Sobradinho II,78
+2021-16,16,Sudoeste/Octogonal,111
+2021-16,16,São Sebastião,175
+2021-16,16,Taguatinga,474
+2021-16,16,Varjão,15
+2021-16,16,Vicente Pires,120
+2021-16,16,Águas Claras,254
+2021-17,17,Arniqueira,17
+2021-17,17,Brazlândia,131
+2021-17,17,Candangolândia,21
+2021-17,17,Ceilândia,634
+2021-17,17,Cruzeiro,61
+2021-17,17,Entorno DF,0
+2021-17,17,Fercal,14
+2021-17,17,Gama,221
+2021-17,17,Guará,245
+2021-17,17,Itapoã,44
+2021-17,17,Jardim Botânico,57
+2021-17,17,Lago Norte,72
+2021-17,17,Lago Sul,83
+2021-17,17,Núcleo Bandeirante,45
+2021-17,17,Outros Estados,519
+2021-17,17,Paranoá,94
+2021-17,17,Park Way,38
+2021-17,17,Planaltina,270
+2021-17,17,Plano Piloto,490
+2021-17,17,Pôr do Sol,60
+2021-17,17,Recanto das Emas,172
+2021-17,17,Riacho Fundo,71
+2021-17,17,Riacho Fundo II,55
+2021-17,17,SCIA,29
+2021-17,17,SIA,0
+2021-17,17,Samambaia,292
+2021-17,17,Santa Maria,121
+2021-17,17,Sistema Penitenciário,18
+2021-17,17,Sobradinho,260
+2021-17,17,Sobradinho II,37
+2021-17,17,Sudoeste/Octogonal,101
+2021-17,17,São Sebastião,185
+2021-17,17,Taguatinga,463
+2021-17,17,Varjão,12
+2021-17,17,Vicente Pires,92
+2021-17,17,Águas Claras,255
+2021-18,18,Arniqueira,14
+2021-18,18,Brazlândia,116
+2021-18,18,Candangolândia,25
+2021-18,18,Ceilândia,601
+2021-18,18,Cruzeiro,57
+2021-18,18,Entorno DF,0
+2021-18,18,Fercal,15
+2021-18,18,Gama,212
+2021-18,18,Guará,229
+2021-18,18,Itapoã,40
+2021-18,18,Jardim Botânico,49
+2021-18,18,Lago Norte,78
+2021-18,18,Lago Sul,103
+2021-18,18,Núcleo Bandeirante,35
+2021-18,18,Outros Estados,617
+2021-18,18,Paranoá,66
+2021-18,18,Park Way,50
+2021-18,18,Planaltina,242
+2021-18,18,Plano Piloto,590
+2021-18,18,Pôr do Sol,87
+2021-18,18,Recanto das Emas,157
+2021-18,18,Riacho Fundo,57
+2021-18,18,Riacho Fundo II,50
+2021-18,18,SCIA,16
+2021-18,18,SIA,1
+2021-18,18,Samambaia,271
+2021-18,18,Santa Maria,128
+2021-18,18,Sistema Penitenciário,1
+2021-18,18,Sobradinho,231
+2021-18,18,Sobradinho II,54
+2021-18,18,Sudoeste/Octogonal,109
+2021-18,18,São Sebastião,155
+2021-18,18,Taguatinga,396
+2021-18,18,Varjão,18
+2021-18,18,Vicente Pires,97
+2021-18,18,Águas Claras,260
+2021-19,19,Arniqueira,18
+2021-19,19,Brazlândia,137
+2021-19,19,Candangolândia,20
+2021-19,19,Ceilândia,608
+2021-19,19,Cruzeiro,52
+2021-19,19,Entorno DF,0
+2021-19,19,Fercal,13
+2021-19,19,Gama,231
+2021-19,19,Guará,248
+2021-19,19,Itapoã,38
+2021-19,19,Jardim Botânico,71
+2021-19,19,Lago Norte,115
+2021-19,19,Lago Sul,94
+2021-19,19,Núcleo Bandeirante,53
+2021-19,19,Outros Estados,609
+2021-19,19,Paranoá,121
+2021-19,19,Park Way,33
+2021-19,19,Planaltina,267
+2021-19,19,Plano Piloto,549
+2021-19,19,Pôr do Sol,104
+2021-19,19,Recanto das Emas,132
+2021-19,19,Riacho Fundo,65
+2021-19,19,Riacho Fundo II,45
+2021-19,19,SCIA,33
+2021-19,19,SIA,0
+2021-19,19,Samambaia,272
+2021-19,19,Santa Maria,134
+2021-19,19,Sistema Penitenciário,6
+2021-19,19,Sobradinho,232
+2021-19,19,Sobradinho II,79
+2021-19,19,Sudoeste/Octogonal,91
+2021-19,19,São Sebastião,177
+2021-19,19,Taguatinga,388
+2021-19,19,Varjão,17
+2021-19,19,Vicente Pires,101
+2021-19,19,Águas Claras,259
+2021-20,20,Arniqueira,24
+2021-20,20,Brazlândia,116
+2021-20,20,Candangolândia,37
+2021-20,20,Ceilândia,641
+2021-20,20,Cruzeiro,53
+2021-20,20,Entorno DF,0
+2021-20,20,Fercal,18
+2021-20,20,Gama,218
+2021-20,20,Guará,261
+2021-20,20,Itapoã,36
+2021-20,20,Jardim Botânico,59
+2021-20,20,Lago Norte,99
+2021-20,20,Lago Sul,118
+2021-20,20,Núcleo Bandeirante,39
+2021-20,20,Outros Estados,670
+2021-20,20,Paranoá,91
+2021-20,20,Park Way,33
+2021-20,20,Planaltina,277
+2021-20,20,Plano Piloto,597
+2021-20,20,Pôr do Sol,72
+2021-20,20,Recanto das Emas,130
+2021-20,20,Riacho Fundo,64
+2021-20,20,Riacho Fundo II,57
+2021-20,20,SCIA,40
+2021-20,20,SIA,1
+2021-20,20,Samambaia,245
+2021-20,20,Santa Maria,116
+2021-20,20,Sistema Penitenciário,3
+2021-20,20,Sobradinho,224
+2021-20,20,Sobradinho II,56
+2021-20,20,Sudoeste/Octogonal,117
+2021-20,20,São Sebastião,193
+2021-20,20,Taguatinga,412
+2021-20,20,Varjão,18
+2021-20,20,Vicente Pires,102
+2021-20,20,Águas Claras,252
+2021-21,21,Arniqueira,23
+2021-21,21,Brazlândia,139
+2021-21,21,Candangolândia,35
+2021-21,21,Ceilândia,602
+2021-21,21,Cruzeiro,45
+2021-21,21,Entorno DF,0
+2021-21,21,Fercal,15
+2021-21,21,Gama,205
+2021-21,21,Guará,316
+2021-21,21,Itapoã,32
+2021-21,21,Jardim Botânico,75
+2021-21,21,Lago Norte,117
+2021-21,21,Lago Sul,112
+2021-21,21,Núcleo Bandeirante,41
+2021-21,21,Outros Estados,700
+2021-21,21,Paranoá,91
+2021-21,21,Park Way,34
+2021-21,21,Planaltina,302
+2021-21,21,Plano Piloto,695
+2021-21,21,Pôr do Sol,68
+2021-21,21,Recanto das Emas,139
+2021-21,21,Riacho Fundo,95
+2021-21,21,Riacho Fundo II,50
+2021-21,21,SCIA,42
+2021-21,21,SIA,0
+2021-21,21,Samambaia,280
+2021-21,21,Santa Maria,114
+2021-21,21,Sistema Penitenciário,5
+2021-21,21,Sobradinho,249
+2021-21,21,Sobradinho II,46
+2021-21,21,Sudoeste/Octogonal,164
+2021-21,21,São Sebastião,220
+2021-21,21,Taguatinga,392
+2021-21,21,Varjão,14
+2021-21,21,Vicente Pires,118
+2021-21,21,Águas Claras,250
+2021-22,22,Arniqueira,10
+2021-22,22,Brazlândia,109
+2021-22,22,Candangolândia,37
+2021-22,22,Ceilândia,535
+2021-22,22,Cruzeiro,65
+2021-22,22,Entorno DF,0
+2021-22,22,Fercal,10
+2021-22,22,Gama,204
+2021-22,22,Guará,266
+2021-22,22,Itapoã,35
+2021-22,22,Jardim Botânico,73
+2021-22,22,Lago Norte,96
+2021-22,22,Lago Sul,119
+2021-22,22,Núcleo Bandeirante,45
+2021-22,22,Outros Estados,699
+2021-22,22,Paranoá,67
+2021-22,22,Park Way,58
+2021-22,22,Planaltina,307
+2021-22,22,Plano Piloto,634
+2021-22,22,Pôr do Sol,71
+2021-22,22,Recanto das Emas,134
+2021-22,22,Riacho Fundo,72
+2021-22,22,Riacho Fundo II,63
+2021-22,22,SCIA,37
+2021-22,22,SIA,0
+2021-22,22,Samambaia,237
+2021-22,22,Santa Maria,88
+2021-22,22,Sistema Penitenciário,12
+2021-22,22,Sobradinho,252
+2021-22,22,Sobradinho II,35
+2021-22,22,Sudoeste/Octogonal,146
+2021-22,22,São Sebastião,156
+2021-22,22,Taguatinga,419
+2021-22,22,Varjão,12
+2021-22,22,Vicente Pires,99
+2021-22,22,Águas Claras,279
+2021-23,23,Arniqueira,27
+2021-23,23,Brazlândia,114
+2021-23,23,Candangolândia,21
+2021-23,23,Ceilândia,520
+2021-23,23,Cruzeiro,59
+2021-23,23,Entorno DF,0
+2021-23,23,Fercal,7
+2021-23,23,Gama,201
+2021-23,23,Guará,288
+2021-23,23,Itapoã,52
+2021-23,23,Jardim Botânico,62
+2021-23,23,Lago Norte,138
+2021-23,23,Lago Sul,128
+2021-23,23,Núcleo Bandeirante,52
+2021-23,23,Outros Estados,642
+2021-23,23,Paranoá,88
+2021-23,23,Park Way,50
+2021-23,23,Planaltina,283
+2021-23,23,Plano Piloto,687
+2021-23,23,Pôr do Sol,73
+2021-23,23,Recanto das Emas,134
+2021-23,23,Riacho Fundo,85
+2021-23,23,Riacho Fundo II,51
+2021-23,23,SCIA,33
+2021-23,23,SIA,0
+2021-23,23,Samambaia,251
+2021-23,23,Santa Maria,108
+2021-23,23,Sistema Penitenciário,1
+2021-23,23,Sobradinho,279
+2021-23,23,Sobradinho II,67
+2021-23,23,Sudoeste/Octogonal,156
+2021-23,23,São Sebastião,196
+2021-23,23,Taguatinga,404
+2021-23,23,Varjão,24
+2021-23,23,Vicente Pires,113
+2021-23,23,Águas Claras,278
+2021-24,24,Arniqueira,23
+2021-24,24,Brazlândia,68
+2021-24,24,Candangolândia,27
+2021-24,24,Ceilândia,417
+2021-24,24,Cruzeiro,66
+2021-24,24,Entorno DF,0
+2021-24,24,Fercal,7
+2021-24,24,Gama,192
+2021-24,24,Guará,268
+2021-24,24,Itapoã,23
+2021-24,24,Jardim Botânico,61
+2021-24,24,Lago Norte,96
+2021-24,24,Lago Sul,111
+2021-24,24,Núcleo Bandeirante,38
+2021-24,24,Outros Estados,581
+2021-24,24,Paranoá,89
+2021-24,24,Park Way,45
+2021-24,24,Planaltina,318
+2021-24,24,Plano Piloto,579
+2021-24,24,Pôr do Sol,60
+2021-24,24,Recanto das Emas,117
+2021-24,24,Riacho Fundo,62
+2021-24,24,Riacho Fundo II,61
+2021-24,24,SCIA,21
+2021-24,24,SIA,3
+2021-24,24,Samambaia,202
+2021-24,24,Santa Maria,123
+2021-24,24,Sistema Penitenciário,4
+2021-24,24,Sobradinho,255
+2021-24,24,Sobradinho II,54
+2021-24,24,Sudoeste/Octogonal,141
+2021-24,24,São Sebastião,130
+2021-24,24,Taguatinga,352
+2021-24,24,Varjão,17
+2021-24,24,Vicente Pires,104
+2021-24,24,Águas Claras,281
+2021-25,25,Arniqueira,8
+2021-25,25,Brazlândia,93
+2021-25,25,Candangolândia,21
+2021-25,25,Ceilândia,453
+2021-25,25,Cruzeiro,55
+2021-25,25,Entorno DF,0
+2021-25,25,Fercal,11
+2021-25,25,Gama,156
+2021-25,25,Guará,232
+2021-25,25,Itapoã,26
+2021-25,25,Jardim Botânico,56
+2021-25,25,Lago Norte,82
+2021-25,25,Lago Sul,107
+2021-25,25,Núcleo Bandeirante,36
+2021-25,25,Outros Estados,526
+2021-25,25,Paranoá,59
+2021-25,25,Park Way,46
+2021-25,25,Planaltina,233
+2021-25,25,Plano Piloto,536
+2021-25,25,Pôr do Sol,43
+2021-25,25,Recanto das Emas,126
+2021-25,25,Riacho Fundo,56
+2021-25,25,Riacho Fundo II,49
+2021-25,25,SCIA,13
+2021-25,25,SIA,0
+2021-25,25,Samambaia,193
+2021-25,25,Santa Maria,101
+2021-25,25,Sistema Penitenciário,4
+2021-25,25,Sobradinho,275
+2021-25,25,Sobradinho II,38
+2021-25,25,Sudoeste/Octogonal,93
+2021-25,25,São Sebastião,114
+2021-25,25,Taguatinga,311
+2021-25,25,Varjão,10
+2021-25,25,Vicente Pires,93
+2021-25,25,Águas Claras,251
+2021-26,26,Arniqueira,15
+2021-26,26,Brazlândia,80
+2021-26,26,Candangolândia,17
+2021-26,26,Ceilândia,409
+2021-26,26,Cruzeiro,61
+2021-26,26,Entorno DF,0
+2021-26,26,Fercal,13
+2021-26,26,Gama,175
+2021-26,26,Guará,226
+2021-26,26,Itapoã,20
+2021-26,26,Jardim Botânico,59
+2021-26,26,Lago Norte,74
+2021-26,26,Lago Sul,64
+2021-26,26,Núcleo Bandeirante,37
+2021-26,26,Outros Estados,450
+2021-26,26,Paranoá,60
+2021-26,26,Park Way,39
+2021-26,26,Planaltina,207
+2021-26,26,Plano Piloto,520
+2021-26,26,Pôr do Sol,46
+2021-26,26,Recanto das Emas,93
+2021-26,26,Riacho Fundo,53
+2021-26,26,Riacho Fundo II,27
+2021-26,26,SCIA,17
+2021-26,26,SIA,1
+2021-26,26,Samambaia,181
+2021-26,26,Santa Maria,110
+2021-26,26,Sistema Penitenciário,5
+2021-26,26,Sobradinho,212
+2021-26,26,Sobradinho II,42
+2021-26,26,Sudoeste/Octogonal,125
+2021-26,26,São Sebastião,146
+2021-26,26,Taguatinga,292
+2021-26,26,Varjão,11
+2021-26,26,Vicente Pires,99
+2021-26,26,Águas Claras,252
+2021-27,27,Arniqueira,15
+2021-27,27,Brazlândia,58
+2021-27,27,Candangolândia,18
+2021-27,27,Ceilândia,420
+2021-27,27,Cruzeiro,44
+2021-27,27,Entorno DF,0
+2021-27,27,Fercal,19
+2021-27,27,Gama,160
+2021-27,27,Guará,257
+2021-27,27,Itapoã,13
+2021-27,27,Jardim Botânico,55
+2021-27,27,Lago Norte,63
+2021-27,27,Lago Sul,83
+2021-27,27,Núcleo Bandeirante,46
+2021-27,27,Outros Estados,486
+2021-27,27,Paranoá,69
+2021-27,27,Park Way,36
+2021-27,27,Planaltina,209
+2021-27,27,Plano Piloto,503
+2021-27,27,Pôr do Sol,42
+2021-27,27,Recanto das Emas,103
+2021-27,27,Riacho Fundo,64
+2021-27,27,Riacho Fundo II,43
+2021-27,27,SCIA,20
+2021-27,27,SIA,1
+2021-27,27,Samambaia,237
+2021-27,27,Santa Maria,89
+2021-27,27,Sistema Penitenciário,0
+2021-27,27,Sobradinho,168
+2021-27,27,Sobradinho II,57
+2021-27,27,Sudoeste/Octogonal,109
+2021-27,27,São Sebastião,121
+2021-27,27,Taguatinga,297
+2021-27,27,Varjão,10
+2021-27,27,Vicente Pires,69
+2021-27,27,Águas Claras,255
+2021-28,28,Arniqueira,16
+2021-28,28,Brazlândia,48
+2021-28,28,Candangolândia,30
+2021-28,28,Ceilândia,381
+2021-28,28,Cruzeiro,49
+2021-28,28,Entorno DF,0
+2021-28,28,Fercal,21
+2021-28,28,Gama,191
+2021-28,28,Guará,246
+2021-28,28,Itapoã,25
+2021-28,28,Jardim Botânico,45
+2021-28,28,Lago Norte,73
+2021-28,28,Lago Sul,63
+2021-28,28,Núcleo Bandeirante,61
+2021-28,28,Outros Estados,426
+2021-28,28,Paranoá,50
+2021-28,28,Park Way,37
+2021-28,28,Planaltina,203
+2021-28,28,Plano Piloto,533
+2021-28,28,Pôr do Sol,39
+2021-28,28,Recanto das Emas,118
+2021-28,28,Riacho Fundo,58
+2021-28,28,Riacho Fundo II,30
+2021-28,28,SCIA,22
+2021-28,28,SIA,0
+2021-28,28,Samambaia,202
+2021-28,28,Santa Maria,103
+2021-28,28,Sistema Penitenciário,2
+2021-28,28,Sobradinho,214
+2021-28,28,Sobradinho II,31
+2021-28,28,Sudoeste/Octogonal,108
+2021-28,28,São Sebastião,113
+2021-28,28,Taguatinga,318
+2021-28,28,Varjão,7
+2021-28,28,Vicente Pires,104
+2021-28,28,Águas Claras,252
+2021-29,29,Arniqueira,14
+2021-29,29,Brazlândia,50
+2021-29,29,Candangolândia,21
+2021-29,29,Ceilândia,400
+2021-29,29,Cruzeiro,62
+2021-29,29,Entorno DF,0
+2021-29,29,Fercal,12
+2021-29,29,Gama,188
+2021-29,29,Guará,235
+2021-29,29,Itapoã,18
+2021-29,29,Jardim Botânico,65
+2021-29,29,Lago Norte,78
+2021-29,29,Lago Sul,62
+2021-29,29,Núcleo Bandeirante,54
+2021-29,29,Outros Estados,395
+2021-29,29,Paranoá,76
+2021-29,29,Park Way,49
+2021-29,29,Planaltina,223
+2021-29,29,Plano Piloto,617
+2021-29,29,Pôr do Sol,48
+2021-29,29,Recanto das Emas,113
+2021-29,29,Riacho Fundo,79
+2021-29,29,Riacho Fundo II,30
+2021-29,29,SCIA,29
+2021-29,29,SIA,0
+2021-29,29,Samambaia,183
+2021-29,29,Santa Maria,124
+2021-29,29,Sistema Penitenciário,1
+2021-29,29,Sobradinho,204
+2021-29,29,Sobradinho II,43
+2021-29,29,Sudoeste/Octogonal,120
+2021-29,29,São Sebastião,101
+2021-29,29,Taguatinga,377
+2021-29,29,Varjão,15
+2021-29,29,Vicente Pires,80
+2021-29,29,Águas Claras,290
+2021-30,30,Arniqueira,11
+2021-30,30,Brazlândia,58
+2021-30,30,Candangolândia,31
+2021-30,30,Ceilândia,360
+2021-30,30,Cruzeiro,60
+2021-30,30,Entorno DF,0
+2021-30,30,Fercal,10
+2021-30,30,Gama,205
+2021-30,30,Guará,225
+2021-30,30,Itapoã,18
+2021-30,30,Jardim Botânico,59
+2021-30,30,Lago Norte,51
+2021-30,30,Lago Sul,92
+2021-30,30,Núcleo Bandeirante,37
+2021-30,30,Outros Estados,276
+2021-30,30,Paranoá,58
+2021-30,30,Park Way,54
+2021-30,30,Planaltina,189
+2021-30,30,Plano Piloto,601
+2021-30,30,Pôr do Sol,45
+2021-30,30,Recanto das Emas,82
+2021-30,30,Riacho Fundo,68
+2021-30,30,Riacho Fundo II,51
+2021-30,30,SCIA,27
+2021-30,30,SIA,1
+2021-30,30,Samambaia,190
+2021-30,30,Santa Maria,117
+2021-30,30,Sistema Penitenciário,0
+2021-30,30,Sobradinho,220
+2021-30,30,Sobradinho II,52
+2021-30,30,Sudoeste/Octogonal,126
+2021-30,30,São Sebastião,87
+2021-30,30,Taguatinga,349
+2021-30,30,Varjão,8
+2021-30,30,Vicente Pires,91
+2021-30,30,Águas Claras,250
+2021-31,31,Arniqueira,13
+2021-31,31,Brazlândia,38
+2021-31,31,Candangolândia,16
+2021-31,31,Ceilândia,300
+2021-31,31,Cruzeiro,57
+2021-31,31,Entorno DF,0
+2021-31,31,Fercal,5
+2021-31,31,Gama,194
+2021-31,31,Guará,221
+2021-31,31,Itapoã,20
+2021-31,31,Jardim Botânico,47
+2021-31,31,Lago Norte,74
+2021-31,31,Lago Sul,82
+2021-31,31,Núcleo Bandeirante,47
+2021-31,31,Outros Estados,335
+2021-31,31,Paranoá,60
+2021-31,31,Park Way,27
+2021-31,31,Planaltina,161
+2021-31,31,Plano Piloto,637
+2021-31,31,Pôr do Sol,28
+2021-31,31,Recanto das Emas,97
+2021-31,31,Riacho Fundo,64
+2021-31,31,Riacho Fundo II,31
+2021-31,31,SCIA,12
+2021-31,31,SIA,1
+2021-31,31,Samambaia,147
+2021-31,31,Santa Maria,87
+2021-31,31,Sistema Penitenciário,5
+2021-31,31,Sobradinho,205
+2021-31,31,Sobradinho II,38
+2021-31,31,Sudoeste/Octogonal,127
+2021-31,31,São Sebastião,101
+2021-31,31,Taguatinga,288
+2021-31,31,Varjão,15
+2021-31,31,Vicente Pires,98
+2021-31,31,Águas Claras,260
+2021-32,32,Arniqueira,11
+2021-32,32,Brazlândia,69
+2021-32,32,Candangolândia,30
+2021-32,32,Ceilândia,493
+2021-32,32,Cruzeiro,70
+2021-32,32,Entorno DF,0
+2021-32,32,Fercal,12
+2021-32,32,Gama,208
+2021-32,32,Guará,296
+2021-32,32,Itapoã,11
+2021-32,32,Jardim Botânico,43
+2021-32,32,Lago Norte,75
+2021-32,32,Lago Sul,82
+2021-32,32,Núcleo Bandeirante,65
+2021-32,32,Outros Estados,353
+2021-32,32,Paranoá,61
+2021-32,32,Park Way,35
+2021-32,32,Planaltina,278
+2021-32,32,Plano Piloto,570
+2021-32,32,Pôr do Sol,52
+2021-32,32,Recanto das Emas,152
+2021-32,32,Riacho Fundo,90
+2021-32,32,Riacho Fundo II,47
+2021-32,32,SCIA,29
+2021-32,32,SIA,2
+2021-32,32,Samambaia,234
+2021-32,32,Santa Maria,130
+2021-32,32,Sistema Penitenciário,0
+2021-32,32,Sobradinho,282
+2021-32,32,Sobradinho II,67
+2021-32,32,Sudoeste/Octogonal,136
+2021-32,32,São Sebastião,130
+2021-32,32,Taguatinga,349
+2021-32,32,Varjão,10
+2021-32,32,Vicente Pires,105
+2021-32,32,Águas Claras,319
+2021-33,33,Arniqueira,13
+2021-33,33,Brazlândia,56
+2021-33,33,Candangolândia,23
+2021-33,33,Ceilândia,379
+2021-33,33,Cruzeiro,62
+2021-33,33,Entorno DF,0
+2021-33,33,Fercal,22
+2021-33,33,Gama,239
+2021-33,33,Guará,241
+2021-33,33,Itapoã,18
+2021-33,33,Jardim Botânico,53
+2021-33,33,Lago Norte,74
+2021-33,33,Lago Sul,71
+2021-33,33,Núcleo Bandeirante,55
+2021-33,33,Outros Estados,331
+2021-33,33,Paranoá,69
+2021-33,33,Park Way,37
+2021-33,33,Planaltina,145
+2021-33,33,Plano Piloto,691
+2021-33,33,Pôr do Sol,20
+2021-33,33,Recanto das Emas,105
+2021-33,33,Riacho Fundo,68
+2021-33,33,Riacho Fundo II,53
+2021-33,33,SCIA,17
+2021-33,33,SIA,1
+2021-33,33,Samambaia,161
+2021-33,33,Santa Maria,118
+2021-33,33,Sistema Penitenciário,0
+2021-33,33,Sobradinho,284
+2021-33,33,Sobradinho II,29
+2021-33,33,Sudoeste/Octogonal,113
+2021-33,33,São Sebastião,107
+2021-33,33,Taguatinga,272
+2021-33,33,Varjão,4
+2021-33,33,Vicente Pires,100
+2021-33,33,Águas Claras,288
+2021-34,34,Arniqueira,18
+2021-34,34,Brazlândia,63
+2021-34,34,Candangolândia,30
+2021-34,34,Ceilândia,428
+2021-34,34,Cruzeiro,82
+2021-34,34,Entorno DF,0
+2021-34,34,Fercal,25
+2021-34,34,Gama,237
+2021-34,34,Guará,267
+2021-34,34,Itapoã,24
+2021-34,34,Jardim Botânico,57
+2021-34,34,Lago Norte,52
+2021-34,34,Lago Sul,91
+2021-34,34,Núcleo Bandeirante,70
+2021-34,34,Outros Estados,388
+2021-34,34,Paranoá,59
+2021-34,34,Park Way,39
+2021-34,34,Planaltina,208
+2021-34,34,Plano Piloto,637
+2021-34,34,Pôr do Sol,57
+2021-34,34,Recanto das Emas,112
+2021-34,34,Riacho Fundo,75
+2021-34,34,Riacho Fundo II,50
+2021-34,34,SCIA,26
+2021-34,34,SIA,0
+2021-34,34,Samambaia,191
+2021-34,34,Santa Maria,110
+2021-34,34,Sistema Penitenciário,0
+2021-34,34,Sobradinho,227
+2021-34,34,Sobradinho II,27
+2021-34,34,Sudoeste/Octogonal,122
+2021-34,34,São Sebastião,130
+2021-34,34,Taguatinga,324
+2021-34,34,Varjão,7
+2021-34,34,Vicente Pires,93
+2021-34,34,Águas Claras,280
+2021-35,35,Arniqueira,25
+2021-35,35,Brazlândia,61
+2021-35,35,Candangolândia,30
+2021-35,35,Ceilândia,446
+2021-35,35,Cruzeiro,70
+2021-35,35,Entorno DF,0
+2021-35,35,Fercal,17
+2021-35,35,Gama,262
+2021-35,35,Guará,254
+2021-35,35,Itapoã,23
+2021-35,35,Jardim Botânico,61
+2021-35,35,Lago Norte,93
+2021-35,35,Lago Sul,106
+2021-35,35,Núcleo Bandeirante,61
+2021-35,35,Outros Estados,515
+2021-35,35,Paranoá,55
+2021-35,35,Park Way,50
+2021-35,35,Planaltina,300
+2021-35,35,Plano Piloto,679
+2021-35,35,Pôr do Sol,59
+2021-35,35,Recanto das Emas,142
+2021-35,35,Riacho Fundo,62
+2021-35,35,Riacho Fundo II,45
+2021-35,35,SCIA,37
+2021-35,35,SIA,0
+2021-35,35,Samambaia,199
+2021-35,35,Santa Maria,134
+2021-35,35,Sistema Penitenciário,2
+2021-35,35,Sobradinho,298
+2021-35,35,Sobradinho II,53
+2021-35,35,Sudoeste/Octogonal,148
+2021-35,35,São Sebastião,108
+2021-35,35,Taguatinga,329
+2021-35,35,Varjão,19
+2021-35,35,Vicente Pires,97
+2021-35,35,Águas Claras,282
+2021-36,36,Arniqueira,8
+2021-36,36,Brazlândia,60
+2021-36,36,Candangolândia,25
+2021-36,36,Ceilândia,386
+2021-36,36,Cruzeiro,50
+2021-36,36,Entorno DF,0
+2021-36,36,Fercal,10
+2021-36,36,Gama,230
+2021-36,36,Guará,232
+2021-36,36,Itapoã,38
+2021-36,36,Jardim Botânico,56
+2021-36,36,Lago Norte,106
+2021-36,36,Lago Sul,98
+2021-36,36,Núcleo Bandeirante,37
+2021-36,36,Outros Estados,406
+2021-36,36,Paranoá,78
+2021-36,36,Park Way,43
+2021-36,36,Planaltina,199
+2021-36,36,Plano Piloto,625
+2021-36,36,Pôr do Sol,35
+2021-36,36,Recanto das Emas,127
+2021-36,36,Riacho Fundo,55
+2021-36,36,Riacho Fundo II,37
+2021-36,36,SCIA,47
+2021-36,36,SIA,2
+2021-36,36,Samambaia,150
+2021-36,36,Santa Maria,110
+2021-36,36,Sistema Penitenciário,2
+2021-36,36,Sobradinho,218
+2021-36,36,Sobradinho II,23
+2021-36,36,Sudoeste/Octogonal,120
+2021-36,36,São Sebastião,93
+2021-36,36,Taguatinga,319
+2021-36,36,Varjão,5
+2021-36,36,Vicente Pires,90
+2021-36,36,Águas Claras,256
+2021-37,37,Arniqueira,39
+2021-37,37,Brazlândia,81
+2021-37,37,Candangolândia,27
+2021-37,37,Ceilândia,502
+2021-37,37,Cruzeiro,97
+2021-37,37,Entorno DF,0
+2021-37,37,Fercal,2
+2021-37,37,Gama,254
+2021-37,37,Guará,303
+2021-37,37,Itapoã,42
+2021-37,37,Jardim Botânico,75
+2021-37,37,Lago Norte,137
+2021-37,37,Lago Sul,108
+2021-37,37,Núcleo Bandeirante,48
+2021-37,37,Outros Estados,548
+2021-37,37,Paranoá,102
+2021-37,37,Park Way,65
+2021-37,37,Planaltina,275
+2021-37,37,Plano Piloto,768
+2021-37,37,Pôr do Sol,65
+2021-37,37,Recanto das Emas,144
+2021-37,37,Riacho Fundo,78
+2021-37,37,Riacho Fundo II,43
+2021-37,37,SCIA,58
+2021-37,37,SIA,4
+2021-37,37,Samambaia,220
+2021-37,37,Santa Maria,153
+2021-37,37,Sistema Penitenciário,7
+2021-37,37,Sobradinho,248
+2021-37,37,Sobradinho II,27
+2021-37,37,Sudoeste/Octogonal,189
+2021-37,37,São Sebastião,136
+2021-37,37,Taguatinga,422
+2021-37,37,Varjão,18
+2021-37,37,Vicente Pires,119
+2021-37,37,Águas Claras,324
+2021-38,38,Arniqueira,32
+2021-38,38,Brazlândia,104
+2021-38,38,Candangolândia,27
+2021-38,38,Ceilândia,612
+2021-38,38,Cruzeiro,97
+2021-38,38,Entorno DF,0
+2021-38,38,Fercal,8
+2021-38,38,Gama,297
+2021-38,38,Guará,394
+2021-38,38,Itapoã,54
+2021-38,38,Jardim Botânico,59
+2021-38,38,Lago Norte,130
+2021-38,38,Lago Sul,138
+2021-38,38,Núcleo Bandeirante,51
+2021-38,38,Outros Estados,719
+2021-38,38,Paranoá,111
+2021-38,38,Park Way,57
+2021-38,38,Planaltina,247
+2021-38,38,Plano Piloto,890
+2021-38,38,Pôr do Sol,90
+2021-38,38,Recanto das Emas,180
+2021-38,38,Riacho Fundo,94
+2021-38,38,Riacho Fundo II,78
+2021-38,38,SCIA,102
+2021-38,38,SIA,3
+2021-38,38,Samambaia,266
+2021-38,38,Santa Maria,161
+2021-38,38,Sistema Penitenciário,9
+2021-38,38,Sobradinho,335
+2021-38,38,Sobradinho II,52
+2021-38,38,Sudoeste/Octogonal,204
+2021-38,38,São Sebastião,163
+2021-38,38,Taguatinga,552
+2021-38,38,Varjão,26
+2021-38,38,Vicente Pires,142
+2021-38,38,Águas Claras,430
+2021-39,39,Arniqueira,18
+2021-39,39,Brazlândia,139
+2021-39,39,Candangolândia,24
+2021-39,39,Ceilândia,518
+2021-39,39,Cruzeiro,124
+2021-39,39,Entorno DF,0
+2021-39,39,Fercal,11
+2021-39,39,Gama,247
+2021-39,39,Guará,341
+2021-39,39,Itapoã,45
+2021-39,39,Jardim Botânico,77
+2021-39,39,Lago Norte,83
+2021-39,39,Lago Sul,134
+2021-39,39,Núcleo Bandeirante,49
+2021-39,39,Outros Estados,533
+2021-39,39,Paranoá,103
+2021-39,39,Park Way,60
+2021-39,39,Planaltina,203
+2021-39,39,Plano Piloto,801
+2021-39,39,Pôr do Sol,68
+2021-39,39,Recanto das Emas,132
+2021-39,39,Riacho Fundo,88
+2021-39,39,Riacho Fundo II,41
+2021-39,39,SCIA,93
+2021-39,39,SIA,2
+2021-39,39,Samambaia,272
+2021-39,39,Santa Maria,126
+2021-39,39,Sistema Penitenciário,0
+2021-39,39,Sobradinho,310
+2021-39,39,Sobradinho II,32
+2021-39,39,Sudoeste/Octogonal,151
+2021-39,39,São Sebastião,160
+2021-39,39,Taguatinga,428
+2021-39,39,Varjão,16
+2021-39,39,Vicente Pires,136
+2021-39,39,Águas Claras,331
+2021-40,40,Arniqueira,19
+2021-40,40,Brazlândia,94
+2021-40,40,Candangolândia,17
+2021-40,40,Ceilândia,429
+2021-40,40,Cruzeiro,68
+2021-40,40,Entorno DF,0
+2021-40,40,Fercal,6
+2021-40,40,Gama,150
+2021-40,40,Guará,216
+2021-40,40,Itapoã,33
+2021-40,40,Jardim Botânico,46
+2021-40,40,Lago Norte,77
+2021-40,40,Lago Sul,84
+2021-40,40,Núcleo Bandeirante,49
+2021-40,40,Outros Estados,483
+2021-40,40,Paranoá,67
+2021-40,40,Park Way,34
+2021-40,40,Planaltina,207
+2021-40,40,Plano Piloto,558
+2021-40,40,Pôr do Sol,45
+2021-40,40,Recanto das Emas,102
+2021-40,40,Riacho Fundo,56
+2021-40,40,Riacho Fundo II,40
+2021-40,40,SCIA,65
+2021-40,40,SIA,7
+2021-40,40,Samambaia,167
+2021-40,40,Santa Maria,92
+2021-40,40,Sistema Penitenciário,1
+2021-40,40,Sobradinho,213
+2021-40,40,Sobradinho II,13
+2021-40,40,Sudoeste/Octogonal,99
+2021-40,40,São Sebastião,127
+2021-40,40,Taguatinga,301
+2021-40,40,Varjão,6
+2021-40,40,Vicente Pires,67
+2021-40,40,Águas Claras,250
+2021-41,41,Arniqueira,14
+2021-41,41,Brazlândia,53
+2021-41,41,Candangolândia,20
+2021-41,41,Ceilândia,270
+2021-41,41,Cruzeiro,34
+2021-41,41,Entorno DF,0
+2021-41,41,Fercal,3
+2021-41,41,Gama,83
+2021-41,41,Guará,168
+2021-41,41,Itapoã,21
+2021-41,41,Jardim Botânico,18
+2021-41,41,Lago Norte,54
+2021-41,41,Lago Sul,42
+2021-41,41,Núcleo Bandeirante,24
+2021-41,41,Outros Estados,351
+2021-41,41,Paranoá,40
+2021-41,41,Park Way,19
+2021-41,41,Planaltina,137
+2021-41,41,Plano Piloto,379
+2021-41,41,Pôr do Sol,23
+2021-41,41,Recanto das Emas,63
+2021-41,41,Riacho Fundo,30
+2021-41,41,Riacho Fundo II,24
+2021-41,41,SCIA,57
+2021-41,41,SIA,1
+2021-41,41,Samambaia,126
+2021-41,41,Santa Maria,58
+2021-41,41,Sistema Penitenciário,0
+2021-41,41,Sobradinho,122
+2021-41,41,Sobradinho II,14
+2021-41,41,Sudoeste/Octogonal,65
+2021-41,41,São Sebastião,61
+2021-41,41,Taguatinga,209
+2021-41,41,Varjão,5
+2021-41,41,Vicente Pires,75
+2021-41,41,Águas Claras,151
+2021-42,42,Arniqueira,3
+2021-42,42,Brazlândia,37
+2021-42,42,Candangolândia,9
+2021-42,42,Ceilândia,238
+2021-42,42,Cruzeiro,24
+2021-42,42,Entorno DF,0
+2021-42,42,Fercal,5
+2021-42,42,Gama,72
+2021-42,42,Guará,100
+2021-42,42,Itapoã,12
+2021-42,42,Jardim Botânico,22
+2021-42,42,Lago Norte,34
+2021-42,42,Lago Sul,32
+2021-42,42,Núcleo Bandeirante,12
+2021-42,42,Outros Estados,176
+2021-42,42,Paranoá,14
+2021-42,42,Park Way,14
+2021-42,42,Planaltina,78
+2021-42,42,Plano Piloto,195
+2021-42,42,Pôr do Sol,20
+2021-42,42,Recanto das Emas,60
+2021-42,42,Riacho Fundo,22
+2021-42,42,Riacho Fundo II,21
+2021-42,42,SCIA,27
+2021-42,42,SIA,0
+2021-42,42,Samambaia,76
+2021-42,42,Santa Maria,33
+2021-42,42,Sistema Penitenciário,0
+2021-42,42,Sobradinho,84
+2021-42,42,Sobradinho II,14
+2021-42,42,Sudoeste/Octogonal,49
+2021-42,42,São Sebastião,51
+2021-42,42,Taguatinga,139
+2021-42,42,Varjão,7
+2021-42,42,Vicente Pires,31
+2021-42,42,Águas Claras,110
+2021-43,43,Arniqueira,5
+2021-43,43,Brazlândia,25
+2021-43,43,Candangolândia,6
+2021-43,43,Ceilândia,148
+2021-43,43,Cruzeiro,13
+2021-43,43,Entorno DF,0
+2021-43,43,Fercal,3
+2021-43,43,Gama,39
+2021-43,43,Guará,52
+2021-43,43,Itapoã,5
+2021-43,43,Jardim Botânico,18
+2021-43,43,Lago Norte,26
+2021-43,43,Lago Sul,41
+2021-43,43,Núcleo Bandeirante,5
+2021-43,43,Outros Estados,95
+2021-43,43,Paranoá,19
+2021-43,43,Park Way,8
+2021-43,43,Planaltina,41
+2021-43,43,Plano Piloto,145
+2021-43,43,Pôr do Sol,20
+2021-43,43,Recanto das Emas,17
+2021-43,43,Riacho Fundo,20
+2021-43,43,Riacho Fundo II,15
+2021-43,43,SCIA,19
+2021-43,43,SIA,1
+2021-43,43,Samambaia,37
+2021-43,43,Santa Maria,16
+2021-43,43,Sistema Penitenciário,0
+2021-43,43,Sobradinho,32
+2021-43,43,Sobradinho II,7
+2021-43,43,Sudoeste/Octogonal,29
+2021-43,43,São Sebastião,25
+2021-43,43,Taguatinga,82
+2021-43,43,Varjão,0
+2021-43,43,Vicente Pires,20
+2021-43,43,Águas Claras,49
+2021-44,44,Arniqueira,6
+2021-44,44,Brazlândia,12
+2021-44,44,Candangolândia,6
+2021-44,44,Ceilândia,61
+2021-44,44,Cruzeiro,9
+2021-44,44,Entorno DF,0
+2021-44,44,Fercal,1
+2021-44,44,Gama,34
+2021-44,44,Guará,31
+2021-44,44,Itapoã,4
+2021-44,44,Jardim Botânico,15
+2021-44,44,Lago Norte,19
+2021-44,44,Lago Sul,17
+2021-44,44,Núcleo Bandeirante,6
+2021-44,44,Outros Estados,92
+2021-44,44,Paranoá,15
+2021-44,44,Park Way,6
+2021-44,44,Planaltina,20
+2021-44,44,Plano Piloto,88
+2021-44,44,Pôr do Sol,7
+2021-44,44,Recanto das Emas,16
+2021-44,44,Riacho Fundo,4
+2021-44,44,Riacho Fundo II,5
+2021-44,44,SCIA,11
+2021-44,44,SIA,0
+2021-44,44,Samambaia,32
+2021-44,44,Santa Maria,16
+2021-44,44,Sistema Penitenciário,0
+2021-44,44,Sobradinho,34
+2021-44,44,Sobradinho II,5
+2021-44,44,Sudoeste/Octogonal,24
+2021-44,44,São Sebastião,18
+2021-44,44,Taguatinga,45
+2021-44,44,Varjão,2
+2021-44,44,Vicente Pires,24
+2021-44,44,Águas Claras,58
+2021-45,45,Arniqueira,2
+2021-45,45,Brazlândia,13
+2021-45,45,Candangolândia,2
+2021-45,45,Ceilândia,63
+2021-45,45,Cruzeiro,10
+2021-45,45,Entorno DF,0
+2021-45,45,Fercal,2
+2021-45,45,Gama,27
+2021-45,45,Guará,24
+2021-45,45,Itapoã,1
+2021-45,45,Jardim Botânico,5
+2021-45,45,Lago Norte,15
+2021-45,45,Lago Sul,6
+2021-45,45,Núcleo Bandeirante,7
+2021-45,45,Outros Estados,84
+2021-45,45,Paranoá,3
+2021-45,45,Park Way,5
+2021-45,45,Planaltina,18
+2021-45,45,Plano Piloto,71
+2021-45,45,Pôr do Sol,2
+2021-45,45,Recanto das Emas,26
+2021-45,45,Riacho Fundo,5
+2021-45,45,Riacho Fundo II,6
+2021-45,45,SCIA,2
+2021-45,45,SIA,0
+2021-45,45,Samambaia,32
+2021-45,45,Santa Maria,16
+2021-45,45,Sistema Penitenciário,0
+2021-45,45,Sobradinho,22
+2021-45,45,Sobradinho II,3
+2021-45,45,Sudoeste/Octogonal,13
+2021-45,45,São Sebastião,17
+2021-45,45,Taguatinga,40
+2021-45,45,Varjão,4
+2021-45,45,Vicente Pires,12
+2021-45,45,Águas Claras,36
+2021-46,46,Arniqueira,0
+2021-46,46,Brazlândia,6
+2021-46,46,Candangolândia,2
+2021-46,46,Ceilândia,38
+2021-46,46,Cruzeiro,9
+2021-46,46,Entorno DF,0
+2021-46,46,Fercal,2
+2021-46,46,Gama,18
+2021-46,46,Guará,22
+2021-46,46,Itapoã,0
+2021-46,46,Jardim Botânico,5
+2021-46,46,Lago Norte,7
+2021-46,46,Lago Sul,12
+2021-46,46,Núcleo Bandeirante,3
+2021-46,46,Outros Estados,45
+2021-46,46,Paranoá,6
+2021-46,46,Park Way,8
+2021-46,46,Planaltina,18
+2021-46,46,Plano Piloto,41
+2021-46,46,Pôr do Sol,5
+2021-46,46,Recanto das Emas,14
+2021-46,46,Riacho Fundo,6
+2021-46,46,Riacho Fundo II,3
+2021-46,46,SCIA,7
+2021-46,46,SIA,0
+2021-46,46,Samambaia,14
+2021-46,46,Santa Maria,6
+2021-46,46,Sistema Penitenciário,0
+2021-46,46,Sobradinho,24
+2021-46,46,Sobradinho II,3
+2021-46,46,Sudoeste/Octogonal,20
+2021-46,46,São Sebastião,7
+2021-46,46,Taguatinga,22
+2021-46,46,Varjão,0
+2021-46,46,Vicente Pires,11
+2021-46,46,Águas Claras,40
+2021-47,47,Arniqueira,1
+2021-47,47,Brazlândia,15
+2021-47,47,Candangolândia,1
+2021-47,47,Ceilândia,33
+2021-47,47,Cruzeiro,7
+2021-47,47,Entorno DF,0
+2021-47,47,Fercal,0
+2021-47,47,Gama,17
+2021-47,47,Guará,20
+2021-47,47,Itapoã,0
+2021-47,47,Jardim Botânico,9
+2021-47,47,Lago Norte,6
+2021-47,47,Lago Sul,17
+2021-47,47,Núcleo Bandeirante,8
+2021-47,47,Outros Estados,49
+2021-47,47,Paranoá,5
+2021-47,47,Park Way,4
+2021-47,47,Planaltina,13
+2021-47,47,Plano Piloto,60
+2021-47,47,Pôr do Sol,5
+2021-47,47,Recanto das Emas,11
+2021-47,47,Riacho Fundo,4
+2021-47,47,Riacho Fundo II,0
+2021-47,47,SCIA,2
+2021-47,47,SIA,0
+2021-47,47,Samambaia,20
+2021-47,47,Santa Maria,7
+2021-47,47,Sistema Penitenciário,0
+2021-47,47,Sobradinho,22
+2021-47,47,Sobradinho II,1
+2021-47,47,Sudoeste/Octogonal,7
+2021-47,47,São Sebastião,3
+2021-47,47,Taguatinga,35
+2021-47,47,Varjão,0
+2021-47,47,Vicente Pires,8
+2021-47,47,Águas Claras,34
+2021-48,48,Arniqueira,1
+2021-48,48,Brazlândia,7
+2021-48,48,Candangolândia,1
+2021-48,48,Ceilândia,26
+2021-48,48,Cruzeiro,8
+2021-48,48,Entorno DF,0
+2021-48,48,Fercal,0
+2021-48,48,Gama,14
+2021-48,48,Guará,13
+2021-48,48,Itapoã,1
+2021-48,48,Jardim Botânico,4
+2021-48,48,Lago Norte,1
+2021-48,48,Lago Sul,9
+2021-48,48,Núcleo Bandeirante,2
+2021-48,48,Outros Estados,23
+2021-48,48,Paranoá,2
+2021-48,48,Park Way,3
+2021-48,48,Planaltina,15
+2021-48,48,Plano Piloto,67
+2021-48,48,Pôr do Sol,6
+2021-48,48,Recanto das Emas,3
+2021-48,48,Riacho Fundo,5
+2021-48,48,Riacho Fundo II,2
+2021-48,48,SCIA,0
+2021-48,48,SIA,0
+2021-48,48,Samambaia,10
+2021-48,48,Santa Maria,6
+2021-48,48,Sistema Penitenciário,0
+2021-48,48,Sobradinho,26
+2021-48,48,Sobradinho II,3
+2021-48,48,Sudoeste/Octogonal,11
+2021-48,48,São Sebastião,4
+2021-48,48,Taguatinga,19
+2021-48,48,Varjão,0
+2021-48,48,Vicente Pires,5
+2021-48,48,Águas Claras,27
+2021-49,49,Arniqueira,0
+2021-49,49,Brazlândia,4
+2021-49,49,Candangolândia,1
+2021-49,49,Ceilândia,15
+2021-49,49,Cruzeiro,3
+2021-49,49,Entorno DF,0
+2021-49,49,Fercal,0
+2021-49,49,Gama,10
+2021-49,49,Guará,16
+2021-49,49,Itapoã,0
+2021-49,49,Jardim Botânico,4
+2021-49,49,Lago Norte,8
+2021-49,49,Lago Sul,10
+2021-49,49,Núcleo Bandeirante,4
+2021-49,49,Outros Estados,37
+2021-49,49,Paranoá,2
+2021-49,49,Park Way,5
+2021-49,49,Planaltina,4
+2021-49,49,Plano Piloto,63
+2021-49,49,Pôr do Sol,3
+2021-49,49,Recanto das Emas,4
+2021-49,49,Riacho Fundo,4
+2021-49,49,Riacho Fundo II,0
+2021-49,49,SCIA,3
+2021-49,49,SIA,0
+2021-49,49,Samambaia,8
+2021-49,49,Santa Maria,6
+2021-49,49,Sistema Penitenciário,0
+2021-49,49,Sobradinho,5
+2021-49,49,Sobradinho II,1
+2021-49,49,Sudoeste/Octogonal,12
+2021-49,49,São Sebastião,2
+2021-49,49,Taguatinga,11
+2021-49,49,Varjão,0
+2021-49,49,Vicente Pires,4
+2021-49,49,Águas Claras,9
+2021-50,50,Arniqueira,3
+2021-50,50,Brazlândia,3
+2021-50,50,Candangolândia,5
+2021-50,50,Ceilândia,23
+2021-50,50,Cruzeiro,3
+2021-50,50,Entorno DF,0
+2021-50,50,Fercal,0
+2021-50,50,Gama,5
+2021-50,50,Guará,25
+2021-50,50,Itapoã,0
+2021-50,50,Jardim Botânico,7
+2021-50,50,Lago Norte,3
+2021-50,50,Lago Sul,16
+2021-50,50,Núcleo Bandeirante,2
+2021-50,50,Outros Estados,34
+2021-50,50,Paranoá,1
+2021-50,50,Park Way,3
+2021-50,50,Planaltina,8
+2021-50,50,Plano Piloto,69
+2021-50,50,Pôr do Sol,0
+2021-50,50,Recanto das Emas,2
+2021-50,50,Riacho Fundo,5
+2021-50,50,Riacho Fundo II,1
+2021-50,50,SCIA,1
+2021-50,50,SIA,0
+2021-50,50,Samambaia,9
+2021-50,50,Santa Maria,2
+2021-50,50,Sistema Penitenciário,0
+2021-50,50,Sobradinho,17
+2021-50,50,Sobradinho II,0
+2021-50,50,Sudoeste/Octogonal,12
+2021-50,50,São Sebastião,3
+2021-50,50,Taguatinga,14
+2021-50,50,Varjão,0
+2021-50,50,Vicente Pires,3
+2021-50,50,Águas Claras,17
+2021-51,51,Arniqueira,6
+2021-51,51,Brazlândia,4
+2021-51,51,Candangolândia,3
+2021-51,51,Ceilândia,38
+2021-51,51,Cruzeiro,23
+2021-51,51,Entorno DF,0
+2021-51,51,Fercal,6
+2021-51,51,Gama,19
+2021-51,51,Guará,60
+2021-51,51,Itapoã,2
+2021-51,51,Jardim Botânico,31
+2021-51,51,Lago Norte,24
+2021-51,51,Lago Sul,72
+2021-51,51,Núcleo Bandeirante,6
+2021-51,51,Outros Estados,105
+2021-51,51,Paranoá,7
+2021-51,51,Park Way,21
+2021-51,51,Planaltina,10
+2021-51,51,Plano Piloto,217
+2021-51,51,Pôr do Sol,7
+2021-51,51,Recanto das Emas,10
+2021-51,51,Riacho Fundo,8
+2021-51,51,Riacho Fundo II,1
+2021-51,51,SCIA,8
+2021-51,51,SIA,0
+2021-51,51,Samambaia,15
+2021-51,51,Santa Maria,15
+2021-51,51,Sistema Penitenciário,0
+2021-51,51,Sobradinho,38
+2021-51,51,Sobradinho II,3
+2021-51,51,Sudoeste/Octogonal,48
+2021-51,51,São Sebastião,8
+2021-51,51,Taguatinga,51
+2021-51,51,Varjão,2
+2021-51,51,Vicente Pires,12
+2021-51,51,Águas Claras,61
+2021-52,52,Arniqueira,6
+2021-52,52,Brazlândia,9
+2021-52,52,Candangolândia,9
+2021-52,52,Ceilândia,59
+2021-52,52,Cruzeiro,31
+2021-52,52,Entorno DF,0
+2021-52,52,Fercal,5
+2021-52,52,Gama,39
+2021-52,52,Guará,140
+2021-52,52,Itapoã,3
+2021-52,52,Jardim Botânico,79
+2021-52,52,Lago Norte,70
+2021-52,52,Lago Sul,112
+2021-52,52,Núcleo Bandeirante,9
+2021-52,52,Outros Estados,211
+2021-52,52,Paranoá,15
+2021-52,52,Park Way,54
+2021-52,52,Planaltina,24
+2021-52,52,Plano Piloto,530
+2021-52,52,Pôr do Sol,4
+2021-52,52,Recanto das Emas,15
+2021-52,52,Riacho Fundo,16
+2021-52,52,Riacho Fundo II,14
+2021-52,52,SCIA,4
+2021-52,52,SIA,0
+2021-52,52,Samambaia,44
+2021-52,52,Santa Maria,24
+2021-52,52,Sistema Penitenciário,0
+2021-52,52,Sobradinho,92
+2021-52,52,Sobradinho II,8
+2021-52,52,Sudoeste/Octogonal,108
+2021-52,52,São Sebastião,27
+2021-52,52,Taguatinga,95
+2021-52,52,Varjão,1
+2021-52,52,Vicente Pires,32
+2021-52,52,Águas Claras,164
+2022-00,0,Arniqueira,5
+2022-00,0,Brazlândia,20
+2022-00,0,Candangolândia,5
+2022-00,0,Ceilândia,40
+2022-00,0,Cruzeiro,18
+2022-00,0,Entorno DF,0
+2022-00,0,Fercal,2
+2022-00,0,Gama,27
+2022-00,0,Guará,69
+2022-00,0,Itapoã,2
+2022-00,0,Jardim Botânico,34
+2022-00,0,Lago Norte,33
+2022-00,0,Lago Sul,43
+2022-00,0,Núcleo Bandeirante,4
+2022-00,0,Outros Estados,133
+2022-00,0,Paranoá,12
+2022-00,0,Park Way,21
+2022-00,0,Planaltina,14
+2022-00,0,Plano Piloto,302
+2022-00,0,Pôr do Sol,3
+2022-00,0,Recanto das Emas,31
+2022-00,0,Riacho Fundo,12
+2022-00,0,Riacho Fundo II,7
+2022-00,0,SCIA,3
+2022-00,0,SIA,0
+2022-00,0,Samambaia,41
+2022-00,0,Santa Maria,24
+2022-00,0,Sistema Penitenciário,0
+2022-00,0,Sobradinho,67
+2022-00,0,Sobradinho II,3
+2022-00,0,Sudoeste/Octogonal,45
+2022-00,0,São Sebastião,16
+2022-00,0,Taguatinga,82
+2022-00,0,Varjão,1
+2022-00,0,Vicente Pires,28
+2022-00,0,Águas Claras,102
+2022-01,1,Arniqueira,83
+2022-01,1,Brazlândia,79
+2022-01,1,Candangolândia,49
+2022-01,1,Ceilândia,470
+2022-01,1,Cruzeiro,236
+2022-01,1,Entorno DF,0
+2022-01,1,Fercal,21
+2022-01,1,Gama,368
+2022-01,1,Guará,1037
+2022-01,1,Itapoã,28
+2022-01,1,Jardim Botânico,324
+2022-01,1,Lago Norte,454
+2022-01,1,Lago Sul,684
+2022-01,1,Núcleo Bandeirante,118
+2022-01,1,Outros Estados,1597
+2022-01,1,Paranoá,95
+2022-01,1,Park Way,245
+2022-01,1,Planaltina,197
+2022-01,1,Plano Piloto,3204
+2022-01,1,Pôr do Sol,22
+2022-01,1,Recanto das Emas,158
+2022-01,1,Riacho Fundo,135
+2022-01,1,Riacho Fundo II,56
+2022-01,1,SCIA,33
+2022-01,1,SIA,6
+2022-01,1,Samambaia,397
+2022-01,1,Santa Maria,207
+2022-01,1,Sistema Penitenciário,0
+2022-01,1,Sobradinho,705
+2022-01,1,Sobradinho II,38
+2022-01,1,Sudoeste/Octogonal,760
+2022-01,1,São Sebastião,237
+2022-01,1,Taguatinga,1080
+2022-01,1,Varjão,22
+2022-01,1,Vicente Pires,381
+2022-01,1,Águas Claras,1345
+2022-02,2,Arniqueira,127
+2022-02,2,Brazlândia,273
+2022-02,2,Candangolândia,87
+2022-02,2,Ceilândia,1233
+2022-02,2,Cruzeiro,316
+2022-02,2,Entorno DF,0
+2022-02,2,Fercal,60
+2022-02,2,Gama,736
+2022-02,2,Guará,1386
+2022-02,2,Itapoã,106
+2022-02,2,Jardim Botânico,404
+2022-02,2,Lago Norte,500
+2022-02,2,Lago Sul,564
+2022-02,2,Núcleo Bandeirante,139
+2022-02,2,Outros Estados,2070
+2022-02,2,Paranoá,182
+2022-02,2,Park Way,291
+2022-02,2,Planaltina,411
+2022-02,2,Plano Piloto,3941
+2022-02,2,Pôr do Sol,101
+2022-02,2,Recanto das Emas,342
+2022-02,2,Riacho Fundo,229
+2022-02,2,Riacho Fundo II,108
+2022-02,2,SCIA,93
+2022-02,2,SIA,5
+2022-02,2,Samambaia,943
+2022-02,2,Santa Maria,430
+2022-02,2,Sistema Penitenciário,1
+2022-02,2,Sobradinho,932
+2022-02,2,Sobradinho II,163
+2022-02,2,Sudoeste/Octogonal,850
+2022-02,2,São Sebastião,376
+2022-02,2,Taguatinga,1642
+2022-02,2,Varjão,49
+2022-02,2,Vicente Pires,519
+2022-02,2,Águas Claras,1690
+2022-03,3,Arniqueira,170
+2022-03,3,Brazlândia,656
+2022-03,3,Candangolândia,110
+2022-03,3,Ceilândia,2296
+2022-03,3,Cruzeiro,485
+2022-03,3,Entorno DF,0
+2022-03,3,Fercal,61
+2022-03,3,Gama,1177
+2022-03,3,Guará,2027
+2022-03,3,Itapoã,116
+2022-03,3,Jardim Botânico,505
+2022-03,3,Lago Norte,521
+2022-03,3,Lago Sul,646
+2022-03,3,Núcleo Bandeirante,217
+2022-03,3,Outros Estados,3278
+2022-03,3,Paranoá,438
+2022-03,3,Park Way,337
+2022-03,3,Planaltina,1037
+2022-03,3,Plano Piloto,4913
+2022-03,3,Pôr do Sol,274
+2022-03,3,Recanto das Emas,634
+2022-03,3,Riacho Fundo,406
+2022-03,3,Riacho Fundo II,278
+2022-03,3,SCIA,160
+2022-03,3,SIA,9
+2022-03,3,Samambaia,1703
+2022-03,3,Santa Maria,806
+2022-03,3,Sistema Penitenciário,35
+2022-03,3,Sobradinho,1424
+2022-03,3,Sobradinho II,242
+2022-03,3,Sudoeste/Octogonal,1029
+2022-03,3,São Sebastião,659
+2022-03,3,Taguatinga,2518
+2022-03,3,Varjão,83
+2022-03,3,Vicente Pires,734
+2022-03,3,Águas Claras,2132
+2022-04,4,Arniqueira,201
+2022-04,4,Brazlândia,709
+2022-04,4,Candangolândia,115
+2022-04,4,Ceilândia,3045
+2022-04,4,Cruzeiro,521
+2022-04,4,Entorno DF,0
+2022-04,4,Fercal,86
+2022-04,4,Gama,1310
+2022-04,4,Guará,2028
+2022-04,4,Itapoã,232
+2022-04,4,Jardim Botânico,526
+2022-04,4,Lago Norte,665
+2022-04,4,Lago Sul,650
+2022-04,4,Núcleo Bandeirante,247
+2022-04,4,Outros Estados,3440
+2022-04,4,Paranoá,757
+2022-04,4,Park Way,411
+2022-04,4,Planaltina,1179
+2022-04,4,Plano Piloto,5494
+2022-04,4,Pôr do Sol,371
+2022-04,4,Recanto das Emas,793
+2022-04,4,Riacho Fundo,511
+2022-04,4,Riacho Fundo II,279
+2022-04,4,SCIA,224
+2022-04,4,SIA,27
+2022-04,4,Samambaia,1914
+2022-04,4,Santa Maria,949
+2022-04,4,Sistema Penitenciário,3
+2022-04,4,Sobradinho,1781
+2022-04,4,Sobradinho II,241
+2022-04,4,Sudoeste/Octogonal,1111
+2022-04,4,São Sebastião,807
+2022-04,4,Taguatinga,2814
+2022-04,4,Varjão,99
+2022-04,4,Vicente Pires,893
+2022-04,4,Águas Claras,2236
+2022-05,5,Arniqueira,168
+2022-05,5,Brazlândia,613
+2022-05,5,Candangolândia,85
+2022-05,5,Ceilândia,2159
+2022-05,5,Cruzeiro,420
+2022-05,5,Entorno DF,0
+2022-05,5,Fercal,100
+2022-05,5,Gama,1233
+2022-05,5,Guará,1644
+2022-05,5,Itapoã,131
+2022-05,5,Jardim Botânico,450
+2022-05,5,Lago Norte,571
+2022-05,5,Lago Sul,570
+2022-05,5,Núcleo Bandeirante,207
+2022-05,5,Outros Estados,3222
+2022-05,5,Paranoá,571
+2022-05,5,Park Way,287
+2022-05,5,Planaltina,1099
+2022-05,5,Plano Piloto,4460
+2022-05,5,Pôr do Sol,249
+2022-05,5,Recanto das Emas,663
+2022-05,5,Riacho Fundo,350
+2022-05,5,Riacho Fundo II,219
+2022-05,5,SCIA,214
+2022-05,5,SIA,15
+2022-05,5,Samambaia,1732
+2022-05,5,Santa Maria,767
+2022-05,5,Sistema Penitenciário,16
+2022-05,5,Sobradinho,1329
+2022-05,5,Sobradinho II,183
+2022-05,5,Sudoeste/Octogonal,946
+2022-05,5,São Sebastião,659
+2022-05,5,Taguatinga,2515
+2022-05,5,Varjão,68
+2022-05,5,Vicente Pires,747
+2022-05,5,Águas Claras,1887
+2022-06,6,Arniqueira,104
+2022-06,6,Brazlândia,352
+2022-06,6,Candangolândia,52
+2022-06,6,Ceilândia,1107
+2022-06,6,Cruzeiro,252
+2022-06,6,Entorno DF,0
+2022-06,6,Fercal,33
+2022-06,6,Gama,718
+2022-06,6,Guará,943
+2022-06,6,Itapoã,96
+2022-06,6,Jardim Botânico,269
+2022-06,6,Lago Norte,336
+2022-06,6,Lago Sul,360
+2022-06,6,Núcleo Bandeirante,119
+2022-06,6,Outros Estados,1724
+2022-06,6,Paranoá,385
+2022-06,6,Park Way,211
+2022-06,6,Planaltina,594
+2022-06,6,Plano Piloto,2524
+2022-06,6,Pôr do Sol,136
+2022-06,6,Recanto das Emas,344
+2022-06,6,Riacho Fundo,206
+2022-06,6,Riacho Fundo II,184
+2022-06,6,SCIA,98
+2022-06,6,SIA,6
+2022-06,6,Samambaia,859
+2022-06,6,Santa Maria,430
+2022-06,6,Sistema Penitenciário,5
+2022-06,6,Sobradinho,865
+2022-06,6,Sobradinho II,131
+2022-06,6,Sudoeste/Octogonal,494
+2022-06,6,São Sebastião,348
+2022-06,6,Taguatinga,1188
+2022-06,6,Varjão,53
+2022-06,6,Vicente Pires,474
+2022-06,6,Águas Claras,1076
+2022-07,7,Arniqueira,52
+2022-07,7,Brazlândia,190
+2022-07,7,Candangolândia,30
+2022-07,7,Ceilândia,613
+2022-07,7,Cruzeiro,127
+2022-07,7,Entorno DF,0
+2022-07,7,Fercal,23
+2022-07,7,Gama,413
+2022-07,7,Guará,488
+2022-07,7,Itapoã,40
+2022-07,7,Jardim Botânico,153
+2022-07,7,Lago Norte,233
+2022-07,7,Lago Sul,186
+2022-07,7,Núcleo Bandeirante,54
+2022-07,7,Outros Estados,1040
+2022-07,7,Paranoá,139
+2022-07,7,Park Way,114
+2022-07,7,Planaltina,249
+2022-07,7,Plano Piloto,1392
+2022-07,7,Pôr do Sol,54
+2022-07,7,Recanto das Emas,191
+2022-07,7,Riacho Fundo,93
+2022-07,7,Riacho Fundo II,84
+2022-07,7,SCIA,36
+2022-07,7,SIA,4
+2022-07,7,Samambaia,434
+2022-07,7,Santa Maria,229
+2022-07,7,Sistema Penitenciário,2
+2022-07,7,Sobradinho,428
+2022-07,7,Sobradinho II,72
+2022-07,7,Sudoeste/Octogonal,298
+2022-07,7,São Sebastião,165
+2022-07,7,Taguatinga,716
+2022-07,7,Varjão,15
+2022-07,7,Vicente Pires,273
+2022-07,7,Águas Claras,550
+2022-08,8,Arniqueira,21
+2022-08,8,Brazlândia,76
+2022-08,8,Candangolândia,21
+2022-08,8,Ceilândia,231
+2022-08,8,Cruzeiro,63
+2022-08,8,Entorno DF,0
+2022-08,8,Fercal,6
+2022-08,8,Gama,184
+2022-08,8,Guará,254
+2022-08,8,Itapoã,16
+2022-08,8,Jardim Botânico,79
+2022-08,8,Lago Norte,100
+2022-08,8,Lago Sul,95
+2022-08,8,Núcleo Bandeirante,29
+2022-08,8,Outros Estados,553
+2022-08,8,Paranoá,59
+2022-08,8,Park Way,50
+2022-08,8,Planaltina,140
+2022-08,8,Plano Piloto,691
+2022-08,8,Pôr do Sol,18
+2022-08,8,Recanto das Emas,67
+2022-08,8,Riacho Fundo,30
+2022-08,8,Riacho Fundo II,31
+2022-08,8,SCIA,3
+2022-08,8,SIA,0
+2022-08,8,Samambaia,168
+2022-08,8,Santa Maria,79
+2022-08,8,Sistema Penitenciário,2
+2022-08,8,Sobradinho,203
+2022-08,8,Sobradinho II,26
+2022-08,8,Sudoeste/Octogonal,173
+2022-08,8,São Sebastião,77
+2022-08,8,Taguatinga,297
+2022-08,8,Varjão,5
+2022-08,8,Vicente Pires,95
+2022-08,8,Águas Claras,285
+2022-09,9,Arniqueira,17
+2022-09,9,Brazlândia,49
+2022-09,9,Candangolândia,8
+2022-09,9,Ceilândia,121
+2022-09,9,Cruzeiro,33
+2022-09,9,Entorno DF,0
+2022-09,9,Fercal,9
+2022-09,9,Gama,91
+2022-09,9,Guará,123
+2022-09,9,Itapoã,11
+2022-09,9,Jardim Botânico,41
+2022-09,9,Lago Norte,65
+2022-09,9,Lago Sul,32
+2022-09,9,Núcleo Bandeirante,16
+2022-09,9,Outros Estados,292
+2022-09,9,Paranoá,33
+2022-09,9,Park Way,27
+2022-09,9,Planaltina,69
+2022-09,9,Plano Piloto,368
+2022-09,9,Pôr do Sol,5
+2022-09,9,Recanto das Emas,40
+2022-09,9,Riacho Fundo,10
+2022-09,9,Riacho Fundo II,18
+2022-09,9,SCIA,8
+2022-09,9,SIA,0
+2022-09,9,Samambaia,119
+2022-09,9,Santa Maria,46
+2022-09,9,Sistema Penitenciário,0
+2022-09,9,Sobradinho,117
+2022-09,9,Sobradinho II,12
+2022-09,9,Sudoeste/Octogonal,85
+2022-09,9,São Sebastião,45
+2022-09,9,Taguatinga,163
+2022-09,9,Varjão,6
+2022-09,9,Vicente Pires,54
+2022-09,9,Águas Claras,139
+2022-10,10,Arniqueira,5
+2022-10,10,Brazlândia,25
+2022-10,10,Candangolândia,3
+2022-10,10,Ceilândia,131
+2022-10,10,Cruzeiro,27
+2022-10,10,Entorno DF,0
+2022-10,10,Fercal,1
+2022-10,10,Gama,43
+2022-10,10,Guará,68
+2022-10,10,Itapoã,8
+2022-10,10,Jardim Botânico,19
+2022-10,10,Lago Norte,30
+2022-10,10,Lago Sul,35
+2022-10,10,Núcleo Bandeirante,9
+2022-10,10,Outros Estados,166
+2022-10,10,Paranoá,17
+2022-10,10,Park Way,12
+2022-10,10,Planaltina,36
+2022-10,10,Plano Piloto,234
+2022-10,10,Pôr do Sol,15
+2022-10,10,Recanto das Emas,29
+2022-10,10,Riacho Fundo,12
+2022-10,10,Riacho Fundo II,2
+2022-10,10,SCIA,6
+2022-10,10,SIA,1
+2022-10,10,Samambaia,72
+2022-10,10,Santa Maria,32
+2022-10,10,Sistema Penitenciário,0
+2022-10,10,Sobradinho,63
+2022-10,10,Sobradinho II,7
+2022-10,10,Sudoeste/Octogonal,53
+2022-10,10,São Sebastião,28
+2022-10,10,Taguatinga,114
+2022-10,10,Varjão,5
+2022-10,10,Vicente Pires,51
+2022-10,10,Águas Claras,105
+2022-11,11,Arniqueira,8
+2022-11,11,Brazlândia,15
+2022-11,11,Candangolândia,1
+2022-11,11,Ceilândia,107
+2022-11,11,Cruzeiro,14
+2022-11,11,Entorno DF,0
+2022-11,11,Fercal,1
+2022-11,11,Gama,33
+2022-11,11,Guará,51
+2022-11,11,Itapoã,3
+2022-11,11,Jardim Botânico,17
+2022-11,11,Lago Norte,24
+2022-11,11,Lago Sul,35
+2022-11,11,Núcleo Bandeirante,6
+2022-11,11,Outros Estados,109
+2022-11,11,Paranoá,13
+2022-11,11,Park Way,11
+2022-11,11,Planaltina,30
+2022-11,11,Plano Piloto,192
+2022-11,11,Pôr do Sol,8
+2022-11,11,Recanto das Emas,15
+2022-11,11,Riacho Fundo,12
+2022-11,11,Riacho Fundo II,8
+2022-11,11,SCIA,5
+2022-11,11,SIA,0
+2022-11,11,Samambaia,39
+2022-11,11,Santa Maria,14
+2022-11,11,Sistema Penitenciário,0
+2022-11,11,Sobradinho,40
+2022-11,11,Sobradinho II,4
+2022-11,11,Sudoeste/Octogonal,35
+2022-11,11,São Sebastião,16
+2022-11,11,Taguatinga,75
+2022-11,11,Varjão,2
+2022-11,11,Vicente Pires,17
+2022-11,11,Águas Claras,60
+2022-12,12,Arniqueira,6
+2022-12,12,Brazlândia,5
+2022-12,12,Candangolândia,3
+2022-12,12,Ceilândia,19
+2022-12,12,Cruzeiro,13
+2022-12,12,Entorno DF,0
+2022-12,12,Fercal,0
+2022-12,12,Gama,19
+2022-12,12,Guará,32
+2022-12,12,Itapoã,0
+2022-12,12,Jardim Botânico,7
+2022-12,12,Lago Norte,10
+2022-12,12,Lago Sul,31
+2022-12,12,Núcleo Bandeirante,5
+2022-12,12,Outros Estados,73
+2022-12,12,Paranoá,6
+2022-12,12,Park Way,3
+2022-12,12,Planaltina,18
+2022-12,12,Plano Piloto,94
+2022-12,12,Pôr do Sol,4
+2022-12,12,Recanto das Emas,8
+2022-12,12,Riacho Fundo,3
+2022-12,12,Riacho Fundo II,10
+2022-12,12,SCIA,3
+2022-12,12,SIA,0
+2022-12,12,Samambaia,30
+2022-12,12,Santa Maria,15
+2022-12,12,Sistema Penitenciário,0
+2022-12,12,Sobradinho,31
+2022-12,12,Sobradinho II,5
+2022-12,12,Sudoeste/Octogonal,12
+2022-12,12,São Sebastião,17
+2022-12,12,Taguatinga,28
+2022-12,12,Varjão,0
+2022-12,12,Vicente Pires,10
+2022-12,12,Águas Claras,33
+2022-13,13,Arniqueira,5
+2022-13,13,Brazlândia,5
+2022-13,13,Candangolândia,3
+2022-13,13,Ceilândia,34
+2022-13,13,Cruzeiro,5
+2022-13,13,Entorno DF,0
+2022-13,13,Fercal,1
+2022-13,13,Gama,12
+2022-13,13,Guará,30
+2022-13,13,Itapoã,1
+2022-13,13,Jardim Botânico,25
+2022-13,13,Lago Norte,13
+2022-13,13,Lago Sul,22
+2022-13,13,Núcleo Bandeirante,2
+2022-13,13,Outros Estados,63
+2022-13,13,Paranoá,4
+2022-13,13,Park Way,6
+2022-13,13,Planaltina,14
+2022-13,13,Plano Piloto,117
+2022-13,13,Pôr do Sol,3
+2022-13,13,Recanto das Emas,8
+2022-13,13,Riacho Fundo,4
+2022-13,13,Riacho Fundo II,10
+2022-13,13,SCIA,2
+2022-13,13,SIA,0
+2022-13,13,Samambaia,13
+2022-13,13,Santa Maria,3
+2022-13,13,Sistema Penitenciário,0
+2022-13,13,Sobradinho,27
+2022-13,13,Sobradinho II,6
+2022-13,13,Sudoeste/Octogonal,25
+2022-13,13,São Sebastião,8
+2022-13,13,Taguatinga,33
+2022-13,13,Varjão,1
+2022-13,13,Vicente Pires,11
+2022-13,13,Águas Claras,45
+2022-14,14,Arniqueira,7
+2022-14,14,Brazlândia,2
+2022-14,14,Candangolândia,1
+2022-14,14,Ceilândia,19
+2022-14,14,Cruzeiro,10
+2022-14,14,Entorno DF,0
+2022-14,14,Fercal,1
+2022-14,14,Gama,18
+2022-14,14,Guará,27
+2022-14,14,Itapoã,1
+2022-14,14,Jardim Botânico,9
+2022-14,14,Lago Norte,11
+2022-14,14,Lago Sul,22
+2022-14,14,Núcleo Bandeirante,1
+2022-14,14,Outros Estados,42
+2022-14,14,Paranoá,3
+2022-14,14,Park Way,11
+2022-14,14,Planaltina,11
+2022-14,14,Plano Piloto,93
+2022-14,14,Pôr do Sol,0
+2022-14,14,Recanto das Emas,3
+2022-14,14,Riacho Fundo,0
+2022-14,14,Riacho Fundo II,6
+2022-14,14,SCIA,0
+2022-14,14,SIA,0
+2022-14,14,Samambaia,13
+2022-14,14,Santa Maria,11
+2022-14,14,Sistema Penitenciário,0
+2022-14,14,Sobradinho,13
+2022-14,14,Sobradinho II,2
+2022-14,14,Sudoeste/Octogonal,18
+2022-14,14,São Sebastião,9
+2022-14,14,Taguatinga,19
+2022-14,14,Varjão,0
+2022-14,14,Vicente Pires,5
+2022-14,14,Águas Claras,23
+2022-15,15,Arniqueira,2
+2022-15,15,Brazlândia,5
+2022-15,15,Candangolândia,1
+2022-15,15,Ceilândia,8
+2022-15,15,Cruzeiro,8
+2022-15,15,Entorno DF,0
+2022-15,15,Fercal,0
+2022-15,15,Gama,6
+2022-15,15,Guará,18
+2022-15,15,Itapoã,2
+2022-15,15,Jardim Botânico,8
+2022-15,15,Lago Norte,6
+2022-15,15,Lago Sul,20
+2022-15,15,Núcleo Bandeirante,4
+2022-15,15,Outros Estados,34
+2022-15,15,Paranoá,5
+2022-15,15,Park Way,8
+2022-15,15,Planaltina,11
+2022-15,15,Plano Piloto,98
+2022-15,15,Pôr do Sol,0
+2022-15,15,Recanto das Emas,4
+2022-15,15,Riacho Fundo,3
+2022-15,15,Riacho Fundo II,3
+2022-15,15,SCIA,0
+2022-15,15,SIA,0
+2022-15,15,Samambaia,7
+2022-15,15,Santa Maria,6
+2022-15,15,Sistema Penitenciário,1
+2022-15,15,Sobradinho,12
+2022-15,15,Sobradinho II,1
+2022-15,15,Sudoeste/Octogonal,19
+2022-15,15,São Sebastião,4
+2022-15,15,Taguatinga,13
+2022-15,15,Varjão,1
+2022-15,15,Vicente Pires,4
+2022-15,15,Águas Claras,34
+2022-16,16,Arniqueira,2
+2022-16,16,Brazlândia,1
+2022-16,16,Candangolândia,6
+2022-16,16,Ceilândia,15
+2022-16,16,Cruzeiro,7
+2022-16,16,Entorno DF,0
+2022-16,16,Fercal,0
+2022-16,16,Gama,10
+2022-16,16,Guará,25
+2022-16,16,Itapoã,1
+2022-16,16,Jardim Botânico,7
+2022-16,16,Lago Norte,9
+2022-16,16,Lago Sul,12
+2022-16,16,Núcleo Bandeirante,6
+2022-16,16,Outros Estados,42
+2022-16,16,Paranoá,2
+2022-16,16,Park Way,10
+2022-16,16,Planaltina,9
+2022-16,16,Plano Piloto,142
+2022-16,16,Pôr do Sol,2
+2022-16,16,Recanto das Emas,2
+2022-16,16,Riacho Fundo,1
+2022-16,16,Riacho Fundo II,12
+2022-16,16,SCIA,0
+2022-16,16,SIA,0
+2022-16,16,Samambaia,8
+2022-16,16,Santa Maria,3
+2022-16,16,Sistema Penitenciário,0
+2022-16,16,Sobradinho,15
+2022-16,16,Sobradinho II,3
+2022-16,16,Sudoeste/Octogonal,22
+2022-16,16,São Sebastião,7
+2022-16,16,Taguatinga,18
+2022-16,16,Varjão,1
+2022-16,16,Vicente Pires,10
+2022-16,16,Águas Claras,29
+2022-17,17,Arniqueira,4
+2022-17,17,Brazlândia,6
+2022-17,17,Candangolândia,2
+2022-17,17,Ceilândia,30
+2022-17,17,Cruzeiro,13
+2022-17,17,Entorno DF,0
+2022-17,17,Fercal,0
+2022-17,17,Gama,26
+2022-17,17,Guará,37
+2022-17,17,Itapoã,1
+2022-17,17,Jardim Botânico,24
+2022-17,17,Lago Norte,32
+2022-17,17,Lago Sul,38
+2022-17,17,Núcleo Bandeirante,2
+2022-17,17,Outros Estados,45
+2022-17,17,Paranoá,4
+2022-17,17,Park Way,13
+2022-17,17,Planaltina,12
+2022-17,17,Plano Piloto,180
+2022-17,17,Pôr do Sol,1
+2022-17,17,Recanto das Emas,7
+2022-17,17,Riacho Fundo,2
+2022-17,17,Riacho Fundo II,11
+2022-17,17,SCIA,3
+2022-17,17,SIA,1
+2022-17,17,Samambaia,17
+2022-17,17,Santa Maria,14
+2022-17,17,Sistema Penitenciário,0
+2022-17,17,Sobradinho,35
+2022-17,17,Sobradinho II,6
+2022-17,17,Sudoeste/Octogonal,38
+2022-17,17,São Sebastião,10
+2022-17,17,Taguatinga,31
+2022-17,17,Varjão,0
+2022-17,17,Vicente Pires,9
+2022-17,17,Águas Claras,50
+2022-18,18,Arniqueira,4
+2022-18,18,Brazlândia,15
+2022-18,18,Candangolândia,1
+2022-18,18,Ceilândia,38
+2022-18,18,Cruzeiro,20
+2022-18,18,Entorno DF,0
+2022-18,18,Fercal,0
+2022-18,18,Gama,18
+2022-18,18,Guará,56
+2022-18,18,Itapoã,2
+2022-18,18,Jardim Botânico,30
+2022-18,18,Lago Norte,40
+2022-18,18,Lago Sul,43
+2022-18,18,Núcleo Bandeirante,4
+2022-18,18,Outros Estados,76
+2022-18,18,Paranoá,7
+2022-18,18,Park Way,19
+2022-18,18,Planaltina,14
+2022-18,18,Plano Piloto,255
+2022-18,18,Pôr do Sol,1
+2022-18,18,Recanto das Emas,6
+2022-18,18,Riacho Fundo,3
+2022-18,18,Riacho Fundo II,7
+2022-18,18,SCIA,2
+2022-18,18,SIA,0
+2022-18,18,Samambaia,18
+2022-18,18,Santa Maria,14
+2022-18,18,Sistema Penitenciário,0
+2022-18,18,Sobradinho,43
+2022-18,18,Sobradinho II,8
+2022-18,18,Sudoeste/Octogonal,55
+2022-18,18,São Sebastião,14
+2022-18,18,Taguatinga,51
+2022-18,18,Varjão,0
+2022-18,18,Vicente Pires,20
+2022-18,18,Águas Claras,59
+2022-19,19,Arniqueira,12
+2022-19,19,Brazlândia,12
+2022-19,19,Candangolândia,4
+2022-19,19,Ceilândia,56
+2022-19,19,Cruzeiro,34
+2022-19,19,Entorno DF,0
+2022-19,19,Fercal,1
+2022-19,19,Gama,40
+2022-19,19,Guará,128
+2022-19,19,Itapoã,4
+2022-19,19,Jardim Botânico,50
+2022-19,19,Lago Norte,75
+2022-19,19,Lago Sul,71
+2022-19,19,Núcleo Bandeirante,13
+2022-19,19,Outros Estados,240
+2022-19,19,Paranoá,14
+2022-19,19,Park Way,38
+2022-19,19,Planaltina,21
+2022-19,19,Plano Piloto,516
+2022-19,19,Pôr do Sol,3
+2022-19,19,Recanto das Emas,6
+2022-19,19,Riacho Fundo,4
+2022-19,19,Riacho Fundo II,18
+2022-19,19,SCIA,5
+2022-19,19,SIA,1
+2022-19,19,Samambaia,43
+2022-19,19,Santa Maria,30
+2022-19,19,Sistema Penitenciário,0
+2022-19,19,Sobradinho,75
+2022-19,19,Sobradinho II,12
+2022-19,19,Sudoeste/Octogonal,84
+2022-19,19,São Sebastião,29
+2022-19,19,Taguatinga,102
+2022-19,19,Varjão,2
+2022-19,19,Vicente Pires,42
+2022-19,19,Águas Claras,146
+2022-20,20,Arniqueira,24
+2022-20,20,Brazlândia,12
+2022-20,20,Candangolândia,7
+2022-20,20,Ceilândia,111
+2022-20,20,Cruzeiro,63
+2022-20,20,Entorno DF,0
+2022-20,20,Fercal,4
+2022-20,20,Gama,80
+2022-20,20,Guará,197
+2022-20,20,Itapoã,6
+2022-20,20,Jardim Botânico,75
+2022-20,20,Lago Norte,117
+2022-20,20,Lago Sul,116
+2022-20,20,Núcleo Bandeirante,19
+2022-20,20,Outros Estados,575
+2022-20,20,Paranoá,24
+2022-20,20,Park Way,75
+2022-20,20,Planaltina,46
+2022-20,20,Plano Piloto,758
+2022-20,20,Pôr do Sol,4
+2022-20,20,Recanto das Emas,24
+2022-20,20,Riacho Fundo,13
+2022-20,20,Riacho Fundo II,12
+2022-20,20,SCIA,1
+2022-20,20,SIA,1
+2022-20,20,Samambaia,88
+2022-20,20,Santa Maria,51
+2022-20,20,Sistema Penitenciário,0
+2022-20,20,Sobradinho,139
+2022-20,20,Sobradinho II,20
+2022-20,20,Sudoeste/Octogonal,215
+2022-20,20,São Sebastião,35
+2022-20,20,Taguatinga,140
+2022-20,20,Varjão,2
+2022-20,20,Vicente Pires,72
+2022-20,20,Águas Claras,254
+2022-21,21,Arniqueira,58
+2022-21,21,Brazlândia,59
+2022-21,21,Candangolândia,22
+2022-21,21,Ceilândia,341
+2022-21,21,Cruzeiro,171
+2022-21,21,Entorno DF,0
+2022-21,21,Fercal,5
+2022-21,21,Gama,304
+2022-21,21,Guará,640
+2022-21,21,Itapoã,7
+2022-21,21,Jardim Botânico,201
+2022-21,21,Lago Norte,340
+2022-21,21,Lago Sul,327
+2022-21,21,Núcleo Bandeirante,65
+2022-21,21,Outros Estados,1095
+2022-21,21,Paranoá,64
+2022-21,21,Park Way,142
+2022-21,21,Planaltina,128
+2022-21,21,Plano Piloto,1852
+2022-21,21,Pôr do Sol,35
+2022-21,21,Recanto das Emas,74
+2022-21,21,Riacho Fundo,49
+2022-21,21,Riacho Fundo II,62
+2022-21,21,SCIA,8
+2022-21,21,SIA,0
+2022-21,21,Samambaia,262
+2022-21,21,Santa Maria,110
+2022-21,21,Sistema Penitenciário,0
+2022-21,21,Sobradinho,422
+2022-21,21,Sobradinho II,42
+2022-21,21,Sudoeste/Octogonal,479
+2022-21,21,São Sebastião,119
+2022-21,21,Taguatinga,460
+2022-21,21,Varjão,28
+2022-21,21,Vicente Pires,218
+2022-21,21,Águas Claras,658
+2022-22,22,Arniqueira,129
+2022-22,22,Brazlândia,240
+2022-22,22,Candangolândia,57
+2022-22,22,Ceilândia,1122
+2022-22,22,Cruzeiro,341
+2022-22,22,Entorno DF,0
+2022-22,22,Fercal,14
+2022-22,22,Gama,784
+2022-22,22,Guará,1307
+2022-22,22,Itapoã,53
+2022-22,22,Jardim Botânico,437
+2022-22,22,Lago Norte,535
+2022-22,22,Lago Sul,442
+2022-22,22,Núcleo Bandeirante,150
+2022-22,22,Outros Estados,1700
+2022-22,22,Paranoá,193
+2022-22,22,Park Way,278
+2022-22,22,Planaltina,471
+2022-22,22,Plano Piloto,3519
+2022-22,22,Pôr do Sol,62
+2022-22,22,Recanto das Emas,288
+2022-22,22,Riacho Fundo,133
+2022-22,22,Riacho Fundo II,195
+2022-22,22,SCIA,22
+2022-22,22,SIA,3
+2022-22,22,Samambaia,863
+2022-22,22,Santa Maria,357
+2022-22,22,Sistema Penitenciário,0
+2022-22,22,Sobradinho,961
+2022-22,22,Sobradinho II,129
+2022-22,22,Sudoeste/Octogonal,842
+2022-22,22,São Sebastião,351
+2022-22,22,Taguatinga,1350
+2022-22,22,Varjão,50
+2022-22,22,Vicente Pires,561
+2022-22,22,Águas Claras,1492
+2022-23,23,Arniqueira,125
+2022-23,23,Brazlândia,565
+2022-23,23,Candangolândia,94
+2022-23,23,Ceilândia,1662
+2022-23,23,Cruzeiro,347
+2022-23,23,Entorno DF,0
+2022-23,23,Fercal,24
+2022-23,23,Gama,1247
+2022-23,23,Guará,1747
+2022-23,23,Itapoã,112
+2022-23,23,Jardim Botânico,447
+2022-23,23,Lago Norte,525
+2022-23,23,Lago Sul,475
+2022-23,23,Núcleo Bandeirante,214
+2022-23,23,Outros Estados,3804
+2022-23,23,Paranoá,255
+2022-23,23,Park Way,362
+2022-23,23,Planaltina,969
+2022-23,23,Plano Piloto,4082
+2022-23,23,Pôr do Sol,151
+2022-23,23,Recanto das Emas,439
+2022-23,23,Riacho Fundo,244
+2022-23,23,Riacho Fundo II,312
+2022-23,23,SCIA,59
+2022-23,23,SIA,3
+2022-23,23,Samambaia,1286
+2022-23,23,Santa Maria,532
+2022-23,23,Sistema Penitenciário,3
+2022-23,23,Sobradinho,1205
+2022-23,23,Sobradinho II,230
+2022-23,23,Sudoeste/Octogonal,856
+2022-23,23,São Sebastião,451
+2022-23,23,Taguatinga,1963
+2022-23,23,Varjão,86
+2022-23,23,Vicente Pires,710
+2022-23,23,Águas Claras,1851
+2022-24,24,Arniqueira,120
+2022-24,24,Brazlândia,506
+2022-24,24,Candangolândia,85
+2022-24,24,Ceilândia,1646
+2022-24,24,Cruzeiro,328
+2022-24,24,Entorno DF,0
+2022-24,24,Fercal,19
+2022-24,24,Gama,1129
+2022-24,24,Guará,1602
+2022-24,24,Itapoã,130
+2022-24,24,Jardim Botânico,404
+2022-24,24,Lago Norte,548
+2022-24,24,Lago Sul,507
+2022-24,24,Núcleo Bandeirante,200
+2022-24,24,Outros Estados,3913
+2022-24,24,Paranoá,342
+2022-24,24,Park Way,270
+2022-24,24,Planaltina,986
+2022-24,24,Plano Piloto,3729
+2022-24,24,Pôr do Sol,150
+2022-24,24,Recanto das Emas,459
+2022-24,24,Riacho Fundo,204
+2022-24,24,Riacho Fundo II,284
+2022-24,24,SCIA,75
+2022-24,24,SIA,5
+2022-24,24,Samambaia,1166
+2022-24,24,Santa Maria,654
+2022-24,24,Sistema Penitenciário,8
+2022-24,24,Sobradinho,1268
+2022-24,24,Sobradinho II,199
+2022-24,24,Sudoeste/Octogonal,755
+2022-24,24,São Sebastião,442
+2022-24,24,Taguatinga,1801
+2022-24,24,Varjão,78
+2022-24,24,Vicente Pires,570
+2022-24,24,Águas Claras,1468
+2022-25,25,Arniqueira,99
+2022-25,25,Brazlândia,390
+2022-25,25,Candangolândia,61
+2022-25,25,Ceilândia,1310
+2022-25,25,Cruzeiro,304
+2022-25,25,Entorno DF,0
+2022-25,25,Fercal,20
+2022-25,25,Gama,850
+2022-25,25,Guará,1203
+2022-25,25,Itapoã,104
+2022-25,25,Jardim Botânico,326
+2022-25,25,Lago Norte,440
+2022-25,25,Lago Sul,401
+2022-25,25,Núcleo Bandeirante,159
+2022-25,25,Outros Estados,2534
+2022-25,25,Paranoá,304
+2022-25,25,Park Way,245
+2022-25,25,Planaltina,720
+2022-25,25,Plano Piloto,2914
+2022-25,25,Pôr do Sol,131
+2022-25,25,Recanto das Emas,384
+2022-25,25,Riacho Fundo,163
+2022-25,25,Riacho Fundo II,216
+2022-25,25,SCIA,65
+2022-25,25,SIA,1
+2022-25,25,Samambaia,1045
+2022-25,25,Santa Maria,496
+2022-25,25,Sistema Penitenciário,0
+2022-25,25,Sobradinho,1079
+2022-25,25,Sobradinho II,113
+2022-25,25,Sudoeste/Octogonal,681
+2022-25,25,São Sebastião,390
+2022-25,25,Taguatinga,1459
+2022-25,25,Varjão,63
+2022-25,25,Vicente Pires,507
+2022-25,25,Águas Claras,1255
+2022-26,26,Arniqueira,36
+2022-26,26,Brazlândia,267
+2022-26,26,Candangolândia,33
+2022-26,26,Ceilândia,738
+2022-26,26,Cruzeiro,130
+2022-26,26,Entorno DF,0
+2022-26,26,Fercal,14
+2022-26,26,Gama,502
+2022-26,26,Guará,690
+2022-26,26,Itapoã,54
+2022-26,26,Jardim Botânico,212
+2022-26,26,Lago Norte,254
+2022-26,26,Lago Sul,217
+2022-26,26,Núcleo Bandeirante,93
+2022-26,26,Outros Estados,1430
+2022-26,26,Paranoá,147
+2022-26,26,Park Way,108
+2022-26,26,Planaltina,417
+2022-26,26,Plano Piloto,1809
+2022-26,26,Pôr do Sol,56
+2022-26,26,Recanto das Emas,187
+2022-26,26,Riacho Fundo,83
+2022-26,26,Riacho Fundo II,103
+2022-26,26,SCIA,27
+2022-26,26,SIA,0
+2022-26,26,Samambaia,469
+2022-26,26,Santa Maria,248
+2022-26,26,Sistema Penitenciário,1
+2022-26,26,Sobradinho,544
+2022-26,26,Sobradinho II,62
+2022-26,26,Sudoeste/Octogonal,379
+2022-26,26,São Sebastião,244
+2022-26,26,Taguatinga,792
+2022-26,26,Varjão,25
+2022-26,26,Vicente Pires,290
+2022-26,26,Águas Claras,623
+2022-27,27,Arniqueira,28
+2022-27,27,Brazlândia,118
+2022-27,27,Candangolândia,18
+2022-27,27,Ceilândia,291
+2022-27,27,Cruzeiro,76
+2022-27,27,Entorno DF,0
+2022-27,27,Fercal,6
+2022-27,27,Gama,233
+2022-27,27,Guará,388
+2022-27,27,Itapoã,22
+2022-27,27,Jardim Botânico,113
+2022-27,27,Lago Norte,173
+2022-27,27,Lago Sul,146
+2022-27,27,Núcleo Bandeirante,39
+2022-27,27,Outros Estados,753
+2022-27,27,Paranoá,66
+2022-27,27,Park Way,76
+2022-27,27,Planaltina,200
+2022-27,27,Plano Piloto,1074
+2022-27,27,Pôr do Sol,47
+2022-27,27,Recanto das Emas,80
+2022-27,27,Riacho Fundo,43
+2022-27,27,Riacho Fundo II,52
+2022-27,27,SCIA,19
+2022-27,27,SIA,1
+2022-27,27,Samambaia,249
+2022-27,27,Santa Maria,132
+2022-27,27,Sistema Penitenciário,0
+2022-27,27,Sobradinho,250
+2022-27,27,Sobradinho II,51
+2022-27,27,Sudoeste/Octogonal,218
+2022-27,27,São Sebastião,102
+2022-27,27,Taguatinga,383
+2022-27,27,Varjão,20
+2022-27,27,Vicente Pires,131
+2022-27,27,Águas Claras,355
+2022-28,28,Arniqueira,10
+2022-28,28,Brazlândia,54
+2022-28,28,Candangolândia,14
+2022-28,28,Ceilândia,172
+2022-28,28,Cruzeiro,61
+2022-28,28,Entorno DF,0
+2022-28,28,Fercal,8
+2022-28,28,Gama,108
+2022-28,28,Guará,184
+2022-28,28,Itapoã,14
+2022-28,28,Jardim Botânico,55
+2022-28,28,Lago Norte,91
+2022-28,28,Lago Sul,97
+2022-28,28,Núcleo Bandeirante,28
+2022-28,28,Outros Estados,398
+2022-28,28,Paranoá,39
+2022-28,28,Park Way,41
+2022-28,28,Planaltina,86
+2022-28,28,Plano Piloto,590
+2022-28,28,Pôr do Sol,27
+2022-28,28,Recanto das Emas,42
+2022-28,28,Riacho Fundo,20
+2022-28,28,Riacho Fundo II,35
+2022-28,28,SCIA,15
+2022-28,28,SIA,0
+2022-28,28,Samambaia,161
+2022-28,28,Santa Maria,71
+2022-28,28,Sistema Penitenciário,0
+2022-28,28,Sobradinho,150
+2022-28,28,Sobradinho II,34
+2022-28,28,Sudoeste/Octogonal,118
+2022-28,28,São Sebastião,53
+2022-28,28,Taguatinga,162
+2022-28,28,Varjão,4
+2022-28,28,Vicente Pires,54
+2022-28,28,Águas Claras,184
+2022-29,29,Arniqueira,10
+2022-29,29,Brazlândia,24
+2022-29,29,Candangolândia,8
+2022-29,29,Ceilândia,85
+2022-29,29,Cruzeiro,19
+2022-29,29,Entorno DF,0
+2022-29,29,Fercal,3
+2022-29,29,Gama,68
+2022-29,29,Guará,136
+2022-29,29,Itapoã,11
+2022-29,29,Jardim Botânico,36
+2022-29,29,Lago Norte,49
+2022-29,29,Lago Sul,54
+2022-29,29,Núcleo Bandeirante,11
+2022-29,29,Outros Estados,235
+2022-29,29,Paranoá,10
+2022-29,29,Park Way,21
+2022-29,29,Planaltina,59
+2022-29,29,Plano Piloto,441
+2022-29,29,Pôr do Sol,4
+2022-29,29,Recanto das Emas,25
+2022-29,29,Riacho Fundo,17
+2022-29,29,Riacho Fundo II,39
+2022-29,29,SCIA,6
+2022-29,29,SIA,0
+2022-29,29,Samambaia,76
+2022-29,29,Santa Maria,44
+2022-29,29,Sistema Penitenciário,0
+2022-29,29,Sobradinho,84
+2022-29,29,Sobradinho II,14
+2022-29,29,Sudoeste/Octogonal,85
+2022-29,29,São Sebastião,35
+2022-29,29,Taguatinga,127
+2022-29,29,Varjão,0
+2022-29,29,Vicente Pires,41
+2022-29,29,Águas Claras,107
+2022-30,30,Arniqueira,3
+2022-30,30,Brazlândia,15
+2022-30,30,Candangolândia,4
+2022-30,30,Ceilândia,60
+2022-30,30,Cruzeiro,18
+2022-30,30,Entorno DF,0
+2022-30,30,Fercal,1
+2022-30,30,Gama,48
+2022-30,30,Guará,72
+2022-30,30,Itapoã,6
+2022-30,30,Jardim Botânico,20
+2022-30,30,Lago Norte,30
+2022-30,30,Lago Sul,50
+2022-30,30,Núcleo Bandeirante,12
+2022-30,30,Outros Estados,127
+2022-30,30,Paranoá,13
+2022-30,30,Park Way,14
+2022-30,30,Planaltina,30
+2022-30,30,Plano Piloto,329
+2022-30,30,Pôr do Sol,11
+2022-30,30,Recanto das Emas,19
+2022-30,30,Riacho Fundo,9
+2022-30,30,Riacho Fundo II,20
+2022-30,30,SCIA,4
+2022-30,30,SIA,0
+2022-30,30,Samambaia,31
+2022-30,30,Santa Maria,27
+2022-30,30,Sistema Penitenciário,0
+2022-30,30,Sobradinho,64
+2022-30,30,Sobradinho II,3
+2022-30,30,Sudoeste/Octogonal,62
+2022-30,30,São Sebastião,25
+2022-30,30,Taguatinga,63
+2022-30,30,Varjão,6
+2022-30,30,Vicente Pires,27
+2022-30,30,Águas Claras,85
+2022-31,31,Arniqueira,2
+2022-31,31,Brazlândia,6
+2022-31,31,Candangolândia,4
+2022-31,31,Ceilândia,35
+2022-31,31,Cruzeiro,12
+2022-31,31,Entorno DF,0
+2022-31,31,Fercal,1
+2022-31,31,Gama,30
+2022-31,31,Guará,53
+2022-31,31,Itapoã,2
+2022-31,31,Jardim Botânico,31
+2022-31,31,Lago Norte,29
+2022-31,31,Lago Sul,39
+2022-31,31,Núcleo Bandeirante,16
+2022-31,31,Outros Estados,101
+2022-31,31,Paranoá,7
+2022-31,31,Park Way,21
+2022-31,31,Planaltina,32
+2022-31,31,Plano Piloto,290
+2022-31,31,Pôr do Sol,1
+2022-31,31,Recanto das Emas,12
+2022-31,31,Riacho Fundo,10
+2022-31,31,Riacho Fundo II,14
+2022-31,31,SCIA,2
+2022-31,31,SIA,0
+2022-31,31,Samambaia,35
+2022-31,31,Santa Maria,25
+2022-31,31,Sistema Penitenciário,0
+2022-31,31,Sobradinho,51
+2022-31,31,Sobradinho II,6
+2022-31,31,Sudoeste/Octogonal,42
+2022-31,31,São Sebastião,15
+2022-31,31,Taguatinga,50
+2022-31,31,Varjão,0
+2022-31,31,Vicente Pires,21
+2022-31,31,Águas Claras,46
+2022-32,32,Arniqueira,1
+2022-32,32,Brazlândia,9
+2022-32,32,Candangolândia,3
+2022-32,32,Ceilândia,28
+2022-32,32,Cruzeiro,15
+2022-32,32,Entorno DF,0
+2022-32,32,Fercal,0
+2022-32,32,Gama,19
+2022-32,32,Guará,37
+2022-32,32,Itapoã,1
+2022-32,32,Jardim Botânico,10
+2022-32,32,Lago Norte,17
+2022-32,32,Lago Sul,17
+2022-32,32,Núcleo Bandeirante,7
+2022-32,32,Outros Estados,92
+2022-32,32,Paranoá,11
+2022-32,32,Park Way,18
+2022-32,32,Planaltina,22
+2022-32,32,Plano Piloto,188
+2022-32,32,Pôr do Sol,3
+2022-32,32,Recanto das Emas,6
+2022-32,32,Riacho Fundo,7
+2022-32,32,Riacho Fundo II,4
+2022-32,32,SCIA,1
+2022-32,32,SIA,0
+2022-32,32,Samambaia,22
+2022-32,32,Santa Maria,9
+2022-32,32,Sistema Penitenciário,0
+2022-32,32,Sobradinho,24
+2022-32,32,Sobradinho II,3
+2022-32,32,Sudoeste/Octogonal,28
+2022-32,32,São Sebastião,13
+2022-32,32,Taguatinga,28
+2022-32,32,Varjão,0
+2022-32,32,Vicente Pires,14
+2022-32,32,Águas Claras,51
+2022-33,33,Arniqueira,1
+2022-33,33,Brazlândia,7
+2022-33,33,Candangolândia,7
+2022-33,33,Ceilândia,16
+2022-33,33,Cruzeiro,9
+2022-33,33,Entorno DF,0
+2022-33,33,Fercal,0
+2022-33,33,Gama,12
+2022-33,33,Guará,33
+2022-33,33,Itapoã,0
+2022-33,33,Jardim Botânico,2
+2022-33,33,Lago Norte,17
+2022-33,33,Lago Sul,18
+2022-33,33,Núcleo Bandeirante,1
+2022-33,33,Outros Estados,74
+2022-33,33,Paranoá,9
+2022-33,33,Park Way,6
+2022-33,33,Planaltina,26
+2022-33,33,Plano Piloto,96
+2022-33,33,Pôr do Sol,1
+2022-33,33,Recanto das Emas,6
+2022-33,33,Riacho Fundo,3
+2022-33,33,Riacho Fundo II,2
+2022-33,33,SCIA,1
+2022-33,33,SIA,0
+2022-33,33,Samambaia,10
+2022-33,33,Santa Maria,11
+2022-33,33,Sistema Penitenciário,0
+2022-33,33,Sobradinho,28
+2022-33,33,Sobradinho II,5
+2022-33,33,Sudoeste/Octogonal,10
+2022-33,33,São Sebastião,10
+2022-33,33,Taguatinga,25
+2022-33,33,Varjão,0
+2022-33,33,Vicente Pires,10
+2022-33,33,Águas Claras,18
+2022-34,34,Arniqueira,1
+2022-34,34,Brazlândia,3
+2022-34,34,Candangolândia,0
+2022-34,34,Ceilândia,16
+2022-34,34,Cruzeiro,3
+2022-34,34,Entorno DF,0
+2022-34,34,Fercal,1
+2022-34,34,Gama,8
+2022-34,34,Guará,22
+2022-34,34,Itapoã,0
+2022-34,34,Jardim Botânico,2
+2022-34,34,Lago Norte,10
+2022-34,34,Lago Sul,9
+2022-34,34,Núcleo Bandeirante,5
+2022-34,34,Outros Estados,44
+2022-34,34,Paranoá,1
+2022-34,34,Park Way,6
+2022-34,34,Planaltina,20
+2022-34,34,Plano Piloto,76
+2022-34,34,Pôr do Sol,1
+2022-34,34,Recanto das Emas,5
+2022-34,34,Riacho Fundo,2
+2022-34,34,Riacho Fundo II,3
+2022-34,34,SCIA,3
+2022-34,34,SIA,0
+2022-34,34,Samambaia,9
+2022-34,34,Santa Maria,10
+2022-34,34,Sistema Penitenciário,0
+2022-34,34,Sobradinho,10
+2022-34,34,Sobradinho II,1
+2022-34,34,Sudoeste/Octogonal,16
+2022-34,34,São Sebastião,6
+2022-34,34,Taguatinga,15
+2022-34,34,Varjão,1
+2022-34,34,Vicente Pires,6
+2022-34,34,Águas Claras,14
+2022-35,35,Arniqueira,0
+2022-35,35,Brazlândia,1
+2022-35,35,Candangolândia,1
+2022-35,35,Ceilândia,11
+2022-35,35,Cruzeiro,2
+2022-35,35,Entorno DF,0
+2022-35,35,Fercal,0
+2022-35,35,Gama,10
+2022-35,35,Guará,9
+2022-35,35,Itapoã,0
+2022-35,35,Jardim Botânico,1
+2022-35,35,Lago Norte,6
+2022-35,35,Lago Sul,7
+2022-35,35,Núcleo Bandeirante,1
+2022-35,35,Outros Estados,10
+2022-35,35,Paranoá,1
+2022-35,35,Park Way,2
+2022-35,35,Planaltina,6
+2022-35,35,Plano Piloto,50
+2022-35,35,Pôr do Sol,1
+2022-35,35,Recanto das Emas,5
+2022-35,35,Riacho Fundo,2
+2022-35,35,Riacho Fundo II,13
+2022-35,35,SCIA,0
+2022-35,35,SIA,0
+2022-35,35,Samambaia,7
+2022-35,35,Santa Maria,5
+2022-35,35,Sistema Penitenciário,0
+2022-35,35,Sobradinho,12
+2022-35,35,Sobradinho II,4
+2022-35,35,Sudoeste/Octogonal,9
+2022-35,35,São Sebastião,2
+2022-35,35,Taguatinga,12
+2022-35,35,Varjão,2
+2022-35,35,Vicente Pires,2
+2022-35,35,Águas Claras,10
+2022-36,36,Arniqueira,0
+2022-36,36,Brazlândia,2
+2022-36,36,Candangolândia,2
+2022-36,36,Ceilândia,8
+2022-36,36,Cruzeiro,3
+2022-36,36,Entorno DF,0
+2022-36,36,Fercal,0
+2022-36,36,Gama,0
+2022-36,36,Guará,10
+2022-36,36,Itapoã,0
+2022-36,36,Jardim Botânico,4
+2022-36,36,Lago Norte,3
+2022-36,36,Lago Sul,5
+2022-36,36,Núcleo Bandeirante,3
+2022-36,36,Outros Estados,21
+2022-36,36,Paranoá,2
+2022-36,36,Park Way,0
+2022-36,36,Planaltina,6
+2022-36,36,Plano Piloto,46
+2022-36,36,Pôr do Sol,0
+2022-36,36,Recanto das Emas,4
+2022-36,36,Riacho Fundo,0
+2022-36,36,Riacho Fundo II,4
+2022-36,36,SCIA,0
+2022-36,36,SIA,0
+2022-36,36,Samambaia,9
+2022-36,36,Santa Maria,2
+2022-36,36,Sistema Penitenciário,0
+2022-36,36,Sobradinho,3
+2022-36,36,Sobradinho II,4
+2022-36,36,Sudoeste/Octogonal,4
+2022-36,36,São Sebastião,1
+2022-36,36,Taguatinga,6
+2022-36,36,Varjão,0
+2022-36,36,Vicente Pires,4
+2022-36,36,Águas Claras,9
+2022-37,37,Arniqueira,0
+2022-37,37,Brazlândia,4
+2022-37,37,Candangolândia,1
+2022-37,37,Ceilândia,10
+2022-37,37,Cruzeiro,4
+2022-37,37,Entorno DF,0
+2022-37,37,Fercal,0
+2022-37,37,Gama,5
+2022-37,37,Guará,6
+2022-37,37,Itapoã,2
+2022-37,37,Jardim Botânico,1
+2022-37,37,Lago Norte,5
+2022-37,37,Lago Sul,6
+2022-37,37,Núcleo Bandeirante,2
+2022-37,37,Outros Estados,22
+2022-37,37,Paranoá,2
+2022-37,37,Park Way,4
+2022-37,37,Planaltina,2
+2022-37,37,Plano Piloto,39
+2022-37,37,Pôr do Sol,0
+2022-37,37,Recanto das Emas,1
+2022-37,37,Riacho Fundo,2
+2022-37,37,Riacho Fundo II,4
+2022-37,37,SCIA,0
+2022-37,37,SIA,0
+2022-37,37,Samambaia,2
+2022-37,37,Santa Maria,2
+2022-37,37,Sistema Penitenciário,0
+2022-37,37,Sobradinho,11
+2022-37,37,Sobradinho II,0
+2022-37,37,Sudoeste/Octogonal,3
+2022-37,37,São Sebastião,3
+2022-37,37,Taguatinga,3
+2022-37,37,Varjão,0
+2022-37,37,Vicente Pires,4
+2022-37,37,Águas Claras,7
+2022-38,38,Arniqueira,2
+2022-38,38,Brazlândia,2
+2022-38,38,Candangolândia,0
+2022-38,38,Ceilândia,7
+2022-38,38,Cruzeiro,3
+2022-38,38,Entorno DF,0
+2022-38,38,Fercal,0
+2022-38,38,Gama,4
+2022-38,38,Guará,11
+2022-38,38,Itapoã,1
+2022-38,38,Jardim Botânico,2
+2022-38,38,Lago Norte,9
+2022-38,38,Lago Sul,6
+2022-38,38,Núcleo Bandeirante,2
+2022-38,38,Outros Estados,15
+2022-38,38,Paranoá,2
+2022-38,38,Park Way,1
+2022-38,38,Planaltina,5
+2022-38,38,Plano Piloto,25
+2022-38,38,Pôr do Sol,0
+2022-38,38,Recanto das Emas,4
+2022-38,38,Riacho Fundo,2
+2022-38,38,Riacho Fundo II,2
+2022-38,38,SCIA,0
+2022-38,38,SIA,0
+2022-38,38,Samambaia,3
+2022-38,38,Santa Maria,4
+2022-38,38,Sistema Penitenciário,0
+2022-38,38,Sobradinho,8
+2022-38,38,Sobradinho II,3
+2022-38,38,Sudoeste/Octogonal,6
+2022-38,38,São Sebastião,2
+2022-38,38,Taguatinga,5
+2022-38,38,Varjão,0
+2022-38,38,Vicente Pires,1
+2022-38,38,Águas Claras,8
+2022-39,39,Arniqueira,0
+2022-39,39,Brazlândia,0
+2022-39,39,Candangolândia,4
+2022-39,39,Ceilândia,9
+2022-39,39,Cruzeiro,5
+2022-39,39,Entorno DF,0
+2022-39,39,Fercal,0
+2022-39,39,Gama,6
+2022-39,39,Guará,12
+2022-39,39,Itapoã,0
+2022-39,39,Jardim Botânico,2
+2022-39,39,Lago Norte,6
+2022-39,39,Lago Sul,9
+2022-39,39,Núcleo Bandeirante,1
+2022-39,39,Outros Estados,15
+2022-39,39,Paranoá,1
+2022-39,39,Park Way,5
+2022-39,39,Planaltina,3
+2022-39,39,Plano Piloto,63
+2022-39,39,Pôr do Sol,0
+2022-39,39,Recanto das Emas,4
+2022-39,39,Riacho Fundo,1
+2022-39,39,Riacho Fundo II,5
+2022-39,39,SCIA,0
+2022-39,39,SIA,0
+2022-39,39,Samambaia,2
+2022-39,39,Santa Maria,3
+2022-39,39,Sistema Penitenciário,0
+2022-39,39,Sobradinho,7
+2022-39,39,Sobradinho II,2
+2022-39,39,Sudoeste/Octogonal,6
+2022-39,39,São Sebastião,2
+2022-39,39,Taguatinga,9
+2022-39,39,Varjão,0
+2022-39,39,Vicente Pires,2
+2022-39,39,Águas Claras,0
+2022-40,40,Arniqueira,0
+2022-40,40,Brazlândia,0
+2022-40,40,Candangolândia,1
+2022-40,40,Ceilândia,7
+2022-40,40,Cruzeiro,4
+2022-40,40,Entorno DF,0
+2022-40,40,Fercal,1
+2022-40,40,Gama,7
+2022-40,40,Guará,8
+2022-40,40,Itapoã,1
+2022-40,40,Jardim Botânico,2
+2022-40,40,Lago Norte,6
+2022-40,40,Lago Sul,12
+2022-40,40,Núcleo Bandeirante,2
+2022-40,40,Outros Estados,18
+2022-40,40,Paranoá,0
+2022-40,40,Park Way,6
+2022-40,40,Planaltina,4
+2022-40,40,Plano Piloto,35
+2022-40,40,Pôr do Sol,0
+2022-40,40,Recanto das Emas,6
+2022-40,40,Riacho Fundo,1
+2022-40,40,Riacho Fundo II,2
+2022-40,40,SCIA,0
+2022-40,40,SIA,0
+2022-40,40,Samambaia,4
+2022-40,40,Santa Maria,2
+2022-40,40,Sistema Penitenciário,0
+2022-40,40,Sobradinho,4
+2022-40,40,Sobradinho II,2
+2022-40,40,Sudoeste/Octogonal,3
+2022-40,40,São Sebastião,3
+2022-40,40,Taguatinga,7
+2022-40,40,Varjão,0
+2022-40,40,Vicente Pires,4
+2022-40,40,Águas Claras,10
+2022-41,41,Arniqueira,0
+2022-41,41,Brazlândia,2
+2022-41,41,Candangolândia,0
+2022-41,41,Ceilândia,11
+2022-41,41,Cruzeiro,5
+2022-41,41,Entorno DF,0
+2022-41,41,Fercal,0
+2022-41,41,Gama,3
+2022-41,41,Guará,10
+2022-41,41,Itapoã,1
+2022-41,41,Jardim Botânico,1
+2022-41,41,Lago Norte,5
+2022-41,41,Lago Sul,4
+2022-41,41,Núcleo Bandeirante,2
+2022-41,41,Outros Estados,25
+2022-41,41,Paranoá,3
+2022-41,41,Park Way,2
+2022-41,41,Planaltina,3
+2022-41,41,Plano Piloto,36
+2022-41,41,Pôr do Sol,0
+2022-41,41,Recanto das Emas,1
+2022-41,41,Riacho Fundo,2
+2022-41,41,Riacho Fundo II,1
+2022-41,41,SCIA,0
+2022-41,41,SIA,0
+2022-41,41,Samambaia,1
+2022-41,41,Santa Maria,6
+2022-41,41,Sistema Penitenciário,0
+2022-41,41,Sobradinho,5
+2022-41,41,Sobradinho II,1
+2022-41,41,Sudoeste/Octogonal,7
+2022-41,41,São Sebastião,1
+2022-41,41,Taguatinga,8
+2022-41,41,Varjão,0
+2022-41,41,Vicente Pires,2
+2022-41,41,Águas Claras,5
+2022-42,42,Arniqueira,2
+2022-42,42,Brazlândia,2
+2022-42,42,Candangolândia,2
+2022-42,42,Ceilândia,9
+2022-42,42,Cruzeiro,2
+2022-42,42,Entorno DF,0
+2022-42,42,Fercal,0
+2022-42,42,Gama,10
+2022-42,42,Guará,8
+2022-42,42,Itapoã,0
+2022-42,42,Jardim Botânico,9
+2022-42,42,Lago Norte,9
+2022-42,42,Lago Sul,3
+2022-42,42,Núcleo Bandeirante,3
+2022-42,42,Outros Estados,36
+2022-42,42,Paranoá,4
+2022-42,42,Park Way,4
+2022-42,42,Planaltina,6
+2022-42,42,Plano Piloto,38
+2022-42,42,Pôr do Sol,0
+2022-42,42,Recanto das Emas,7
+2022-42,42,Riacho Fundo,2
+2022-42,42,Riacho Fundo II,1
+2022-42,42,SCIA,0
+2022-42,42,SIA,0
+2022-42,42,Samambaia,4
+2022-42,42,Santa Maria,5
+2022-42,42,Sistema Penitenciário,0
+2022-42,42,Sobradinho,3
+2022-42,42,Sobradinho II,2
+2022-42,42,Sudoeste/Octogonal,9
+2022-42,42,São Sebastião,8
+2022-42,42,Taguatinga,8
+2022-42,42,Varjão,0
+2022-42,42,Vicente Pires,1
+2022-42,42,Águas Claras,12
+2022-43,43,Arniqueira,0
+2022-43,43,Brazlândia,2
+2022-43,43,Candangolândia,0
+2022-43,43,Ceilândia,12
+2022-43,43,Cruzeiro,4
+2022-43,43,Entorno DF,0
+2022-43,43,Fercal,0
+2022-43,43,Gama,7
+2022-43,43,Guará,18
+2022-43,43,Itapoã,0
+2022-43,43,Jardim Botânico,5
+2022-43,43,Lago Norte,15
+2022-43,43,Lago Sul,14
+2022-43,43,Núcleo Bandeirante,1
+2022-43,43,Outros Estados,81
+2022-43,43,Paranoá,2
+2022-43,43,Park Way,2
+2022-43,43,Planaltina,4
+2022-43,43,Plano Piloto,78
+2022-43,43,Pôr do Sol,0
+2022-43,43,Recanto das Emas,3
+2022-43,43,Riacho Fundo,0
+2022-43,43,Riacho Fundo II,0
+2022-43,43,SCIA,0
+2022-43,43,SIA,0
+2022-43,43,Samambaia,5
+2022-43,43,Santa Maria,6
+2022-43,43,Sistema Penitenciário,0
+2022-43,43,Sobradinho,11
+2022-43,43,Sobradinho II,2
+2022-43,43,Sudoeste/Octogonal,14
+2022-43,43,São Sebastião,8
+2022-43,43,Taguatinga,13
+2022-43,43,Varjão,0
+2022-43,43,Vicente Pires,3
+2022-43,43,Águas Claras,18
+2022-44,44,Arniqueira,2
+2022-44,44,Brazlândia,5
+2022-44,44,Candangolândia,4
+2022-44,44,Ceilândia,19
+2022-44,44,Cruzeiro,7
+2022-44,44,Entorno DF,0
+2022-44,44,Fercal,0
+2022-44,44,Gama,9
+2022-44,44,Guará,23
+2022-44,44,Itapoã,1
+2022-44,44,Jardim Botânico,15
+2022-44,44,Lago Norte,17
+2022-44,44,Lago Sul,18
+2022-44,44,Núcleo Bandeirante,7
+2022-44,44,Outros Estados,50
+2022-44,44,Paranoá,6
+2022-44,44,Park Way,12
+2022-44,44,Planaltina,16
+2022-44,44,Plano Piloto,116
+2022-44,44,Pôr do Sol,3
+2022-44,44,Recanto das Emas,12
+2022-44,44,Riacho Fundo,2
+2022-44,44,Riacho Fundo II,7
+2022-44,44,SCIA,0
+2022-44,44,SIA,0
+2022-44,44,Samambaia,9
+2022-44,44,Santa Maria,15
+2022-44,44,Sistema Penitenciário,0
+2022-44,44,Sobradinho,16
+2022-44,44,Sobradinho II,1
+2022-44,44,Sudoeste/Octogonal,27
+2022-44,44,São Sebastião,7
+2022-44,44,Taguatinga,28
+2022-44,44,Varjão,1
+2022-44,44,Vicente Pires,12
+2022-44,44,Águas Claras,29
+2022-45,45,Arniqueira,2
+2022-45,45,Brazlândia,10
+2022-45,45,Candangolândia,6
+2022-45,45,Ceilândia,50
+2022-45,45,Cruzeiro,27
+2022-45,45,Entorno DF,0
+2022-45,45,Fercal,0
+2022-45,45,Gama,34
+2022-45,45,Guará,73
+2022-45,45,Itapoã,2
+2022-45,45,Jardim Botânico,35
+2022-45,45,Lago Norte,61
+2022-45,45,Lago Sul,66
+2022-45,45,Núcleo Bandeirante,9
+2022-45,45,Outros Estados,143
+2022-45,45,Paranoá,10
+2022-45,45,Park Way,20
+2022-45,45,Planaltina,21
+2022-45,45,Plano Piloto,399
+2022-45,45,Pôr do Sol,2
+2022-45,45,Recanto das Emas,25
+2022-45,45,Riacho Fundo,5
+2022-45,45,Riacho Fundo II,11
+2022-45,45,SCIA,0
+2022-45,45,SIA,0
+2022-45,45,Samambaia,32
+2022-45,45,Santa Maria,32
+2022-45,45,Sistema Penitenciário,0
+2022-45,45,Sobradinho,42
+2022-45,45,Sobradinho II,11
+2022-45,45,Sudoeste/Octogonal,106
+2022-45,45,São Sebastião,9
+2022-45,45,Taguatinga,73
+2022-45,45,Varjão,4
+2022-45,45,Vicente Pires,21
+2022-45,45,Águas Claras,93
+2022-46,46,Arniqueira,7
+2022-46,46,Brazlândia,27
+2022-46,46,Candangolândia,11
+2022-46,46,Ceilândia,185
+2022-46,46,Cruzeiro,47
+2022-46,46,Entorno DF,0
+2022-46,46,Fercal,6
+2022-46,46,Gama,108
+2022-46,46,Guará,236
+2022-46,46,Itapoã,6
+2022-46,46,Jardim Botânico,62
+2022-46,46,Lago Norte,131
+2022-46,46,Lago Sul,111
+2022-46,46,Núcleo Bandeirante,21
+2022-46,46,Outros Estados,362
+2022-46,46,Paranoá,27
+2022-46,46,Park Way,47
+2022-46,46,Planaltina,64
+2022-46,46,Plano Piloto,849
+2022-46,46,Pôr do Sol,6
+2022-46,46,Recanto das Emas,60
+2022-46,46,Riacho Fundo,23
+2022-46,46,Riacho Fundo II,66
+2022-46,46,SCIA,7
+2022-46,46,SIA,0
+2022-46,46,Samambaia,111
+2022-46,46,Santa Maria,80
+2022-46,46,Sistema Penitenciário,0
+2022-46,46,Sobradinho,145
+2022-46,46,Sobradinho II,34
+2022-46,46,Sudoeste/Octogonal,158
+2022-46,46,São Sebastião,57
+2022-46,46,Taguatinga,198
+2022-46,46,Varjão,8
+2022-46,46,Vicente Pires,51
+2022-46,46,Águas Claras,210
+2022-47,47,Arniqueira,10
+2022-47,47,Brazlândia,109
+2022-47,47,Candangolândia,17
+2022-47,47,Ceilândia,324
+2022-47,47,Cruzeiro,84
+2022-47,47,Entorno DF,0
+2022-47,47,Fercal,11
+2022-47,47,Gama,263
+2022-47,47,Guará,330
+2022-47,47,Itapoã,7
+2022-47,47,Jardim Botânico,96
+2022-47,47,Lago Norte,142
+2022-47,47,Lago Sul,132
+2022-47,47,Núcleo Bandeirante,60
+2022-47,47,Outros Estados,627
+2022-47,47,Paranoá,44
+2022-47,47,Park Way,66
+2022-47,47,Planaltina,105
+2022-47,47,Plano Piloto,973
+2022-47,47,Pôr do Sol,13
+2022-47,47,Recanto das Emas,102
+2022-47,47,Riacho Fundo,51
+2022-47,47,Riacho Fundo II,105
+2022-47,47,SCIA,18
+2022-47,47,SIA,1
+2022-47,47,Samambaia,237
+2022-47,47,Santa Maria,143
+2022-47,47,Sistema Penitenciário,0
+2022-47,47,Sobradinho,263
+2022-47,47,Sobradinho II,69
+2022-47,47,Sudoeste/Octogonal,227
+2022-47,47,São Sebastião,101
+2022-47,47,Taguatinga,364
+2022-47,47,Varjão,16
+2022-47,47,Vicente Pires,96
+2022-47,47,Águas Claras,385
+2022-48,48,Arniqueira,18
+2022-48,48,Brazlândia,182
+2022-48,48,Candangolândia,22
+2022-48,48,Ceilândia,608
+2022-48,48,Cruzeiro,110
+2022-48,48,Entorno DF,0
+2022-48,48,Fercal,12
+2022-48,48,Gama,380
+2022-48,48,Guará,525
+2022-48,48,Itapoã,28
+2022-48,48,Jardim Botânico,129
+2022-48,48,Lago Norte,198
+2022-48,48,Lago Sul,176
+2022-48,48,Núcleo Bandeirante,76
+2022-48,48,Outros Estados,885
+2022-48,48,Paranoá,75
+2022-48,48,Park Way,88
+2022-48,48,Planaltina,303
+2022-48,48,Plano Piloto,1262
+2022-48,48,Pôr do Sol,27
+2022-48,48,Recanto das Emas,155
+2022-48,48,Riacho Fundo,78
+2022-48,48,Riacho Fundo II,150
+2022-48,48,SCIA,17
+2022-48,48,SIA,0
+2022-48,48,Samambaia,322
+2022-48,48,Santa Maria,237
+2022-48,48,Sistema Penitenciário,0
+2022-48,48,Sobradinho,411
+2022-48,48,Sobradinho II,112
+2022-48,48,Sudoeste/Octogonal,300
+2022-48,48,São Sebastião,156
+2022-48,48,Taguatinga,503
+2022-48,48,Varjão,28
+2022-48,48,Vicente Pires,124
+2022-48,48,Águas Claras,439
+2022-49,49,Arniqueira,22
+2022-49,49,Brazlândia,228
+2022-49,49,Candangolândia,22
+2022-49,49,Ceilândia,774
+2022-49,49,Cruzeiro,103
+2022-49,49,Entorno DF,0
+2022-49,49,Fercal,13
+2022-49,49,Gama,394
+2022-49,49,Guará,644
+2022-49,49,Itapoã,23
+2022-49,49,Jardim Botânico,140
+2022-49,49,Lago Norte,197
+2022-49,49,Lago Sul,182
+2022-49,49,Núcleo Bandeirante,71
+2022-49,49,Outros Estados,1053
+2022-49,49,Paranoá,114
+2022-49,49,Park Way,80
+2022-49,49,Planaltina,437
+2022-49,49,Plano Piloto,1465
+2022-49,49,Pôr do Sol,40
+2022-49,49,Recanto das Emas,242
+2022-49,49,Riacho Fundo,68
+2022-49,49,Riacho Fundo II,196
+2022-49,49,SCIA,11
+2022-49,49,SIA,0
+2022-49,49,Samambaia,335
+2022-49,49,Santa Maria,313
+2022-49,49,Sistema Penitenciário,0
+2022-49,49,Sobradinho,414
+2022-49,49,Sobradinho II,76
+2022-49,49,Sudoeste/Octogonal,279
+2022-49,49,São Sebastião,196
+2022-49,49,Taguatinga,552
+2022-49,49,Varjão,32
+2022-49,49,Vicente Pires,126
+2022-49,49,Águas Claras,459
+2022-50,50,Arniqueira,10
+2022-50,50,Brazlândia,195
+2022-50,50,Candangolândia,24
+2022-50,50,Ceilândia,615
+2022-50,50,Cruzeiro,113
+2022-50,50,Entorno DF,0
+2022-50,50,Fercal,9
+2022-50,50,Gama,374
+2022-50,50,Guará,492
+2022-50,50,Itapoã,14
+2022-50,50,Jardim Botânico,123
+2022-50,50,Lago Norte,159
+2022-50,50,Lago Sul,173
+2022-50,50,Núcleo Bandeirante,69
+2022-50,50,Outros Estados,859
+2022-50,50,Paranoá,110
+2022-50,50,Park Way,87
+2022-50,50,Planaltina,328
+2022-50,50,Plano Piloto,1219
+2022-50,50,Pôr do Sol,26
+2022-50,50,Recanto das Emas,205
+2022-50,50,Riacho Fundo,48
+2022-50,50,Riacho Fundo II,151
+2022-50,50,SCIA,14
+2022-50,50,SIA,0
+2022-50,50,Samambaia,291
+2022-50,50,Santa Maria,275
+2022-50,50,Sistema Penitenciário,0
+2022-50,50,Sobradinho,445
+2022-50,50,Sobradinho II,66
+2022-50,50,Sudoeste/Octogonal,241
+2022-50,50,São Sebastião,180
+2022-50,50,Taguatinga,480
+2022-50,50,Varjão,41
+2022-50,50,Vicente Pires,114
+2022-50,50,Águas Claras,415
+2022-51,51,Arniqueira,14
+2022-51,51,Brazlândia,96
+2022-51,51,Candangolândia,18
+2022-51,51,Ceilândia,315
+2022-51,51,Cruzeiro,72
+2022-51,51,Entorno DF,0
+2022-51,51,Fercal,15
+2022-51,51,Gama,210
+2022-51,51,Guará,308
+2022-51,51,Itapoã,21
+2022-51,51,Jardim Botânico,86
+2022-51,51,Lago Norte,97
+2022-51,51,Lago Sul,93
+2022-51,51,Núcleo Bandeirante,25
+2022-51,51,Outros Estados,520
+2022-51,51,Paranoá,65
+2022-51,51,Park Way,51
+2022-51,51,Planaltina,202
+2022-51,51,Plano Piloto,723
+2022-51,51,Pôr do Sol,15
+2022-51,51,Recanto das Emas,87
+2022-51,51,Riacho Fundo,34
+2022-51,51,Riacho Fundo II,71
+2022-51,51,SCIA,9
+2022-51,51,SIA,0
+2022-51,51,Samambaia,189
+2022-51,51,Santa Maria,119
+2022-51,51,Sistema Penitenciário,0
+2022-51,51,Sobradinho,238
+2022-51,51,Sobradinho II,32
+2022-51,51,Sudoeste/Octogonal,166
+2022-51,51,São Sebastião,80
+2022-51,51,Taguatinga,311
+2022-51,51,Varjão,10
+2022-51,51,Vicente Pires,73
+2022-51,51,Águas Claras,233
+2022-52,52,Arniqueira,11
+2022-52,52,Brazlândia,46
+2022-52,52,Candangolândia,5
+2022-52,52,Ceilândia,171
+2022-52,52,Cruzeiro,37
+2022-52,52,Entorno DF,0
+2022-52,52,Fercal,10
+2022-52,52,Gama,80
+2022-52,52,Guará,136
+2022-52,52,Itapoã,8
+2022-52,52,Jardim Botânico,37
+2022-52,52,Lago Norte,44
+2022-52,52,Lago Sul,46
+2022-52,52,Núcleo Bandeirante,13
+2022-52,52,Outros Estados,578
+2022-52,52,Paranoá,31
+2022-52,52,Park Way,30
+2022-52,52,Planaltina,85
+2022-52,52,Plano Piloto,317
+2022-52,52,Pôr do Sol,8
+2022-52,52,Recanto das Emas,48
+2022-52,52,Riacho Fundo,20
+2022-52,52,Riacho Fundo II,45
+2022-52,52,SCIA,0
+2022-52,52,SIA,0
+2022-52,52,Samambaia,103
+2022-52,52,Santa Maria,54
+2022-52,52,Sistema Penitenciário,0
+2022-52,52,Sobradinho,88
+2022-52,52,Sobradinho II,18
+2022-52,52,Sudoeste/Octogonal,63
+2022-52,52,São Sebastião,51
+2022-52,52,Taguatinga,138
+2022-52,52,Varjão,19
+2022-52,52,Vicente Pires,57
+2022-52,52,Águas Claras,120
+2023-00,0,Arniqueira,1
+2023-00,0,Brazlândia,8
+2023-00,0,Candangolândia,2
+2023-00,0,Ceilândia,27
+2023-00,0,Cruzeiro,1
+2023-00,0,Entorno DF,0
+2023-00,0,Fercal,2
+2023-00,0,Gama,14
+2023-00,0,Guará,13
+2023-00,0,Itapoã,0
+2023-00,0,Jardim Botânico,3
+2023-00,0,Lago Norte,3
+2023-00,0,Lago Sul,4
+2023-00,0,Núcleo Bandeirante,4
+2023-00,0,Outros Estados,34
+2023-00,0,Paranoá,3
+2023-00,0,Park Way,1
+2023-00,0,Planaltina,16
+2023-00,0,Plano Piloto,30
+2023-00,0,Pôr do Sol,1
+2023-00,0,Recanto das Emas,6
+2023-00,0,Riacho Fundo,3
+2023-00,0,Riacho Fundo II,5
+2023-00,0,SCIA,0
+2023-00,0,SIA,0
+2023-00,0,Samambaia,8
+2023-00,0,Santa Maria,6
+2023-00,0,Sistema Penitenciário,0
+2023-00,0,Sobradinho,11
+2023-00,0,Sobradinho II,1
+2023-00,0,Sudoeste/Octogonal,2
+2023-00,0,São Sebastião,5
+2023-00,0,Taguatinga,17
+2023-00,0,Varjão,0
+2023-00,0,Vicente Pires,2
+2023-00,0,Águas Claras,8
+2023-01,1,Arniqueira,5
+2023-01,1,Brazlândia,30
+2023-01,1,Candangolândia,6
+2023-01,1,Ceilândia,97
+2023-01,1,Cruzeiro,32
+2023-01,1,Entorno DF,0
+2023-01,1,Fercal,2
+2023-01,1,Gama,59
+2023-01,1,Guará,86
+2023-01,1,Itapoã,5
+2023-01,1,Jardim Botânico,21
+2023-01,1,Lago Norte,42
+2023-01,1,Lago Sul,34
+2023-01,1,Núcleo Bandeirante,6
+2023-01,1,Outros Estados,186
+2023-01,1,Paranoá,19
+2023-01,1,Park Way,16
+2023-01,1,Planaltina,57
+2023-01,1,Plano Piloto,227
+2023-01,1,Pôr do Sol,3
+2023-01,1,Recanto das Emas,25
+2023-01,1,Riacho Fundo,13
+2023-01,1,Riacho Fundo II,35
+2023-01,1,SCIA,1
+2023-01,1,SIA,0
+2023-01,1,Samambaia,48
+2023-01,1,Santa Maria,38
+2023-01,1,Sistema Penitenciário,0
+2023-01,1,Sobradinho,60
+2023-01,1,Sobradinho II,11
+2023-01,1,Sudoeste/Octogonal,39
+2023-01,1,São Sebastião,31
+2023-01,1,Taguatinga,81
+2023-01,1,Varjão,9
+2023-01,1,Vicente Pires,25
+2023-01,1,Águas Claras,82
+2023-02,2,Arniqueira,1
+2023-02,2,Brazlândia,13
+2023-02,2,Candangolândia,3
+2023-02,2,Ceilândia,32
+2023-02,2,Cruzeiro,14
+2023-02,2,Entorno DF,0
+2023-02,2,Fercal,0
+2023-02,2,Gama,43
+2023-02,2,Guará,52
+2023-02,2,Itapoã,4
+2023-02,2,Jardim Botânico,9
+2023-02,2,Lago Norte,16
+2023-02,2,Lago Sul,15
+2023-02,2,Núcleo Bandeirante,6
+2023-02,2,Outros Estados,96
+2023-02,2,Paranoá,12
+2023-02,2,Park Way,10
+2023-02,2,Planaltina,27
+2023-02,2,Plano Piloto,135
+2023-02,2,Pôr do Sol,4
+2023-02,2,Recanto das Emas,19
+2023-02,2,Riacho Fundo,9
+2023-02,2,Riacho Fundo II,12
+2023-02,2,SCIA,1
+2023-02,2,SIA,0
+2023-02,2,Samambaia,24
+2023-02,2,Santa Maria,25
+2023-02,2,Sistema Penitenciário,0
+2023-02,2,Sobradinho,24
+2023-02,2,Sobradinho II,8
+2023-02,2,Sudoeste/Octogonal,32
+2023-02,2,São Sebastião,13
+2023-02,2,Taguatinga,41
+2023-02,2,Varjão,4
+2023-02,2,Vicente Pires,8
+2023-02,2,Águas Claras,44
+2023-03,3,Arniqueira,1
+2023-03,3,Brazlândia,5
+2023-03,3,Candangolândia,3
+2023-03,3,Ceilândia,16
+2023-03,3,Cruzeiro,2
+2023-03,3,Entorno DF,0
+2023-03,3,Fercal,1
+2023-03,3,Gama,15
+2023-03,3,Guará,25
+2023-03,3,Itapoã,2
+2023-03,3,Jardim Botânico,2
+2023-03,3,Lago Norte,3
+2023-03,3,Lago Sul,17
+2023-03,3,Núcleo Bandeirante,2
+2023-03,3,Outros Estados,48
+2023-03,3,Paranoá,3
+2023-03,3,Park Way,11
+2023-03,3,Planaltina,22
+2023-03,3,Plano Piloto,74
+2023-03,3,Pôr do Sol,3
+2023-03,3,Recanto das Emas,5
+2023-03,3,Riacho Fundo,3
+2023-03,3,Riacho Fundo II,7
+2023-03,3,SCIA,0
+2023-03,3,SIA,1
+2023-03,3,Samambaia,15
+2023-03,3,Santa Maria,16
+2023-03,3,Sistema Penitenciário,0
+2023-03,3,Sobradinho,19
+2023-03,3,Sobradinho II,4
+2023-03,3,Sudoeste/Octogonal,17
+2023-03,3,São Sebastião,6
+2023-03,3,Taguatinga,25
+2023-03,3,Varjão,0
+2023-03,3,Vicente Pires,4
+2023-03,3,Águas Claras,24
+2023-04,4,Arniqueira,0
+2023-04,4,Brazlândia,8
+2023-04,4,Candangolândia,2
+2023-04,4,Ceilândia,31
+2023-04,4,Cruzeiro,7
+2023-04,4,Entorno DF,0
+2023-04,4,Fercal,0
+2023-04,4,Gama,14
+2023-04,4,Guará,19
+2023-04,4,Itapoã,0
+2023-04,4,Jardim Botânico,16
+2023-04,4,Lago Norte,11
+2023-04,4,Lago Sul,6
+2023-04,4,Núcleo Bandeirante,2
+2023-04,4,Outros Estados,46
+2023-04,4,Paranoá,0
+2023-04,4,Park Way,2
+2023-04,4,Planaltina,15
+2023-04,4,Plano Piloto,67
+2023-04,4,Pôr do Sol,3
+2023-04,4,Recanto das Emas,11
+2023-04,4,Riacho Fundo,3
+2023-04,4,Riacho Fundo II,6
+2023-04,4,SCIA,0
+2023-04,4,SIA,0
+2023-04,4,Samambaia,10
+2023-04,4,Santa Maria,7
+2023-04,4,Sistema Penitenciário,0
+2023-04,4,Sobradinho,13
+2023-04,4,Sobradinho II,3
+2023-04,4,Sudoeste/Octogonal,10
+2023-04,4,São Sebastião,7
+2023-04,4,Taguatinga,22
+2023-04,4,Varjão,2
+2023-04,4,Vicente Pires,3
+2023-04,4,Águas Claras,18
+2023-05,5,Arniqueira,1
+2023-05,5,Brazlândia,9
+2023-05,5,Candangolândia,1
+2023-05,5,Ceilândia,18
+2023-05,5,Cruzeiro,5
+2023-05,5,Entorno DF,0
+2023-05,5,Fercal,0
+2023-05,5,Gama,18
+2023-05,5,Guará,15
+2023-05,5,Itapoã,1
+2023-05,5,Jardim Botânico,7
+2023-05,5,Lago Norte,17
+2023-05,5,Lago Sul,6
+2023-05,5,Núcleo Bandeirante,2
+2023-05,5,Outros Estados,58
+2023-05,5,Paranoá,2
+2023-05,5,Park Way,3
+2023-05,5,Planaltina,12
+2023-05,5,Plano Piloto,80
+2023-05,5,Pôr do Sol,2
+2023-05,5,Recanto das Emas,8
+2023-05,5,Riacho Fundo,2
+2023-05,5,Riacho Fundo II,3
+2023-05,5,SCIA,0
+2023-05,5,SIA,0
+2023-05,5,Samambaia,16
+2023-05,5,Santa Maria,7
+2023-05,5,Sistema Penitenciário,0
+2023-05,5,Sobradinho,10
+2023-05,5,Sobradinho II,4
+2023-05,5,Sudoeste/Octogonal,14
+2023-05,5,São Sebastião,8
+2023-05,5,Taguatinga,24
+2023-05,5,Varjão,6
+2023-05,5,Vicente Pires,11
+2023-05,5,Águas Claras,26
+2023-06,6,Arniqueira,2
+2023-06,6,Brazlândia,6
+2023-06,6,Candangolândia,1
+2023-06,6,Ceilândia,24
+2023-06,6,Cruzeiro,3
+2023-06,6,Entorno DF,0
+2023-06,6,Fercal,0
+2023-06,6,Gama,18
+2023-06,6,Guará,28
+2023-06,6,Itapoã,1
+2023-06,6,Jardim Botânico,3
+2023-06,6,Lago Norte,13
+2023-06,6,Lago Sul,12
+2023-06,6,Núcleo Bandeirante,6
+2023-06,6,Outros Estados,49
+2023-06,6,Paranoá,7
+2023-06,6,Park Way,8
+2023-06,6,Planaltina,19
+2023-06,6,Plano Piloto,60
+2023-06,6,Pôr do Sol,1
+2023-06,6,Recanto das Emas,6
+2023-06,6,Riacho Fundo,3
+2023-06,6,Riacho Fundo II,6
+2023-06,6,SCIA,1
+2023-06,6,SIA,0
+2023-06,6,Samambaia,8
+2023-06,6,Santa Maria,7
+2023-06,6,Sistema Penitenciário,0
+2023-06,6,Sobradinho,10
+2023-06,6,Sobradinho II,3
+2023-06,6,Sudoeste/Octogonal,7
+2023-06,6,São Sebastião,9
+2023-06,6,Taguatinga,35
+2023-06,6,Varjão,5
+2023-06,6,Vicente Pires,7
+2023-06,6,Águas Claras,21
+2023-07,7,Arniqueira,2
+2023-07,7,Brazlândia,11
+2023-07,7,Candangolândia,1
+2023-07,7,Ceilândia,22
+2023-07,7,Cruzeiro,6
+2023-07,7,Entorno DF,0
+2023-07,7,Fercal,0
+2023-07,7,Gama,19
+2023-07,7,Guará,23
+2023-07,7,Itapoã,1
+2023-07,7,Jardim Botânico,5
+2023-07,7,Lago Norte,8
+2023-07,7,Lago Sul,11
+2023-07,7,Núcleo Bandeirante,4
+2023-07,7,Outros Estados,32
+2023-07,7,Paranoá,8
+2023-07,7,Park Way,4
+2023-07,7,Planaltina,18
+2023-07,7,Plano Piloto,77
+2023-07,7,Pôr do Sol,2
+2023-07,7,Recanto das Emas,5
+2023-07,7,Riacho Fundo,5
+2023-07,7,Riacho Fundo II,3
+2023-07,7,SCIA,0
+2023-07,7,SIA,0
+2023-07,7,Samambaia,14
+2023-07,7,Santa Maria,14
+2023-07,7,Sistema Penitenciário,0
+2023-07,7,Sobradinho,17
+2023-07,7,Sobradinho II,2
+2023-07,7,Sudoeste/Octogonal,13
+2023-07,7,São Sebastião,6
+2023-07,7,Taguatinga,28
+2023-07,7,Varjão,0
+2023-07,7,Vicente Pires,2
+2023-07,7,Águas Claras,16
+2023-08,8,Arniqueira,1
+2023-08,8,Brazlândia,7
+2023-08,8,Candangolândia,5
+2023-08,8,Ceilândia,18
+2023-08,8,Cruzeiro,6
+2023-08,8,Entorno DF,0
+2023-08,8,Fercal,1
+2023-08,8,Gama,19
+2023-08,8,Guará,23
+2023-08,8,Itapoã,2
+2023-08,8,Jardim Botânico,10
+2023-08,8,Lago Norte,12
+2023-08,8,Lago Sul,18
+2023-08,8,Núcleo Bandeirante,0
+2023-08,8,Outros Estados,49
+2023-08,8,Paranoá,6
+2023-08,8,Park Way,9
+2023-08,8,Planaltina,19
+2023-08,8,Plano Piloto,90
+2023-08,8,Pôr do Sol,0
+2023-08,8,Recanto das Emas,6
+2023-08,8,Riacho Fundo,5
+2023-08,8,Riacho Fundo II,3
+2023-08,8,SCIA,1
+2023-08,8,SIA,0
+2023-08,8,Samambaia,11
+2023-08,8,Santa Maria,13
+2023-08,8,Sistema Penitenciário,0
+2023-08,8,Sobradinho,22
+2023-08,8,Sobradinho II,6
+2023-08,8,Sudoeste/Octogonal,20
+2023-08,8,São Sebastião,7
+2023-08,8,Taguatinga,25
+2023-08,8,Varjão,2
+2023-08,8,Vicente Pires,7
+2023-08,8,Águas Claras,23
+2023-09,9,Arniqueira,2
+2023-09,9,Brazlândia,12
+2023-09,9,Candangolândia,2
+2023-09,9,Ceilândia,40
+2023-09,9,Cruzeiro,13
+2023-09,9,Entorno DF,0
+2023-09,9,Fercal,1
+2023-09,9,Gama,26
+2023-09,9,Guará,36
+2023-09,9,Itapoã,2
+2023-09,9,Jardim Botânico,7
+2023-09,9,Lago Norte,13
+2023-09,9,Lago Sul,16
+2023-09,9,Núcleo Bandeirante,4
+2023-09,9,Outros Estados,60
+2023-09,9,Paranoá,3
+2023-09,9,Park Way,7
+2023-09,9,Planaltina,11
+2023-09,9,Plano Piloto,110
+2023-09,9,Pôr do Sol,1
+2023-09,9,Recanto das Emas,12
+2023-09,9,Riacho Fundo,3
+2023-09,9,Riacho Fundo II,7
+2023-09,9,SCIA,0
+2023-09,9,SIA,0
+2023-09,9,Samambaia,15
+2023-09,9,Santa Maria,13
+2023-09,9,Sistema Penitenciário,0
+2023-09,9,Sobradinho,29
+2023-09,9,Sobradinho II,5
+2023-09,9,Sudoeste/Octogonal,33
+2023-09,9,São Sebastião,3
+2023-09,9,Taguatinga,36
+2023-09,9,Varjão,3
+2023-09,9,Vicente Pires,9
+2023-09,9,Águas Claras,32
+2023-10,10,Arniqueira,3
+2023-10,10,Brazlândia,4
+2023-10,10,Candangolândia,2
+2023-10,10,Ceilândia,42
+2023-10,10,Cruzeiro,5
+2023-10,10,Entorno DF,0
+2023-10,10,Fercal,0
+2023-10,10,Gama,36
+2023-10,10,Guará,56
+2023-10,10,Itapoã,0
+2023-10,10,Jardim Botânico,14
+2023-10,10,Lago Norte,24
+2023-10,10,Lago Sul,11
+2023-10,10,Núcleo Bandeirante,5
+2023-10,10,Outros Estados,72
+2023-10,10,Paranoá,9
+2023-10,10,Park Way,5
+2023-10,10,Planaltina,24
+2023-10,10,Plano Piloto,143
+2023-10,10,Pôr do Sol,0
+2023-10,10,Recanto das Emas,16
+2023-10,10,Riacho Fundo,9
+2023-10,10,Riacho Fundo II,8
+2023-10,10,SCIA,1
+2023-10,10,SIA,1
+2023-10,10,Samambaia,17
+2023-10,10,Santa Maria,22
+2023-10,10,Sistema Penitenciário,0
+2023-10,10,Sobradinho,20
+2023-10,10,Sobradinho II,3
+2023-10,10,Sudoeste/Octogonal,24
+2023-10,10,São Sebastião,6
+2023-10,10,Taguatinga,34
+2023-10,10,Varjão,0
+2023-10,10,Vicente Pires,13
+2023-10,10,Águas Claras,36
+2023-11,11,Arniqueira,0
+2023-11,11,Brazlândia,8
+2023-11,11,Candangolândia,4
+2023-11,11,Ceilândia,44
+2023-11,11,Cruzeiro,12
+2023-11,11,Entorno DF,0
+2023-11,11,Fercal,0
+2023-11,11,Gama,30
+2023-11,11,Guará,31
+2023-11,11,Itapoã,3
+2023-11,11,Jardim Botânico,11
+2023-11,11,Lago Norte,11
+2023-11,11,Lago Sul,14
+2023-11,11,Núcleo Bandeirante,2
+2023-11,11,Outros Estados,67
+2023-11,11,Paranoá,8
+2023-11,11,Park Way,6
+2023-11,11,Planaltina,30
+2023-11,11,Plano Piloto,96
+2023-11,11,Pôr do Sol,0
+2023-11,11,Recanto das Emas,10
+2023-11,11,Riacho Fundo,7
+2023-11,11,Riacho Fundo II,2
+2023-11,11,SCIA,1
+2023-11,11,SIA,0
+2023-11,11,Samambaia,21
+2023-11,11,Santa Maria,15
+2023-11,11,Sistema Penitenciário,0
+2023-11,11,Sobradinho,29
+2023-11,11,Sobradinho II,7
+2023-11,11,Sudoeste/Octogonal,19
+2023-11,11,São Sebastião,7
+2023-11,11,Taguatinga,37
+2023-11,11,Varjão,1
+2023-11,11,Vicente Pires,12
+2023-11,11,Águas Claras,32
+2023-12,12,Arniqueira,0
+2023-12,12,Brazlândia,16
+2023-12,12,Candangolândia,1
+2023-12,12,Ceilândia,41
+2023-12,12,Cruzeiro,13
+2023-12,12,Entorno DF,0
+2023-12,12,Fercal,0
+2023-12,12,Gama,33
+2023-12,12,Guará,58
+2023-12,12,Itapoã,3
+2023-12,12,Jardim Botânico,14
+2023-12,12,Lago Norte,17
+2023-12,12,Lago Sul,26
+2023-12,12,Núcleo Bandeirante,7
+2023-12,12,Outros Estados,87
+2023-12,12,Paranoá,10
+2023-12,12,Park Way,12
+2023-12,12,Planaltina,21
+2023-12,12,Plano Piloto,162
+2023-12,12,Pôr do Sol,0
+2023-12,12,Recanto das Emas,20
+2023-12,12,Riacho Fundo,4
+2023-12,12,Riacho Fundo II,16
+2023-12,12,SCIA,1
+2023-12,12,SIA,1
+2023-12,12,Samambaia,33
+2023-12,12,Santa Maria,34
+2023-12,12,Sistema Penitenciário,0
+2023-12,12,Sobradinho,38
+2023-12,12,Sobradinho II,8
+2023-12,12,Sudoeste/Octogonal,26
+2023-12,12,São Sebastião,19
+2023-12,12,Taguatinga,62
+2023-12,12,Varjão,3
+2023-12,12,Vicente Pires,12
+2023-12,12,Águas Claras,38
+2023-13,13,Arniqueira,4
+2023-13,13,Brazlândia,20
+2023-13,13,Candangolândia,5
+2023-13,13,Ceilândia,68
+2023-13,13,Cruzeiro,15
+2023-13,13,Entorno DF,0
+2023-13,13,Fercal,0
+2023-13,13,Gama,20
+2023-13,13,Guará,47
+2023-13,13,Itapoã,3
+2023-13,13,Jardim Botânico,12
+2023-13,13,Lago Norte,28
+2023-13,13,Lago Sul,25
+2023-13,13,Núcleo Bandeirante,10
+2023-13,13,Outros Estados,105
+2023-13,13,Paranoá,18
+2023-13,13,Park Way,16
+2023-13,13,Planaltina,29
+2023-13,13,Plano Piloto,169
+2023-13,13,Pôr do Sol,0
+2023-13,13,Recanto das Emas,13
+2023-13,13,Riacho Fundo,14
+2023-13,13,Riacho Fundo II,6
+2023-13,13,SCIA,2
+2023-13,13,SIA,0
+2023-13,13,Samambaia,28
+2023-13,13,Santa Maria,26
+2023-13,13,Sistema Penitenciário,0
+2023-13,13,Sobradinho,34
+2023-13,13,Sobradinho II,16
+2023-13,13,Sudoeste/Octogonal,30
+2023-13,13,São Sebastião,10
+2023-13,13,Taguatinga,72
+2023-13,13,Varjão,2
+2023-13,13,Vicente Pires,18
+2023-13,13,Águas Claras,46
+2023-14,14,Arniqueira,2
+2023-14,14,Brazlândia,6
+2023-14,14,Candangolândia,5
+2023-14,14,Ceilândia,55
+2023-14,14,Cruzeiro,10
+2023-14,14,Entorno DF,0
+2023-14,14,Fercal,0
+2023-14,14,Gama,24
+2023-14,14,Guará,52
+2023-14,14,Itapoã,3
+2023-14,14,Jardim Botânico,9
+2023-14,14,Lago Norte,16
+2023-14,14,Lago Sul,20
+2023-14,14,Núcleo Bandeirante,4
+2023-14,14,Outros Estados,182
+2023-14,14,Paranoá,12
+2023-14,14,Park Way,10
+2023-14,14,Planaltina,27
+2023-14,14,Plano Piloto,105
+2023-14,14,Pôr do Sol,1
+2023-14,14,Recanto das Emas,15
+2023-14,14,Riacho Fundo,5
+2023-14,14,Riacho Fundo II,15
+2023-14,14,SCIA,0
+2023-14,14,SIA,0
+2023-14,14,Samambaia,26
+2023-14,14,Santa Maria,20
+2023-14,14,Sistema Penitenciário,0
+2023-14,14,Sobradinho,31
+2023-14,14,Sobradinho II,10
+2023-14,14,Sudoeste/Octogonal,28
+2023-14,14,São Sebastião,10
+2023-14,14,Taguatinga,41
+2023-14,14,Varjão,2
+2023-14,14,Vicente Pires,9
+2023-14,14,Águas Claras,35
+2023-15,15,Arniqueira,3
+2023-15,15,Brazlândia,16
+2023-15,15,Candangolândia,2
+2023-15,15,Ceilândia,89
+2023-15,15,Cruzeiro,13
+2023-15,15,Entorno DF,0
+2023-15,15,Fercal,0
+2023-15,15,Gama,22
+2023-15,15,Guará,53
+2023-15,15,Itapoã,2
+2023-15,15,Jardim Botânico,10
+2023-15,15,Lago Norte,19
+2023-15,15,Lago Sul,13
+2023-15,15,Núcleo Bandeirante,5
+2023-15,15,Outros Estados,96
+2023-15,15,Paranoá,13
+2023-15,15,Park Way,12
+2023-15,15,Planaltina,30
+2023-15,15,Plano Piloto,120
+2023-15,15,Pôr do Sol,5
+2023-15,15,Recanto das Emas,16
+2023-15,15,Riacho Fundo,8
+2023-15,15,Riacho Fundo II,16
+2023-15,15,SCIA,4
+2023-15,15,SIA,0
+2023-15,15,Samambaia,28
+2023-15,15,Santa Maria,30
+2023-15,15,Sistema Penitenciário,0
+2023-15,15,Sobradinho,25
+2023-15,15,Sobradinho II,13
+2023-15,15,Sudoeste/Octogonal,32
+2023-15,15,São Sebastião,11
+2023-15,15,Taguatinga,50
+2023-15,15,Varjão,3
+2023-15,15,Vicente Pires,14
+2023-15,15,Águas Claras,45
+2023-16,16,Arniqueira,2
+2023-16,16,Brazlândia,13
+2023-16,16,Candangolândia,2
+2023-16,16,Ceilândia,49
+2023-16,16,Cruzeiro,12
+2023-16,16,Entorno DF,0
+2023-16,16,Fercal,3
+2023-16,16,Gama,40
+2023-16,16,Guará,49
+2023-16,16,Itapoã,1
+2023-16,16,Jardim Botânico,14
+2023-16,16,Lago Norte,21
+2023-16,16,Lago Sul,30
+2023-16,16,Núcleo Bandeirante,10
+2023-16,16,Outros Estados,86
+2023-16,16,Paranoá,5
+2023-16,16,Park Way,11
+2023-16,16,Planaltina,33
+2023-16,16,Plano Piloto,103
+2023-16,16,Pôr do Sol,2
+2023-16,16,Recanto das Emas,17
+2023-16,16,Riacho Fundo,14
+2023-16,16,Riacho Fundo II,21
+2023-16,16,SCIA,6
+2023-16,16,SIA,0
+2023-16,16,Samambaia,31
+2023-16,16,Santa Maria,25
+2023-16,16,Sistema Penitenciário,0
+2023-16,16,Sobradinho,38
+2023-16,16,Sobradinho II,8
+2023-16,16,Sudoeste/Octogonal,17
+2023-16,16,São Sebastião,9
+2023-16,16,Taguatinga,44
+2023-16,16,Varjão,5
+2023-16,16,Vicente Pires,8
+2023-16,16,Águas Claras,36
+2023-17,17,Arniqueira,0
+2023-17,17,Brazlândia,8
+2023-17,17,Candangolândia,2
+2023-17,17,Ceilândia,60
+2023-17,17,Cruzeiro,9
+2023-17,17,Entorno DF,0
+2023-17,17,Fercal,0
+2023-17,17,Gama,24
+2023-17,17,Guará,51
+2023-17,17,Itapoã,2
+2023-17,17,Jardim Botânico,9
+2023-17,17,Lago Norte,22
+2023-17,17,Lago Sul,21
+2023-17,17,Núcleo Bandeirante,5
+2023-17,17,Outros Estados,81
+2023-17,17,Paranoá,13
+2023-17,17,Park Way,11
+2023-17,17,Planaltina,39
+2023-17,17,Plano Piloto,125
+2023-17,17,Pôr do Sol,0
+2023-17,17,Recanto das Emas,10
+2023-17,17,Riacho Fundo,7
+2023-17,17,Riacho Fundo II,17
+2023-17,17,SCIA,4
+2023-17,17,SIA,0
+2023-17,17,Samambaia,16
+2023-17,17,Santa Maria,19
+2023-17,17,Sistema Penitenciário,0
+2023-17,17,Sobradinho,46
+2023-17,17,Sobradinho II,16
+2023-17,17,Sudoeste/Octogonal,30
+2023-17,17,São Sebastião,10
+2023-17,17,Taguatinga,41
+2023-17,17,Varjão,3
+2023-17,17,Vicente Pires,17
+2023-17,17,Águas Claras,47
+2023-18,18,Arniqueira,0
+2023-18,18,Brazlândia,19
+2023-18,18,Candangolândia,3
+2023-18,18,Ceilândia,41
+2023-18,18,Cruzeiro,4
+2023-18,18,Entorno DF,0
+2023-18,18,Fercal,0
+2023-18,18,Gama,29
+2023-18,18,Guará,62
+2023-18,18,Itapoã,1
+2023-18,18,Jardim Botânico,19
+2023-18,18,Lago Norte,18
+2023-18,18,Lago Sul,25
+2023-18,18,Núcleo Bandeirante,2
+2023-18,18,Outros Estados,86
+2023-18,18,Paranoá,9
+2023-18,18,Park Way,9
+2023-18,18,Planaltina,39
+2023-18,18,Plano Piloto,129
+2023-18,18,Pôr do Sol,1
+2023-18,18,Recanto das Emas,23
+2023-18,18,Riacho Fundo,6
+2023-18,18,Riacho Fundo II,23
+2023-18,18,SCIA,4
+2023-18,18,SIA,1
+2023-18,18,Samambaia,21
+2023-18,18,Santa Maria,18
+2023-18,18,Sistema Penitenciário,0
+2023-18,18,Sobradinho,43
+2023-18,18,Sobradinho II,4
+2023-18,18,Sudoeste/Octogonal,29
+2023-18,18,São Sebastião,12
+2023-18,18,Taguatinga,45
+2023-18,18,Varjão,5
+2023-18,18,Vicente Pires,5
+2023-18,18,Águas Claras,46
+2023-19,19,Arniqueira,0
+2023-19,19,Brazlândia,8
+2023-19,19,Candangolândia,2
+2023-19,19,Ceilândia,74
+2023-19,19,Cruzeiro,13
+2023-19,19,Entorno DF,0
+2023-19,19,Fercal,1
+2023-19,19,Gama,32
+2023-19,19,Guará,48
+2023-19,19,Itapoã,2
+2023-19,19,Jardim Botânico,22
+2023-19,19,Lago Norte,21
+2023-19,19,Lago Sul,17
+2023-19,19,Núcleo Bandeirante,4
+2023-19,19,Outros Estados,99
+2023-19,19,Paranoá,10
+2023-19,19,Park Way,4
+2023-19,19,Planaltina,33
+2023-19,19,Plano Piloto,131
+2023-19,19,Pôr do Sol,1
+2023-19,19,Recanto das Emas,9
+2023-19,19,Riacho Fundo,11
+2023-19,19,Riacho Fundo II,20
+2023-19,19,SCIA,1
+2023-19,19,SIA,0
+2023-19,19,Samambaia,26
+2023-19,19,Santa Maria,21
+2023-19,19,Sistema Penitenciário,0
+2023-19,19,Sobradinho,37
+2023-19,19,Sobradinho II,12
+2023-19,19,Sudoeste/Octogonal,32
+2023-19,19,São Sebastião,19
+2023-19,19,Taguatinga,52
+2023-19,19,Varjão,2
+2023-19,19,Vicente Pires,15
+2023-19,19,Águas Claras,44
+2023-20,20,Arniqueira,0
+2023-20,20,Brazlândia,8
+2023-20,20,Candangolândia,2
+2023-20,20,Ceilândia,56
+2023-20,20,Cruzeiro,13
+2023-20,20,Entorno DF,0
+2023-20,20,Fercal,1
+2023-20,20,Gama,19
+2023-20,20,Guará,52
+2023-20,20,Itapoã,3
+2023-20,20,Jardim Botânico,9
+2023-20,20,Lago Norte,28
+2023-20,20,Lago Sul,24
+2023-20,20,Núcleo Bandeirante,2
+2023-20,20,Outros Estados,101
+2023-20,20,Paranoá,4
+2023-20,20,Park Way,6
+2023-20,20,Planaltina,37
+2023-20,20,Plano Piloto,106
+2023-20,20,Pôr do Sol,2
+2023-20,20,Recanto das Emas,11
+2023-20,20,Riacho Fundo,9
+2023-20,20,Riacho Fundo II,8
+2023-20,20,SCIA,2
+2023-20,20,SIA,0
+2023-20,20,Samambaia,32
+2023-20,20,Santa Maria,29
+2023-20,20,Sistema Penitenciário,0
+2023-20,20,Sobradinho,30
+2023-20,20,Sobradinho II,3
+2023-20,20,Sudoeste/Octogonal,29
+2023-20,20,São Sebastião,15
+2023-20,20,Taguatinga,35
+2023-20,20,Varjão,4
+2023-20,20,Vicente Pires,8
+2023-20,20,Águas Claras,27
+2023-21,21,Arniqueira,0
+2023-21,21,Brazlândia,4
+2023-21,21,Candangolândia,2
+2023-21,21,Ceilândia,36
+2023-21,21,Cruzeiro,9
+2023-21,21,Entorno DF,0
+2023-21,21,Fercal,0
+2023-21,21,Gama,25
+2023-21,21,Guará,52
+2023-21,21,Itapoã,5
+2023-21,21,Jardim Botânico,14
+2023-21,21,Lago Norte,21
+2023-21,21,Lago Sul,14
+2023-21,21,Núcleo Bandeirante,7
+2023-21,21,Outros Estados,93
+2023-21,21,Paranoá,8
+2023-21,21,Park Way,6
+2023-21,21,Planaltina,26
+2023-21,21,Plano Piloto,63
+2023-21,21,Pôr do Sol,2
+2023-21,21,Recanto das Emas,9
+2023-21,21,Riacho Fundo,4
+2023-21,21,Riacho Fundo II,1
+2023-21,21,SCIA,0
+2023-21,21,SIA,0
+2023-21,21,Samambaia,25
+2023-21,21,Santa Maria,24
+2023-21,21,Sistema Penitenciário,0
+2023-21,21,Sobradinho,24
+2023-21,21,Sobradinho II,5
+2023-21,21,Sudoeste/Octogonal,19
+2023-21,21,São Sebastião,10
+2023-21,21,Taguatinga,35
+2023-21,21,Varjão,8
+2023-21,21,Vicente Pires,4
+2023-21,21,Águas Claras,36
+2023-22,22,Arniqueira,1
+2023-22,22,Brazlândia,10
+2023-22,22,Candangolândia,1
+2023-22,22,Ceilândia,35
+2023-22,22,Cruzeiro,4
+2023-22,22,Entorno DF,0
+2023-22,22,Fercal,0
+2023-22,22,Gama,21
+2023-22,22,Guará,32
+2023-22,22,Itapoã,2
+2023-22,22,Jardim Botânico,10
+2023-22,22,Lago Norte,8
+2023-22,22,Lago Sul,17
+2023-22,22,Núcleo Bandeirante,9
+2023-22,22,Outros Estados,82
+2023-22,22,Paranoá,7
+2023-22,22,Park Way,3
+2023-22,22,Planaltina,14
+2023-22,22,Plano Piloto,75
+2023-22,22,Pôr do Sol,0
+2023-22,22,Recanto das Emas,10
+2023-22,22,Riacho Fundo,5
+2023-22,22,Riacho Fundo II,3
+2023-22,22,SCIA,3
+2023-22,22,SIA,1
+2023-22,22,Samambaia,16
+2023-22,22,Santa Maria,14
+2023-22,22,Sistema Penitenciário,0
+2023-22,22,Sobradinho,19
+2023-22,22,Sobradinho II,2
+2023-22,22,Sudoeste/Octogonal,17
+2023-22,22,São Sebastião,9
+2023-22,22,Taguatinga,33
+2023-22,22,Varjão,3
+2023-22,22,Vicente Pires,3
+2023-22,22,Águas Claras,33
+2023-23,23,Arniqueira,0
+2023-23,23,Brazlândia,11
+2023-23,23,Candangolândia,3
+2023-23,23,Ceilândia,25
+2023-23,23,Cruzeiro,6
+2023-23,23,Entorno DF,0
+2023-23,23,Fercal,0
+2023-23,23,Gama,10
+2023-23,23,Guará,16
+2023-23,23,Itapoã,1
+2023-23,23,Jardim Botânico,10
+2023-23,23,Lago Norte,16
+2023-23,23,Lago Sul,15
+2023-23,23,Núcleo Bandeirante,3
+2023-23,23,Outros Estados,40
+2023-23,23,Paranoá,2
+2023-23,23,Park Way,8
+2023-23,23,Planaltina,15
+2023-23,23,Plano Piloto,61
+2023-23,23,Pôr do Sol,0
+2023-23,23,Recanto das Emas,5
+2023-23,23,Riacho Fundo,1
+2023-23,23,Riacho Fundo II,3
+2023-23,23,SCIA,1
+2023-23,23,SIA,0
+2023-23,23,Samambaia,11
+2023-23,23,Santa Maria,9
+2023-23,23,Sistema Penitenciário,0
+2023-23,23,Sobradinho,18
+2023-23,23,Sobradinho II,7
+2023-23,23,Sudoeste/Octogonal,18
+2023-23,23,São Sebastião,4
+2023-23,23,Taguatinga,18
+2023-23,23,Varjão,1
+2023-23,23,Vicente Pires,4
+2023-23,23,Águas Claras,12
+2023-24,24,Arniqueira,0
+2023-24,24,Brazlândia,17
+2023-24,24,Candangolândia,0
+2023-24,24,Ceilândia,12
+2023-24,24,Cruzeiro,5
+2023-24,24,Entorno DF,0
+2023-24,24,Fercal,0
+2023-24,24,Gama,16
+2023-24,24,Guará,13
+2023-24,24,Itapoã,1
+2023-24,24,Jardim Botânico,11
+2023-24,24,Lago Norte,5
+2023-24,24,Lago Sul,10
+2023-24,24,Núcleo Bandeirante,1
+2023-24,24,Outros Estados,48
+2023-24,24,Paranoá,3
+2023-24,24,Park Way,2
+2023-24,24,Planaltina,16
+2023-24,24,Plano Piloto,46
+2023-24,24,Pôr do Sol,3
+2023-24,24,Recanto das Emas,6
+2023-24,24,Riacho Fundo,1
+2023-24,24,Riacho Fundo II,5
+2023-24,24,SCIA,1
+2023-24,24,SIA,0
+2023-24,24,Samambaia,3
+2023-24,24,Santa Maria,3
+2023-24,24,Sistema Penitenciário,0
+2023-24,24,Sobradinho,10
+2023-24,24,Sobradinho II,4
+2023-24,24,Sudoeste/Octogonal,21
+2023-24,24,São Sebastião,10
+2023-24,24,Taguatinga,18
+2023-24,24,Varjão,1
+2023-24,24,Vicente Pires,6
+2023-24,24,Águas Claras,16
+2023-25,25,Arniqueira,0
+2023-25,25,Brazlândia,9
+2023-25,25,Candangolândia,1
+2023-25,25,Ceilândia,14
+2023-25,25,Cruzeiro,0
+2023-25,25,Entorno DF,0
+2023-25,25,Fercal,0
+2023-25,25,Gama,4
+2023-25,25,Guará,7
+2023-25,25,Itapoã,0
+2023-25,25,Jardim Botânico,1
+2023-25,25,Lago Norte,2
+2023-25,25,Lago Sul,5
+2023-25,25,Núcleo Bandeirante,1
+2023-25,25,Outros Estados,32
+2023-25,25,Paranoá,1
+2023-25,25,Park Way,3
+2023-25,25,Planaltina,9
+2023-25,25,Plano Piloto,20
+2023-25,25,Pôr do Sol,0
+2023-25,25,Recanto das Emas,3
+2023-25,25,Riacho Fundo,5
+2023-25,25,Riacho Fundo II,1
+2023-25,25,SCIA,2
+2023-25,25,SIA,0
+2023-25,25,Samambaia,4
+2023-25,25,Santa Maria,10
+2023-25,25,Sistema Penitenciário,0
+2023-25,25,Sobradinho,7
+2023-25,25,Sobradinho II,2
+2023-25,25,Sudoeste/Octogonal,3
+2023-25,25,São Sebastião,1
+2023-25,25,Taguatinga,9
+2023-25,25,Varjão,1
+2023-25,25,Vicente Pires,2
+2023-25,25,Águas Claras,5
+2023-26,26,Arniqueira,0
+2023-26,26,Brazlândia,4
+2023-26,26,Candangolândia,0
+2023-26,26,Ceilândia,13
+2023-26,26,Cruzeiro,2
+2023-26,26,Entorno DF,0
+2023-26,26,Fercal,0
+2023-26,26,Gama,4
+2023-26,26,Guará,6
+2023-26,26,Itapoã,0
+2023-26,26,Jardim Botânico,6
+2023-26,26,Lago Norte,6
+2023-26,26,Lago Sul,1
+2023-26,26,Núcleo Bandeirante,0
+2023-26,26,Outros Estados,23
+2023-26,26,Paranoá,2
+2023-26,26,Park Way,3
+2023-26,26,Planaltina,8
+2023-26,26,Plano Piloto,43
+2023-26,26,Pôr do Sol,0
+2023-26,26,Recanto das Emas,6
+2023-26,26,Riacho Fundo,2
+2023-26,26,Riacho Fundo II,2
+2023-26,26,SCIA,0
+2023-26,26,SIA,0
+2023-26,26,Samambaia,5
+2023-26,26,Santa Maria,6
+2023-26,26,Sistema Penitenciário,0
+2023-26,26,Sobradinho,11
+2023-26,26,Sobradinho II,2
+2023-26,26,Sudoeste/Octogonal,7
+2023-26,26,São Sebastião,5
+2023-26,26,Taguatinga,10
+2023-26,26,Varjão,0
+2023-26,26,Vicente Pires,6
+2023-26,26,Águas Claras,9
+2023-27,27,Arniqueira,0
+2023-27,27,Brazlândia,9
+2023-27,27,Candangolândia,0
+2023-27,27,Ceilândia,15
+2023-27,27,Cruzeiro,4
+2023-27,27,Entorno DF,0
+2023-27,27,Fercal,0
+2023-27,27,Gama,3
+2023-27,27,Guará,8
+2023-27,27,Itapoã,0
+2023-27,27,Jardim Botânico,6
+2023-27,27,Lago Norte,13
+2023-27,27,Lago Sul,5
+2023-27,27,Núcleo Bandeirante,3
+2023-27,27,Outros Estados,28
+2023-27,27,Paranoá,1
+2023-27,27,Park Way,0
+2023-27,27,Planaltina,7
+2023-27,27,Plano Piloto,20
+2023-27,27,Pôr do Sol,0
+2023-27,27,Recanto das Emas,4
+2023-27,27,Riacho Fundo,1
+2023-27,27,Riacho Fundo II,4
+2023-27,27,SCIA,1
+2023-27,27,SIA,0
+2023-27,27,Samambaia,4
+2023-27,27,Santa Maria,4
+2023-27,27,Sistema Penitenciário,0
+2023-27,27,Sobradinho,10
+2023-27,27,Sobradinho II,2
+2023-27,27,Sudoeste/Octogonal,12
+2023-27,27,São Sebastião,3
+2023-27,27,Taguatinga,16
+2023-27,27,Varjão,1
+2023-27,27,Vicente Pires,1
+2023-27,27,Águas Claras,10
+2023-28,28,Arniqueira,0
+2023-28,28,Brazlândia,6
+2023-28,28,Candangolândia,0
+2023-28,28,Ceilândia,7
+2023-28,28,Cruzeiro,0
+2023-28,28,Entorno DF,0
+2023-28,28,Fercal,0
+2023-28,28,Gama,7
+2023-28,28,Guará,13
+2023-28,28,Itapoã,1
+2023-28,28,Jardim Botânico,3
+2023-28,28,Lago Norte,4
+2023-28,28,Lago Sul,3
+2023-28,28,Núcleo Bandeirante,1
+2023-28,28,Outros Estados,21
+2023-28,28,Paranoá,1
+2023-28,28,Park Way,3
+2023-28,28,Planaltina,6
+2023-28,28,Plano Piloto,26
+2023-28,28,Pôr do Sol,0
+2023-28,28,Recanto das Emas,2
+2023-28,28,Riacho Fundo,4
+2023-28,28,Riacho Fundo II,1
+2023-28,28,SCIA,0
+2023-28,28,SIA,0
+2023-28,28,Samambaia,6
+2023-28,28,Santa Maria,7
+2023-28,28,Sistema Penitenciário,0
+2023-28,28,Sobradinho,11
+2023-28,28,Sobradinho II,3
+2023-28,28,Sudoeste/Octogonal,4
+2023-28,28,São Sebastião,1
+2023-28,28,Taguatinga,6
+2023-28,28,Varjão,2
+2023-28,28,Vicente Pires,2
+2023-28,28,Águas Claras,12
+2023-29,29,Arniqueira,0
+2023-29,29,Brazlândia,2
+2023-29,29,Candangolândia,0
+2023-29,29,Ceilândia,9
+2023-29,29,Cruzeiro,2
+2023-29,29,Entorno DF,0
+2023-29,29,Fercal,0
+2023-29,29,Gama,3
+2023-29,29,Guará,7
+2023-29,29,Itapoã,0
+2023-29,29,Jardim Botânico,4
+2023-29,29,Lago Norte,5
+2023-29,29,Lago Sul,3
+2023-29,29,Núcleo Bandeirante,1
+2023-29,29,Outros Estados,16
+2023-29,29,Paranoá,1
+2023-29,29,Park Way,1
+2023-29,29,Planaltina,10
+2023-29,29,Plano Piloto,22
+2023-29,29,Pôr do Sol,1
+2023-29,29,Recanto das Emas,2
+2023-29,29,Riacho Fundo,1
+2023-29,29,Riacho Fundo II,2
+2023-29,29,SCIA,0
+2023-29,29,SIA,0
+2023-29,29,Samambaia,3
+2023-29,29,Santa Maria,5
+2023-29,29,Sistema Penitenciário,0
+2023-29,29,Sobradinho,3
+2023-29,29,Sobradinho II,1
+2023-29,29,Sudoeste/Octogonal,11
+2023-29,29,São Sebastião,1
+2023-29,29,Taguatinga,8
+2023-29,29,Varjão,1
+2023-29,29,Vicente Pires,3
+2023-29,29,Águas Claras,13
+2023-30,30,Arniqueira,1
+2023-30,30,Brazlândia,3
+2023-30,30,Candangolândia,0
+2023-30,30,Ceilândia,11
+2023-30,30,Cruzeiro,3
+2023-30,30,Entorno DF,0
+2023-30,30,Fercal,0
+2023-30,30,Gama,5
+2023-30,30,Guará,4
+2023-30,30,Itapoã,0
+2023-30,30,Jardim Botânico,1
+2023-30,30,Lago Norte,0
+2023-30,30,Lago Sul,3
+2023-30,30,Núcleo Bandeirante,0
+2023-30,30,Outros Estados,17
+2023-30,30,Paranoá,1
+2023-30,30,Park Way,1
+2023-30,30,Planaltina,9
+2023-30,30,Plano Piloto,27
+2023-30,30,Pôr do Sol,1
+2023-30,30,Recanto das Emas,1
+2023-30,30,Riacho Fundo,1
+2023-30,30,Riacho Fundo II,2
+2023-30,30,SCIA,0
+2023-30,30,SIA,0
+2023-30,30,Samambaia,4
+2023-30,30,Santa Maria,3
+2023-30,30,Sistema Penitenciário,0
+2023-30,30,Sobradinho,8
+2023-30,30,Sobradinho II,1
+2023-30,30,Sudoeste/Octogonal,11
+2023-30,30,São Sebastião,3
+2023-30,30,Taguatinga,8
+2023-30,30,Varjão,2
+2023-30,30,Vicente Pires,1
+2023-30,30,Águas Claras,5
+2023-31,31,Arniqueira,0
+2023-31,31,Brazlândia,2
+2023-31,31,Candangolândia,0
+2023-31,31,Ceilândia,8
+2023-31,31,Cruzeiro,2
+2023-31,31,Entorno DF,0
+2023-31,31,Fercal,0
+2023-31,31,Gama,9
+2023-31,31,Guará,10
+2023-31,31,Itapoã,0
+2023-31,31,Jardim Botânico,3
+2023-31,31,Lago Norte,3
+2023-31,31,Lago Sul,4
+2023-31,31,Núcleo Bandeirante,2
+2023-31,31,Outros Estados,28
+2023-31,31,Paranoá,5
+2023-31,31,Park Way,0
+2023-31,31,Planaltina,13
+2023-31,31,Plano Piloto,29
+2023-31,31,Pôr do Sol,0
+2023-31,31,Recanto das Emas,1
+2023-31,31,Riacho Fundo,1
+2023-31,31,Riacho Fundo II,7
+2023-31,31,SCIA,0
+2023-31,31,SIA,0
+2023-31,31,Samambaia,6
+2023-31,31,Santa Maria,2
+2023-31,31,Sistema Penitenciário,0
+2023-31,31,Sobradinho,7
+2023-31,31,Sobradinho II,4
+2023-31,31,Sudoeste/Octogonal,5
+2023-31,31,São Sebastião,1
+2023-31,31,Taguatinga,11
+2023-31,31,Varjão,1
+2023-31,31,Vicente Pires,2
+2023-31,31,Águas Claras,11
+2023-32,32,Arniqueira,0
+2023-32,32,Brazlândia,7
+2023-32,32,Candangolândia,1
+2023-32,32,Ceilândia,17
+2023-32,32,Cruzeiro,0
+2023-32,32,Entorno DF,0
+2023-32,32,Fercal,0
+2023-32,32,Gama,0
+2023-32,32,Guará,9
+2023-32,32,Itapoã,0
+2023-32,32,Jardim Botânico,4
+2023-32,32,Lago Norte,7
+2023-32,32,Lago Sul,4
+2023-32,32,Núcleo Bandeirante,0
+2023-32,32,Outros Estados,21
+2023-32,32,Paranoá,6
+2023-32,32,Park Way,6
+2023-32,32,Planaltina,9
+2023-32,32,Plano Piloto,44
+2023-32,32,Pôr do Sol,0
+2023-32,32,Recanto das Emas,2
+2023-32,32,Riacho Fundo,2
+2023-32,32,Riacho Fundo II,3
+2023-32,32,SCIA,0
+2023-32,32,SIA,0
+2023-32,32,Samambaia,4
+2023-32,32,Santa Maria,6
+2023-32,32,Sistema Penitenciário,0
+2023-32,32,Sobradinho,20
+2023-32,32,Sobradinho II,7
+2023-32,32,Sudoeste/Octogonal,9
+2023-32,32,São Sebastião,1
+2023-32,32,Taguatinga,17
+2023-32,32,Varjão,1
+2023-32,32,Vicente Pires,3
+2023-32,32,Águas Claras,11
+2023-33,33,Arniqueira,1
+2023-33,33,Brazlândia,9
+2023-33,33,Candangolândia,2
+2023-33,33,Ceilândia,25
+2023-33,33,Cruzeiro,3
+2023-33,33,Entorno DF,0
+2023-33,33,Fercal,0
+2023-33,33,Gama,12
+2023-33,33,Guará,18
+2023-33,33,Itapoã,4
+2023-33,33,Jardim Botânico,8
+2023-33,33,Lago Norte,10
+2023-33,33,Lago Sul,8
+2023-33,33,Núcleo Bandeirante,2
+2023-33,33,Outros Estados,45
+2023-33,33,Paranoá,2
+2023-33,33,Park Way,5
+2023-33,33,Planaltina,24
+2023-33,33,Plano Piloto,56
+2023-33,33,Pôr do Sol,0
+2023-33,33,Recanto das Emas,3
+2023-33,33,Riacho Fundo,4
+2023-33,33,Riacho Fundo II,10
+2023-33,33,SCIA,0
+2023-33,33,SIA,1
+2023-33,33,Samambaia,8
+2023-33,33,Santa Maria,12
+2023-33,33,Sistema Penitenciário,0
+2023-33,33,Sobradinho,31
+2023-33,33,Sobradinho II,3
+2023-33,33,Sudoeste/Octogonal,5
+2023-33,33,São Sebastião,2
+2023-33,33,Taguatinga,16
+2023-33,33,Varjão,1
+2023-33,33,Vicente Pires,3
+2023-33,33,Águas Claras,8
+2023-34,34,Arniqueira,1
+2023-34,34,Brazlândia,12
+2023-34,34,Candangolândia,0
+2023-34,34,Ceilândia,35
+2023-34,34,Cruzeiro,4
+2023-34,34,Entorno DF,0
+2023-34,34,Fercal,0
+2023-34,34,Gama,20
+2023-34,34,Guará,33
+2023-34,34,Itapoã,5
+2023-34,34,Jardim Botânico,10
+2023-34,34,Lago Norte,17
+2023-34,34,Lago Sul,13
+2023-34,34,Núcleo Bandeirante,5
+2023-34,34,Outros Estados,40
+2023-34,34,Paranoá,5
+2023-34,34,Park Way,5
+2023-34,34,Planaltina,20
+2023-34,34,Plano Piloto,77
+2023-34,34,Pôr do Sol,1
+2023-34,34,Recanto das Emas,1
+2023-34,34,Riacho Fundo,7
+2023-34,34,Riacho Fundo II,11
+2023-34,34,SCIA,4
+2023-34,34,SIA,0
+2023-34,34,Samambaia,11
+2023-34,34,Santa Maria,17
+2023-34,34,Sistema Penitenciário,0
+2023-34,34,Sobradinho,17
+2023-34,34,Sobradinho II,7
+2023-34,34,Sudoeste/Octogonal,16
+2023-34,34,São Sebastião,8
+2023-34,34,Taguatinga,31
+2023-34,34,Varjão,3
+2023-34,34,Vicente Pires,4
+2023-34,34,Águas Claras,27
+2023-35,35,Arniqueira,0
+2023-35,35,Brazlândia,10
+2023-35,35,Candangolândia,2
+2023-35,35,Ceilândia,37
+2023-35,35,Cruzeiro,4
+2023-35,35,Entorno DF,0
+2023-35,35,Fercal,1
+2023-35,35,Gama,20
+2023-35,35,Guará,42
+2023-35,35,Itapoã,5
+2023-35,35,Jardim Botânico,12
+2023-35,35,Lago Norte,20
+2023-35,35,Lago Sul,19
+2023-35,35,Núcleo Bandeirante,4
+2023-35,35,Outros Estados,52
+2023-35,35,Paranoá,9
+2023-35,35,Park Way,9
+2023-35,35,Planaltina,35
+2023-35,35,Plano Piloto,112
+2023-35,35,Pôr do Sol,1
+2023-35,35,Recanto das Emas,10
+2023-35,35,Riacho Fundo,4
+2023-35,35,Riacho Fundo II,12
+2023-35,35,SCIA,3
+2023-35,35,SIA,0
+2023-35,35,Samambaia,14
+2023-35,35,Santa Maria,20
+2023-35,35,Sistema Penitenciário,0
+2023-35,35,Sobradinho,31
+2023-35,35,Sobradinho II,6
+2023-35,35,Sudoeste/Octogonal,24
+2023-35,35,São Sebastião,20
+2023-35,35,Taguatinga,38
+2023-35,35,Varjão,0
+2023-35,35,Vicente Pires,8
+2023-35,35,Águas Claras,57
+2023-36,36,Arniqueira,0
+2023-36,36,Brazlândia,21
+2023-36,36,Candangolândia,2
+2023-36,36,Ceilândia,65
+2023-36,36,Cruzeiro,14
+2023-36,36,Entorno DF,0
+2023-36,36,Fercal,0
+2023-36,36,Gama,43
+2023-36,36,Guará,66
+2023-36,36,Itapoã,6
+2023-36,36,Jardim Botânico,12
+2023-36,36,Lago Norte,16
+2023-36,36,Lago Sul,21
+2023-36,36,Núcleo Bandeirante,9
+2023-36,36,Outros Estados,80
+2023-36,36,Paranoá,13
+2023-36,36,Park Way,12
+2023-36,36,Planaltina,39
+2023-36,36,Plano Piloto,134
+2023-36,36,Pôr do Sol,1
+2023-36,36,Recanto das Emas,9
+2023-36,36,Riacho Fundo,6
+2023-36,36,Riacho Fundo II,15
+2023-36,36,SCIA,6
+2023-36,36,SIA,2
+2023-36,36,Samambaia,29
+2023-36,36,Santa Maria,26
+2023-36,36,Sistema Penitenciário,0
+2023-36,36,Sobradinho,44
+2023-36,36,Sobradinho II,9
+2023-36,36,Sudoeste/Octogonal,34
+2023-36,36,São Sebastião,12
+2023-36,36,Taguatinga,52
+2023-36,36,Varjão,0
+2023-36,36,Vicente Pires,12
+2023-36,36,Águas Claras,57
+2023-37,37,Arniqueira,1
+2023-37,37,Brazlândia,53
+2023-37,37,Candangolândia,5
+2023-37,37,Ceilândia,93
+2023-37,37,Cruzeiro,29
+2023-37,37,Entorno DF,0
+2023-37,37,Fercal,1
+2023-37,37,Gama,52
+2023-37,37,Guará,79
+2023-37,37,Itapoã,8
+2023-37,37,Jardim Botânico,18
+2023-37,37,Lago Norte,28
+2023-37,37,Lago Sul,22
+2023-37,37,Núcleo Bandeirante,8
+2023-37,37,Outros Estados,80
+2023-37,37,Paranoá,18
+2023-37,37,Park Way,16
+2023-37,37,Planaltina,34
+2023-37,37,Plano Piloto,192
+2023-37,37,Pôr do Sol,3
+2023-37,37,Recanto das Emas,19
+2023-37,37,Riacho Fundo,12
+2023-37,37,Riacho Fundo II,25
+2023-37,37,SCIA,1
+2023-37,37,SIA,6
+2023-37,37,Samambaia,38
+2023-37,37,Santa Maria,52
+2023-37,37,Sistema Penitenciário,0
+2023-37,37,Sobradinho,75
+2023-37,37,Sobradinho II,20
+2023-37,37,Sudoeste/Octogonal,43
+2023-37,37,São Sebastião,29
+2023-37,37,Taguatinga,67
+2023-37,37,Varjão,4
+2023-37,37,Vicente Pires,23
+2023-37,37,Águas Claras,69
+2023-38,38,Arniqueira,1
+2023-38,38,Brazlândia,61
+2023-38,38,Candangolândia,8
+2023-38,38,Ceilândia,98
+2023-38,38,Cruzeiro,26
+2023-38,38,Entorno DF,0
+2023-38,38,Fercal,3
+2023-38,38,Gama,52
+2023-38,38,Guará,100
+2023-38,38,Itapoã,9
+2023-38,38,Jardim Botânico,38
+2023-38,38,Lago Norte,24
+2023-38,38,Lago Sul,63
+2023-38,38,Núcleo Bandeirante,13
+2023-38,38,Outros Estados,81
+2023-38,38,Paranoá,21
+2023-38,38,Park Way,16
+2023-38,38,Planaltina,61
+2023-38,38,Plano Piloto,227
+2023-38,38,Pôr do Sol,3
+2023-38,38,Recanto das Emas,20
+2023-38,38,Riacho Fundo,14
+2023-38,38,Riacho Fundo II,28
+2023-38,38,SCIA,3
+2023-38,38,SIA,1
+2023-38,38,Samambaia,55
+2023-38,38,Santa Maria,68
+2023-38,38,Sistema Penitenciário,0
+2023-38,38,Sobradinho,78
+2023-38,38,Sobradinho II,31
+2023-38,38,Sudoeste/Octogonal,49
+2023-38,38,São Sebastião,45
+2023-38,38,Taguatinga,87
+2023-38,38,Varjão,3
+2023-38,38,Vicente Pires,13
+2023-38,38,Águas Claras,83
+2023-39,39,Arniqueira,4
+2023-39,39,Brazlândia,38
+2023-39,39,Candangolândia,6
+2023-39,39,Ceilândia,100
+2023-39,39,Cruzeiro,25
+2023-39,39,Entorno DF,0
+2023-39,39,Fercal,3
+2023-39,39,Gama,51
+2023-39,39,Guará,118
+2023-39,39,Itapoã,9
+2023-39,39,Jardim Botânico,25
+2023-39,39,Lago Norte,52
+2023-39,39,Lago Sul,39
+2023-39,39,Núcleo Bandeirante,12
+2023-39,39,Outros Estados,98
+2023-39,39,Paranoá,31
+2023-39,39,Park Way,16
+2023-39,39,Planaltina,68
+2023-39,39,Plano Piloto,270
+2023-39,39,Pôr do Sol,3
+2023-39,39,Recanto das Emas,21
+2023-39,39,Riacho Fundo,22
+2023-39,39,Riacho Fundo II,28
+2023-39,39,SCIA,3
+2023-39,39,SIA,0
+2023-39,39,Samambaia,57
+2023-39,39,Santa Maria,65
+2023-39,39,Sistema Penitenciário,0
+2023-39,39,Sobradinho,94
+2023-39,39,Sobradinho II,35
+2023-39,39,Sudoeste/Octogonal,55
+2023-39,39,São Sebastião,30
+2023-39,39,Taguatinga,75
+2023-39,39,Varjão,5
+2023-39,39,Vicente Pires,30
+2023-39,39,Águas Claras,106
+2023-40,40,Arniqueira,4
+2023-40,40,Brazlândia,30
+2023-40,40,Candangolândia,7
+2023-40,40,Ceilândia,138
+2023-40,40,Cruzeiro,27
+2023-40,40,Entorno DF,0
+2023-40,40,Fercal,2
+2023-40,40,Gama,63
+2023-40,40,Guará,99
+2023-40,40,Itapoã,9
+2023-40,40,Jardim Botânico,33
+2023-40,40,Lago Norte,41
+2023-40,40,Lago Sul,47
+2023-40,40,Núcleo Bandeirante,15
+2023-40,40,Outros Estados,99
+2023-40,40,Paranoá,26
+2023-40,40,Park Way,22
+2023-40,40,Planaltina,61
+2023-40,40,Plano Piloto,310
+2023-40,40,Pôr do Sol,4
+2023-40,40,Recanto das Emas,15
+2023-40,40,Riacho Fundo,12
+2023-40,40,Riacho Fundo II,25
+2023-40,40,SCIA,3
+2023-40,40,SIA,1
+2023-40,40,Samambaia,39
+2023-40,40,Santa Maria,58
+2023-40,40,Sistema Penitenciário,0
+2023-40,40,Sobradinho,80
+2023-40,40,Sobradinho II,26
+2023-40,40,Sudoeste/Octogonal,48
+2023-40,40,São Sebastião,22
+2023-40,40,Taguatinga,97
+2023-40,40,Varjão,7
+2023-40,40,Vicente Pires,37
+2023-40,40,Águas Claras,98
+2023-41,41,Arniqueira,3
+2023-41,41,Brazlândia,20
+2023-41,41,Candangolândia,7
+2023-41,41,Ceilândia,133
+2023-41,41,Cruzeiro,22
+2023-41,41,Entorno DF,0
+2023-41,41,Fercal,2
+2023-41,41,Gama,61
+2023-41,41,Guará,67
+2023-41,41,Itapoã,5
+2023-41,41,Jardim Botânico,42
+2023-41,41,Lago Norte,36
+2023-41,41,Lago Sul,31
+2023-41,41,Núcleo Bandeirante,10
+2023-41,41,Outros Estados,76
+2023-41,41,Paranoá,14
+2023-41,41,Park Way,10
+2023-41,41,Planaltina,39
+2023-41,41,Plano Piloto,186
+2023-41,41,Pôr do Sol,2
+2023-41,41,Recanto das Emas,15
+2023-41,41,Riacho Fundo,12
+2023-41,41,Riacho Fundo II,15
+2023-41,41,SCIA,3
+2023-41,41,SIA,0
+2023-41,41,Samambaia,42
+2023-41,41,Santa Maria,68
+2023-41,41,Sistema Penitenciário,0
+2023-41,41,Sobradinho,66
+2023-41,41,Sobradinho II,22
+2023-41,41,Sudoeste/Octogonal,41
+2023-41,41,São Sebastião,28
+2023-41,41,Taguatinga,74
+2023-41,41,Varjão,3
+2023-41,41,Vicente Pires,15
+2023-41,41,Águas Claras,72
+2023-42,42,Arniqueira,1
+2023-42,42,Brazlândia,29
+2023-42,42,Candangolândia,6
+2023-42,42,Ceilândia,120
+2023-42,42,Cruzeiro,18
+2023-42,42,Entorno DF,0
+2023-42,42,Fercal,2
+2023-42,42,Gama,51
+2023-42,42,Guará,92
+2023-42,42,Itapoã,6
+2023-42,42,Jardim Botânico,22
+2023-42,42,Lago Norte,44
+2023-42,42,Lago Sul,30
+2023-42,42,Núcleo Bandeirante,14
+2023-42,42,Outros Estados,77
+2023-42,42,Paranoá,26
+2023-42,42,Park Way,24
+2023-42,42,Planaltina,37
+2023-42,42,Plano Piloto,228
+2023-42,42,Pôr do Sol,1
+2023-42,42,Recanto das Emas,20
+2023-42,42,Riacho Fundo,8
+2023-42,42,Riacho Fundo II,26
+2023-42,42,SCIA,4
+2023-42,42,SIA,2
+2023-42,42,Samambaia,56
+2023-42,42,Santa Maria,73
+2023-42,42,Sistema Penitenciário,0
+2023-42,42,Sobradinho,71
+2023-42,42,Sobradinho II,19
+2023-42,42,Sudoeste/Octogonal,44
+2023-42,42,São Sebastião,19
+2023-42,42,Taguatinga,68
+2023-42,42,Varjão,1
+2023-42,42,Vicente Pires,22
+2023-42,42,Águas Claras,85
+2023-43,43,Arniqueira,3
+2023-43,43,Brazlândia,24
+2023-43,43,Candangolândia,7
+2023-43,43,Ceilândia,91
+2023-43,43,Cruzeiro,19
+2023-43,43,Entorno DF,0
+2023-43,43,Fercal,1
+2023-43,43,Gama,34
+2023-43,43,Guará,56
+2023-43,43,Itapoã,4
+2023-43,43,Jardim Botânico,22
+2023-43,43,Lago Norte,24
+2023-43,43,Lago Sul,31
+2023-43,43,Núcleo Bandeirante,14
+2023-43,43,Outros Estados,58
+2023-43,43,Paranoá,11
+2023-43,43,Park Way,17
+2023-43,43,Planaltina,41
+2023-43,43,Plano Piloto,197
+2023-43,43,Pôr do Sol,1
+2023-43,43,Recanto das Emas,15
+2023-43,43,Riacho Fundo,12
+2023-43,43,Riacho Fundo II,17
+2023-43,43,SCIA,2
+2023-43,43,SIA,0
+2023-43,43,Samambaia,41
+2023-43,43,Santa Maria,37
+2023-43,43,Sistema Penitenciário,0
+2023-43,43,Sobradinho,72
+2023-43,43,Sobradinho II,13
+2023-43,43,Sudoeste/Octogonal,41
+2023-43,43,São Sebastião,16
+2023-43,43,Taguatinga,61
+2023-43,43,Varjão,8
+2023-43,43,Vicente Pires,23
+2023-43,43,Águas Claras,74
+2023-44,44,Arniqueira,1
+2023-44,44,Brazlândia,15
+2023-44,44,Candangolândia,2
+2023-44,44,Ceilândia,48
+2023-44,44,Cruzeiro,13
+2023-44,44,Entorno DF,0
+2023-44,44,Fercal,0
+2023-44,44,Gama,24
+2023-44,44,Guará,38
+2023-44,44,Itapoã,5
+2023-44,44,Jardim Botânico,10
+2023-44,44,Lago Norte,16
+2023-44,44,Lago Sul,13
+2023-44,44,Núcleo Bandeirante,3
+2023-44,44,Outros Estados,45
+2023-44,44,Paranoá,7
+2023-44,44,Park Way,8
+2023-44,44,Planaltina,18
+2023-44,44,Plano Piloto,149
+2023-44,44,Pôr do Sol,1
+2023-44,44,Recanto das Emas,12
+2023-44,44,Riacho Fundo,4
+2023-44,44,Riacho Fundo II,4
+2023-44,44,SCIA,3
+2023-44,44,SIA,0
+2023-44,44,Samambaia,21
+2023-44,44,Santa Maria,26
+2023-44,44,Sistema Penitenciário,0
+2023-44,44,Sobradinho,29
+2023-44,44,Sobradinho II,7
+2023-44,44,Sudoeste/Octogonal,21
+2023-44,44,São Sebastião,6
+2023-44,44,Taguatinga,24
+2023-44,44,Varjão,2
+2023-44,44,Vicente Pires,14
+2023-44,44,Águas Claras,47
+2023-45,45,Arniqueira,1
+2023-45,45,Brazlândia,14
+2023-45,45,Candangolândia,0
+2023-45,45,Ceilândia,31
+2023-45,45,Cruzeiro,10
+2023-45,45,Entorno DF,0
+2023-45,45,Fercal,0
+2023-45,45,Gama,18
+2023-45,45,Guará,33
+2023-45,45,Itapoã,3
+2023-45,45,Jardim Botânico,7
+2023-45,45,Lago Norte,11
+2023-45,45,Lago Sul,16
+2023-45,45,Núcleo Bandeirante,6
+2023-45,45,Outros Estados,52
+2023-45,45,Paranoá,6
+2023-45,45,Park Way,1
+2023-45,45,Planaltina,17
+2023-45,45,Plano Piloto,95
+2023-45,45,Pôr do Sol,1
+2023-45,45,Recanto das Emas,4
+2023-45,45,Riacho Fundo,6
+2023-45,45,Riacho Fundo II,8
+2023-45,45,SCIA,2
+2023-45,45,SIA,0
+2023-45,45,Samambaia,21
+2023-45,45,Santa Maria,17
+2023-45,45,Sistema Penitenciário,0
+2023-45,45,Sobradinho,23
+2023-45,45,Sobradinho II,8
+2023-45,45,Sudoeste/Octogonal,29
+2023-45,45,São Sebastião,6
+2023-45,45,Taguatinga,26
+2023-45,45,Varjão,3
+2023-45,45,Vicente Pires,10
+2023-45,45,Águas Claras,34
+2023-46,46,Arniqueira,1
+2023-46,46,Brazlândia,4
+2023-46,46,Candangolândia,0
+2023-46,46,Ceilândia,28
+2023-46,46,Cruzeiro,2
+2023-46,46,Entorno DF,0
+2023-46,46,Fercal,1
+2023-46,46,Gama,12
+2023-46,46,Guará,14
+2023-46,46,Itapoã,0
+2023-46,46,Jardim Botânico,8
+2023-46,46,Lago Norte,9
+2023-46,46,Lago Sul,6
+2023-46,46,Núcleo Bandeirante,0
+2023-46,46,Outros Estados,27
+2023-46,46,Paranoá,6
+2023-46,46,Park Way,7
+2023-46,46,Planaltina,17
+2023-46,46,Plano Piloto,72
+2023-46,46,Pôr do Sol,3
+2023-46,46,Recanto das Emas,7
+2023-46,46,Riacho Fundo,6
+2023-46,46,Riacho Fundo II,4
+2023-46,46,SCIA,3
+2023-46,46,SIA,0
+2023-46,46,Samambaia,5
+2023-46,46,Santa Maria,11
+2023-46,46,Sistema Penitenciário,0
+2023-46,46,Sobradinho,27
+2023-46,46,Sobradinho II,6
+2023-46,46,Sudoeste/Octogonal,12
+2023-46,46,São Sebastião,4
+2023-46,46,Taguatinga,16
+2023-46,46,Varjão,1
+2023-46,46,Vicente Pires,2
+2023-46,46,Águas Claras,30
+2023-47,47,Arniqueira,0
+2023-47,47,Brazlândia,6
+2023-47,47,Candangolândia,3
+2023-47,47,Ceilândia,21
+2023-47,47,Cruzeiro,3
+2023-47,47,Entorno DF,0
+2023-47,47,Fercal,0
+2023-47,47,Gama,14
+2023-47,47,Guará,16
+2023-47,47,Itapoã,0
+2023-47,47,Jardim Botânico,8
+2023-47,47,Lago Norte,7
+2023-47,47,Lago Sul,13
+2023-47,47,Núcleo Bandeirante,0
+2023-47,47,Outros Estados,21
+2023-47,47,Paranoá,5
+2023-47,47,Park Way,3
+2023-47,47,Planaltina,12
+2023-47,47,Plano Piloto,44
+2023-47,47,Pôr do Sol,5
+2023-47,47,Recanto das Emas,6
+2023-47,47,Riacho Fundo,2
+2023-47,47,Riacho Fundo II,2
+2023-47,47,SCIA,1
+2023-47,47,SIA,1
+2023-47,47,Samambaia,10
+2023-47,47,Santa Maria,11
+2023-47,47,Sistema Penitenciário,0
+2023-47,47,Sobradinho,15
+2023-47,47,Sobradinho II,4
+2023-47,47,Sudoeste/Octogonal,11
+2023-47,47,São Sebastião,4
+2023-47,47,Taguatinga,17
+2023-47,47,Varjão,0
+2023-47,47,Vicente Pires,3
+2023-47,47,Águas Claras,31
+2023-48,48,Arniqueira,1
+2023-48,48,Brazlândia,6
+2023-48,48,Candangolândia,0
+2023-48,48,Ceilândia,14
+2023-48,48,Cruzeiro,3
+2023-48,48,Entorno DF,0
+2023-48,48,Fercal,0
+2023-48,48,Gama,15
+2023-48,48,Guará,12
+2023-48,48,Itapoã,0
+2023-48,48,Jardim Botânico,6
+2023-48,48,Lago Norte,9
+2023-48,48,Lago Sul,8
+2023-48,48,Núcleo Bandeirante,1
+2023-48,48,Outros Estados,18
+2023-48,48,Paranoá,4
+2023-48,48,Park Way,5
+2023-48,48,Planaltina,6
+2023-48,48,Plano Piloto,48
+2023-48,48,Pôr do Sol,1
+2023-48,48,Recanto das Emas,5
+2023-48,48,Riacho Fundo,5
+2023-48,48,Riacho Fundo II,4
+2023-48,48,SCIA,0
+2023-48,48,SIA,1
+2023-48,48,Samambaia,3
+2023-48,48,Santa Maria,4
+2023-48,48,Sistema Penitenciário,0
+2023-48,48,Sobradinho,16
+2023-48,48,Sobradinho II,1
+2023-48,48,Sudoeste/Octogonal,11
+2023-48,48,São Sebastião,0
+2023-48,48,Taguatinga,7
+2023-48,48,Varjão,1
+2023-48,48,Vicente Pires,3
+2023-48,48,Águas Claras,17
+2023-49,49,Arniqueira,0
+2023-49,49,Brazlândia,3
+2023-49,49,Candangolândia,1
+2023-49,49,Ceilândia,20
+2023-49,49,Cruzeiro,5
+2023-49,49,Entorno DF,0
+2023-49,49,Fercal,0
+2023-49,49,Gama,8
+2023-49,49,Guará,23
+2023-49,49,Itapoã,1
+2023-49,49,Jardim Botânico,9
+2023-49,49,Lago Norte,7
+2023-49,49,Lago Sul,8
+2023-49,49,Núcleo Bandeirante,0
+2023-49,49,Outros Estados,17
+2023-49,49,Paranoá,3
+2023-49,49,Park Way,6
+2023-49,49,Planaltina,8
+2023-49,49,Plano Piloto,60
+2023-49,49,Pôr do Sol,0
+2023-49,49,Recanto das Emas,2
+2023-49,49,Riacho Fundo,1
+2023-49,49,Riacho Fundo II,3
+2023-49,49,SCIA,1
+2023-49,49,SIA,0
+2023-49,49,Samambaia,4
+2023-49,49,Santa Maria,10
+2023-49,49,Sistema Penitenciário,0
+2023-49,49,Sobradinho,13
+2023-49,49,Sobradinho II,3
+2023-49,49,Sudoeste/Octogonal,9
+2023-49,49,São Sebastião,1
+2023-49,49,Taguatinga,12
+2023-49,49,Varjão,0
+2023-49,49,Vicente Pires,7
+2023-49,49,Águas Claras,11
+2023-50,50,Arniqueira,0
+2023-50,50,Brazlândia,3
+2023-50,50,Candangolândia,0
+2023-50,50,Ceilândia,6
+2023-50,50,Cruzeiro,3
+2023-50,50,Entorno DF,0
+2023-50,50,Fercal,0
+2023-50,50,Gama,8
+2023-50,50,Guará,20
+2023-50,50,Itapoã,0
+2023-50,50,Jardim Botânico,12
+2023-50,50,Lago Norte,11
+2023-50,50,Lago Sul,7
+2023-50,50,Núcleo Bandeirante,2
+2023-50,50,Outros Estados,15
+2023-50,50,Paranoá,2
+2023-50,50,Park Way,3
+2023-50,50,Planaltina,5
+2023-50,50,Plano Piloto,60
+2023-50,50,Pôr do Sol,0
+2023-50,50,Recanto das Emas,4
+2023-50,50,Riacho Fundo,1
+2023-50,50,Riacho Fundo II,2
+2023-50,50,SCIA,0
+2023-50,50,SIA,0
+2023-50,50,Samambaia,5
+2023-50,50,Santa Maria,2
+2023-50,50,Sistema Penitenciário,0
+2023-50,50,Sobradinho,8
+2023-50,50,Sobradinho II,4
+2023-50,50,Sudoeste/Octogonal,10
+2023-50,50,São Sebastião,8
+2023-50,50,Taguatinga,6
+2023-50,50,Varjão,1
+2023-50,50,Vicente Pires,1
+2023-50,50,Águas Claras,14
+2023-51,51,Arniqueira,1
+2023-51,51,Brazlândia,1
+2023-51,51,Candangolândia,0
+2023-51,51,Ceilândia,11
+2023-51,51,Cruzeiro,2
+2023-51,51,Entorno DF,0
+2023-51,51,Fercal,0
+2023-51,51,Gama,9
+2023-51,51,Guará,13
+2023-51,51,Itapoã,0
+2023-51,51,Jardim Botânico,5
+2023-51,51,Lago Norte,13
+2023-51,51,Lago Sul,7
+2023-51,51,Núcleo Bandeirante,1
+2023-51,51,Outros Estados,13
+2023-51,51,Paranoá,1
+2023-51,51,Park Way,2
+2023-51,51,Planaltina,10
+2023-51,51,Plano Piloto,58
+2023-51,51,Pôr do Sol,1
+2023-51,51,Recanto das Emas,1
+2023-51,51,Riacho Fundo,1
+2023-51,51,Riacho Fundo II,1
+2023-51,51,SCIA,0
+2023-51,51,SIA,1
+2023-51,51,Samambaia,7
+2023-51,51,Santa Maria,5
+2023-51,51,Sistema Penitenciário,0
+2023-51,51,Sobradinho,10
+2023-51,51,Sobradinho II,5
+2023-51,51,Sudoeste/Octogonal,11
+2023-51,51,São Sebastião,4
+2023-51,51,Taguatinga,17
+2023-51,51,Varjão,1
+2023-51,51,Vicente Pires,3
+2023-51,51,Águas Claras,16
+2023-52,52,Arniqueira,1
+2023-52,52,Brazlândia,3
+2023-52,52,Candangolândia,1
+2023-52,52,Ceilândia,6
+2023-52,52,Cruzeiro,1
+2023-52,52,Entorno DF,0
+2023-52,52,Fercal,0
+2023-52,52,Gama,1
+2023-52,52,Guará,13
+2023-52,52,Itapoã,0
+2023-52,52,Jardim Botânico,5
+2023-52,52,Lago Norte,4
+2023-52,52,Lago Sul,9
+2023-52,52,Núcleo Bandeirante,1
+2023-52,52,Outros Estados,5
+2023-52,52,Paranoá,0
+2023-52,52,Park Way,2
+2023-52,52,Planaltina,3
+2023-52,52,Plano Piloto,32
+2023-52,52,Pôr do Sol,0
+2023-52,52,Recanto das Emas,3
+2023-52,52,Riacho Fundo,0
+2023-52,52,Riacho Fundo II,0
+2023-52,52,SCIA,0
+2023-52,52,SIA,0
+2023-52,52,Samambaia,4
+2023-52,52,Santa Maria,2
+2023-52,52,Sistema Penitenciário,0
+2023-52,52,Sobradinho,6
+2023-52,52,Sobradinho II,3
+2023-52,52,Sudoeste/Octogonal,15
+2023-52,52,São Sebastião,3
+2023-52,52,Taguatinga,7
+2023-52,52,Varjão,0
+2023-52,52,Vicente Pires,2
+2023-52,52,Águas Claras,17
+2024-01,1,Arniqueira,0
+2024-01,1,Brazlândia,0
+2024-01,1,Candangolândia,1
+2024-01,1,Ceilândia,13
+2024-01,1,Cruzeiro,2
+2024-01,1,Entorno DF,0
+2024-01,1,Fercal,0
+2024-01,1,Gama,1
+2024-01,1,Guará,10
+2024-01,1,Itapoã,0
+2024-01,1,Jardim Botânico,2
+2024-01,1,Lago Norte,5
+2024-01,1,Lago Sul,5
+2024-01,1,Núcleo Bandeirante,1
+2024-01,1,Outros Estados,16
+2024-01,1,Paranoá,1
+2024-01,1,Park Way,3
+2024-01,1,Planaltina,4
+2024-01,1,Plano Piloto,51
+2024-01,1,Pôr do Sol,0
+2024-01,1,Recanto das Emas,1
+2024-01,1,Riacho Fundo,2
+2024-01,1,Riacho Fundo II,1
+2024-01,1,SCIA,1
+2024-01,1,SIA,0
+2024-01,1,Samambaia,4
+2024-01,1,Santa Maria,2
+2024-01,1,Sistema Penitenciário,0
+2024-01,1,Sobradinho,4
+2024-01,1,Sobradinho II,4
+2024-01,1,Sudoeste/Octogonal,2
+2024-01,1,São Sebastião,5
+2024-01,1,Taguatinga,5
+2024-01,1,Varjão,0
+2024-01,1,Vicente Pires,2
+2024-01,1,Águas Claras,13
