@@ -54,7 +54,7 @@ def plot_predictions(model, X, y, file='plot_result'):
     fig = px.line(df, labels={'value': 'Value', 'variable': 'Variable'},
                   title='Actuals vs Predictions for Multiple Variables')
     fig.update_layout(legend_title_text='Legend')
-    fig.write_html(f'data/{file}.html')
+    fig.write_html(f'plots/{file}.html')
 
     return df, mse(y, predictions)
 
@@ -200,13 +200,12 @@ def skip_cnn_lstm_model():
 
     return model
 
-
 def run_model(model_name, model_function, model_configs, epochs):
     model = model_function()
 
     checkpoint = ModelCheckpoint(f'models/{model_name}.h5', save_best_only=True)
 
-    history = model.fit(X_train, y_train, epochs=epochs, batch_size=get_params()[3], validation_split=0.2, callbacks=[checkpoint])
+    history = model.fit(X_train, y_train, epochs=epochs, batch_size=get_params()[3], callbacks=[checkpoint], validation_split=0.2)
 
     test_ds = model.evaluate(X_test, y_test)
 
@@ -222,8 +221,6 @@ run_model('lstm_model', lstm_model, model_config, get_params()[1])
 run_model('lstm_cnn_model', lstm_cnn_model, model_config, get_params()[1])
 run_model('skip_cnn_lstm_model', skip_cnn_lstm_model, model_config, get_params()[1])
 
-legend = list()
-
 fig, axs = plt.subplots(1,5, figsize=(15, 10))
 
 def plot_metrics(metric, val, ax, upper, file_name, model_name):
@@ -238,28 +235,44 @@ def plot_metrics(metric, val, ax, upper, file_name, model_name):
 
     ax.set_title(f'{model_name} {metric}')
 
-    fig.savefig(f'data/{model_name}_{file_name}.png')
+    fig.savefig(f'plots/{model_name}_{file_name}.png')
 
     plt.close(fig)
 
 def print_metrics(model_name, val):
     print(f'{model_name} - loss: {val["test_ds"][0]} - mae: {val["test_ds"][1]} - mse: {val["test_ds"][2]}')
 
+def plot_lr(model_name, val):
+    lr = np.arange(0, get_params()[1])
+    plt.figure(figsize=(10, 5))
+    plt.grid(True)
+    plt.semilogx(lr, val['history'].history['loss'])
+    plt.tick_params('both', length=10, width=1, which='both')
+
+    plt.xlabel('learning rate')
+    plt.ylabel('loss')
+
+    plt.title(f'{model_name} Learning Rate')
+    plt.savefig(f'plots/{model_name}_lr.png')
+
+metrics_dfs = pd.DataFrame({'mse': [], 'mae': [], 'model': []})
+
+
 for (key, val), ax in zip(model_config.items(), axs.flatten()):
-    print_metrics(key, val)
-    legend.append(key)
-    
-for (key, val) in model_config.items():
+    #get best model in models
     best_model = load_model(f'models/{key}.h5')
 
     y_pred = best_model.predict(X_test)
-
-    df, mse_value = plot_predictions(val['model'], X_test, y_test, key)
-    df.to_csv(f'data/{key}_predictions.csv')
     
-    mae = np.mean(np.abs(y_test - y_pred))
-    print(f'{key} - MAE: {mae}')
+    mse_ = mse(y_test, y_pred)
+    mae_ = np.mean(np.abs(y_test - y_pred))
 
-    # save metrics in text
-    with open(f'data/txt_metrics/{key}_metrics.txt', 'w') as f:
-        f.write(f'{key} - MSE: {mse_value} - MAE: {mae}')
+    metrics_dfs = metrics_dfs.append({'mse': mse_, 'mae': mae_, 'model': key}, ignore_index=True)
+
+    print_metrics(model_name=key, val=val)
+    df, mse_ = plot_predictions(best_model, X_test, y_test, file=key)
+
+    df.to_csv(f'predictions/{key}_predictions.csv', index=False)
+
+
+metrics_dfs.to_csv('predictions/metrics.csv', index=False)

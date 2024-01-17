@@ -2,7 +2,6 @@ import pandas as pd
 import sqlite3
 import sys
 
-
 # Read the data
 def load_data():
     df = pd.read_csv('./data/dados-abertos.csv', sep=';')
