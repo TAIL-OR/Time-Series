@@ -1,0 +1,23 @@
+# Define o interpretador Python
+PYTHON = python3
+
+# Define o arquivo de destino
+TARGET = readdb.py
+
+# Define o alvo padrão
+.DEFAULT_GOAL := run
+
+# Variável para armazenar os argumentos
+ARGS :=
+
+# Alvo de compilação
+build:
+	@echo "Compilando $(TARGET)"
+
+# Alvo de execução
+run:
+	@$(PYTHON) $(TARGET) $(ARGS)
+
+# Alvo de limpeza
+clean:
+	@echo "Limpando"
