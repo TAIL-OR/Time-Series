@@ -9,13 +9,15 @@ from keras.layers import Dense, LSTM, Flatten, InputLayer, Conv1D, Lambda, MaxPo
 from keras.layers import Concatenate, Input
 from keras.callbacks import ModelCheckpoint, LearningRateScheduler
 from keras.losses import MeanSquaredError, Huber
-from keras.optimizers import Adam
+from keras.optimizers import Adam, SGD
 from keras.models import load_model
 from keras.backend import clear_session
 from keras.utils import plot_model
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error as mse
 import plotly.express as px
+
+N_FEATURES = 2
 
 dataframe = pd.read_csv('../data/query_result.csv')
 dataframe = dataframe.set_index('week')
@@ -24,21 +26,20 @@ dataframe = dataframe.sort_index()
 df_pivoted = dataframe.pivot_table(index='week',columns='ra', values='total', fill_value=0, aggfunc='sum')
 df_pivoted.reset_index(inplace=True)
 
-flights_df = pd.read_csv('../data/flights_results.csv')
+# flights_df = pd.read_csv('../data/flights_results.csv')
 
-df_pivoted = df_pivoted.merge(flights_df, on='week', how='left')
+# df_pivoted = df_pivoted.merge(flights_df, on='week', how='left')
 
-#substituir os nulos para a mediana
-df_pivoted['flights'] = df_pivoted['flights'].fillna(df_pivoted['flights'].median())
+# #substituir os nulos para a mediana
+# df_pivoted['flights'] = df_pivoted['flights'].fillna(df_pivoted['flights'].median())
 
-#standardizar os dados de voos
-df_pivoted['flights'] = (df_pivoted['flights'] - df_pivoted['flights'].mean()) / df_pivoted['flights'].std()
+# #standardizar os dados de voos
+# df_pivoted['flights'] = (df_pivoted['flights'] - df_pivoted['flights'].mean()) / df_pivoted['flights'].std()
 
 cols = list(df_pivoted.columns)
 cols = [cols[-1]] + cols[:-1]
 df_pivoted = df_pivoted[cols]
 
-#criar colunas de mês
 df_pivoted['date'] = pd.to_datetime(df_pivoted['week'] + '-1', format='%Y-%W-%w')
 
 df_pivoted['month_sin'] = np.sin((df_pivoted.date.dt.month-1)*(2.*np.pi/12))
@@ -63,7 +64,7 @@ def df_to_X_y(df, window_size=5):
     for i in range(len(df_as_np) - window_size):
         row = [r for r in df_as_np[i:i+window_size]]
         X.append(row)
-        label = df_as_np[i+window_size][3:]
+        label = df_as_np[i+window_size][N_FEATURES:]
         y.append(label)
 
     return np.array(X), np.array(y)
@@ -98,7 +99,7 @@ model_config = {}
 def cfg_model_run(model, history, test_ds):
     return {'model': model, 'history': history, 'test_ds': test_ds}
 
-WINDOW_SIZE = 5
+WINDOW_SIZE = 2
 X, y = df_to_X_y(final_df, window_size=WINDOW_SIZE)
 print(X.shape, y.shape)
 
@@ -140,10 +141,10 @@ def cnn_model():
     clear_session()
 
     model = Sequential([
-        Conv1D(64, 6, activation='relu', padding='causal', input_shape=INPUT_SHAPE),
-        MaxPooling1D(2),
-        Conv1D(64, 3, activation='relu', padding='causal'),
-        MaxPooling1D(2),
+        Conv1D(64, 4, activation='relu', padding='causal', input_shape=INPUT_SHAPE),
+        MaxPooling1D(1),
+        Conv1D(64, 4, activation='relu', padding='causal'),
+        MaxPooling1D(1),
         Flatten(),
         Dense(64, 'relu'),
         Dense(OUTPUT_SHAPE[0], 'linear')
@@ -181,10 +182,10 @@ def lstm_cnn_model():
     clear_session()
 
     model = Sequential([
-        Conv1D(64, 6, activation='relu', padding='causal', input_shape=INPUT_SHAPE),
-        MaxPooling1D(2),
-        Conv1D(64, 3, activation='relu', padding='causal'),
-        MaxPooling1D(2),
+        Conv1D(64, 4, activation='relu', padding='causal', input_shape=INPUT_SHAPE),
+        MaxPooling1D(1),
+        Conv1D(64, 4, activation='relu', padding='causal'),
+        MaxPooling1D(1),
         LSTM(72, return_sequences=True, activation='relu'),
         LSTM(64, return_sequences=False, activation='relu'),
         Flatten(),
@@ -205,10 +206,10 @@ def skip_cnn_lstm_model():
     clear_session()
 
     inputs = Input(shape=INPUT_SHAPE, name='main')
-    conv1 = Conv1D(64, 6, activation='relu', padding='causal')(inputs)
-    max1 = MaxPooling1D(2)(conv1)
-    conv2 = Conv1D(64, 3, activation='relu', padding='causal')(max1)
-    max2 = MaxPooling1D(2)(conv2)
+    conv1 = Conv1D(64, 4, activation='relu', padding='causal')(inputs)
+    max1 = MaxPooling1D(1)(conv1)
+    conv2 = Conv1D(64, 4, activation='relu', padding='causal')(max1)
+    max2 = MaxPooling1D(1)(conv2)
     lstm1 = LSTM(72, return_sequences=True, activation='relu')(max2)
     lstm2 = LSTM(48, return_sequences=False, activation='relu')(lstm1)
     flat = Flatten()(lstm2)
@@ -225,6 +226,35 @@ def skip_cnn_lstm_model():
     
     loss = Huber()
     optimizer = Adam(learning_rate=get_params()[0])
+    model.compile(loss=loss, optimizer=optimizer, metrics=['mae', 'mse'])
+
+    return model
+
+
+def skip_with_sgd():
+    clear_session()
+
+    inputs = Input(shape=INPUT_SHAPE, name='main')
+    conv1 = Conv1D(64, 4, activation='relu', padding='causal')(inputs)
+    max1 = MaxPooling1D(1)(conv1)
+    conv2 = Conv1D(64, 4, activation='relu', padding='causal')(max1)
+    max2 = MaxPooling1D(1)(conv2)
+    lstm1 = LSTM(72, return_sequences=True, activation='relu')(max2)
+    lstm2 = LSTM(48, return_sequences=False, activation='relu')(lstm1)
+    flat = Flatten()(lstm2)
+
+    skip_flat = Flatten()(inputs)
+
+    concat = Concatenate(axis=-1)([flat, skip_flat])
+    dense1 = Dense(128, 'relu')(concat)
+    dense2 = Dense(64, 'relu')(dense1)
+    
+    output = Dense(OUTPUT_SHAPE[0], 'linear')(dense2)
+
+    model = Model(inputs=inputs, outputs=output, name='skip_cnn_lstm_model')
+    
+    loss = Huber()
+    optimizer = SGD(learning_rate=get_params()[0])
     model.compile(loss=loss, optimizer=optimizer, metrics=['mae', 'mse'])
 
     return model
@@ -249,6 +279,7 @@ run_model('cnn_model', cnn_model, model_config, get_params()[1])
 run_model('lstm_model', lstm_model, model_config, get_params()[1])
 run_model('lstm_cnn_model', lstm_cnn_model, model_config, get_params()[1])
 run_model('skip_cnn_lstm_model', skip_cnn_lstm_model, model_config, get_params()[1])
+run_model('skip_with_sgd', skip_with_sgd, model_config, get_params()[1])
 
 fig, axs = plt.subplots(1,5, figsize=(15, 10))
 
