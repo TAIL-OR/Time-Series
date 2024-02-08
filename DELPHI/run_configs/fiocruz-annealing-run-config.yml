@@ -1,0 +1,5 @@
+arguments:
+  user: franky
+  optimizer: annealing
+  since100case: 1
+  website: 0

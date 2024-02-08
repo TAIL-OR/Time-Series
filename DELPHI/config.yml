@@ -1,0 +1,13 @@
+filepaths:
+  delphi_repo:
+    franky: /home/franky/Time-Series/DELPHI/
+  data_sandbox:
+    franky: /home/franky/Time-Series/DELPHI/data_sandbox/
+  danger_map:
+    franky: /home/franky/Time-Series/danger_map/
+  website:
+    omar: C:/Users/omars/Desktop/covid19_dimitris/website/
+    franky: 
+  logs:
+    franky: /home/franky/Time-Series/DELPHI/logs/
+    

@@ -1,0 +1,6 @@
+arguments:
+  user: franky
+  optimizer: tnc
+  since100case: 1
+  confidence_intervals: 0
+  website: 0

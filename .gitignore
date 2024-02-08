@@ -2,3 +2,4 @@
 /delphi
 *.html
 *.db
+__pycache__/
