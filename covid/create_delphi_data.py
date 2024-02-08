@@ -3,10 +3,36 @@ import pandas as pd
 from columns import data_cols
 from prettytable import from_db_cursor
 import sys
+import re
+
+def remover_acentos(texto):
+    substituicoes = {
+        'á': 'a', 'é': 'e', 'í': 'i', 'ó': 'o', 'ú': 'u',
+        'à': 'a', 'è': 'e', 'ì': 'i', 'ò': 'o', 'ù': 'u',
+        'â': 'a', 'ê': 'e', 'î': 'i', 'ô': 'o', 'û': 'u',
+        'ã': 'a', 'õ': 'o',
+        'ç': 'c',
+        'ñ': 'n',
+        'ü': 'u', 'ï': 'i', 'ë': 'e', 'ö': 'o', 'ä': 'a',
+        'Á': 'A', 'É': 'E', 'Í': 'I', 'Ó': 'O', 'Ú': 'U',
+        'À': 'A', 'È': 'E', 'Ì': 'I', 'Ò': 'O', 'Ù': 'U',
+        'Â': 'A', 'Ê': 'E', 'Î': 'I', 'Ô': 'O', 'Û': 'U',
+        'Ã': 'A', 'Õ': 'O',
+        'Ç': 'C',
+        'Ñ': 'N',
+        'Ü': 'U', 'Ï': 'I', 'Ë': 'E', 'Ö': 'O', 'Ä': 'A'
+    }
+
+    padrao = re.compile('|'.join(substituicoes.keys()))
+
+    resultado = padrao.sub(lambda m: substituicoes[m.group(0)], texto)
+
+    return resultado
 
 def clean_filename(name):
     # Remover caracteres especiais e substituir espaços por underscores
     cleaned_name = ''.join(c if c.isalnum() or c in [' ', '_'] else '_' for c in name)
+    cleaned_name = remover_acentos(cleaned_name)
     return cleaned_name.replace('/', ' ').replace('2', 'II').lower().replace(' ', '_')
 
 populations = pd.read_csv('../data/df_locs.csv')
@@ -60,7 +86,7 @@ for _, group_df in df.groupby(['country', 'province']):
 
         filename = f'../danger_map/processed/Global/Cases_{country_name}_{province_name}.csv'
         group_df['day_since100'] = group_df['day_since100'].apply(lambda x: int(x) if pd.notnull(x) else None)
-        group_df['province'] = group_df['province'].apply(lambda x: x.replace(' ', '_'))
+        group_df['province'] = group_df['province'].apply(lambda x: remover_acentos(x.replace(' ', '_')).lower() if pd.notnull(x) else None)
 
         group_df.to_csv(filename, index=False)
 
@@ -88,7 +114,7 @@ for ra in ras_in_pop:
     population_df = population_df.append({'Province': ra, 'pop2016': int(populations[populations['loc'] == ra]['population'].values[0])}, ignore_index=True)
 
 population_df['Continent'] = 'South America'
-population_df['Country'] = 'Brasilia'
+population_df['Country'] = 'brasilia'
 
 population_df.to_csv('../danger_map/processed/Global/Population_Global.csv', index=False)
 

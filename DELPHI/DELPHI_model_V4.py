@@ -161,6 +161,7 @@ def solve_and_predict_area(
             # Otherwise use established lower/upper bounds
             parameter_list = default_parameter_list
             bounds_params = default_bounds_params
+            
             start_date = pd.to_datetime(totalcases.loc[totalcases.day_since100 == 0, "date"].iloc[-1])
 
         if startT is not None:
