@@ -80,7 +80,7 @@ for _, group_df in df.groupby(['country', 'province']):
     country_name = clean_filename(country_name)
     province_name = clean_filename(province_name)
     
-    if province_name not in ras_to_exclude:
+    if province_name not in ras_to_exclude and group_df['day_since100'].max() > 0:
 
         ras.append(province_name)
 
@@ -90,7 +90,14 @@ for _, group_df in df.groupby(['country', 'province']):
 
         group_df.to_csv(filename, index=False)
 
-        model_state_df = model_state_df.append({'S': 207595100.84125105, 'E': 0.0002265492688374578, 'I': 0.00013604804959844592, 'UR': 0.590502482908539, 'DHR': 0.6973610108787711, 'DQR': 0.1254817776180646, 'UD': 7.571127412581456e-06, 'DHD': 2.839172779718048e-07, 'DQD': 1.6088645751735588e-06, 'R': 55315.15757741388, 'D': 2447.587454130462, 'TH': 1732.9247515883887, 'DVR': 0.00553596077726755, 'DVD': 7.09793194929512e-08, 'DD': 489.51749082609234, 'DT': 11552.831677255928, 'continent': 'South America', 'country': country_name, 'province': province_name}, ignore_index=True)
+        model_state_df = model_state_df.append({'S': populations[populations['loc'] == province_name]['pop2016'].values[0]
+                                                ,'E': 0.0002265492688374578, 'I': 0.00013604804959844592, 
+                                                'UR': 0.590502482908539, 'DHR': 0.6973610108787711, 'DQR': 0.1254817776180646, 
+                                                'UD': 7.571127412581456e-06, 'DHD': 2.839172779718048e-07, 'DQD': 1.6088645751735588e-06, 
+                                                'R': 55315.15757741388, 'D': 2447.587454130462, 'TH': 1732.9247515883887, 
+                                                'DVR': 0.00553596077726755, 'DVD': 7.09793194929512e-08, 
+                                                'DD': 489.51749082609234, 'DT': 11552.831677255928, 'continent': 'South America', 
+                                                'country': country_name, 'province': province_name}, ignore_index=True)
 
         if group_df['case_cnt'].max() < 100:
             ras_with_no_100cases.append(province_name)

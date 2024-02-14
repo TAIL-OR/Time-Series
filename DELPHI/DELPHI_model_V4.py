@@ -52,6 +52,9 @@ from DELPHI_params_V4 import (
     p_h,
     max_iter,
 )
+import warnings
+
+warnings.filterwarnings("ignore")
 
 ## Initializing Global Variables ##########################################################################
 with open("config.yml", "r") as ymlfile:
@@ -110,7 +113,6 @@ def solve_and_predict_area(
     country_sub = country.replace(" ", "_")
     province_sub = province.replace(" ", "_")
     print(f"starting to predict for {continent}, {country}, {province}")
-    print(f"filename: processed/Global/Cases_{country_sub}_{province_sub}.csv")
     if os.path.exists(PATH_TO_FOLDER_DANGER_MAP + f"processed/Global/Cases_{country_sub}_{province_sub}.csv"):
         totalcases = pd.read_csv(
             PATH_TO_FOLDER_DANGER_MAP + f"processed/Global/Cases_{country_sub}_{province_sub}.csv"
