@@ -156,6 +156,7 @@ def solve_and_predict_area(
                 bounds_params = tuple(bounds_params)
             else:
                 # Otherwise use established lower/upper bounds
+                print("Using default parameters ... ")
                 parameter_list = default_parameter_list
                 bounds_params = default_bounds_params
                 start_date = pd.to_datetime(totalcases.loc[totalcases.day_since100 == 0, "date"].iloc[-1])
@@ -492,7 +493,6 @@ if __name__ == "__main__":
     )
     n_cpu = psutil.cpu_count(logical = False) - 2
     logging.info(f"Number of CPUs found and used in this run: {n_cpu}")
-    print("Initial State", df_initial_states)
     
     list_tuples = [(
         r.continent, 
@@ -501,7 +501,6 @@ if __name__ == "__main__":
         r.values[:16] if not pd.isna(r.S) else None
         ) for _, r in df_initial_states.iterrows()]
     
-    print("List Tuples", list_tuples)
 
     # list_tuples = [t for t in list_tuples if t[1] in ["Germany", "Poland"]]
     # , "Poland", "Belgium", "France", "Greece"]]
@@ -512,7 +511,7 @@ if __name__ == "__main__":
             pool.map_async(solve_and_predict_area_partial, list_tuples).get(),
             total=len(list_tuples),
         ):
-            print(result_area, "Result Area")
+            
             if result_area is not None:
                 (
                     df_parameters_area,
@@ -534,7 +533,7 @@ if __name__ == "__main__":
     # Appending parameters, aggregations per country, per continent, and for the world
     # for predictions today & since 100
     today_date_str = "".join(str(datetime.now().date()).split("-"))
-    print(list_df_global_parameters,"List Global Params")
+    
     df_global_parameters = pd.concat(list_df_global_parameters).sort_values(
         ["Country", "Province"]
     ).reset_index(drop=True)
